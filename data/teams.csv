@@ -1,0 +1,1827 @@
+"school","latitude","longitude","id","mascot","color","alternateColor","address","latitude_missing","longitude_missing","mascot_missing"
+"Abilene Christian",32.472275,-99.710464,2000,"Wildcats","#592d82","#b1b3b3","Abilene Christian, Abilene, TX",0,0,0
+"Adams State",37.5780995,-105.7890452,2001,"Grizzlies","#null","#null","Adams State, Alamosa, CO",0,0,0
+"Adrian",-24.56667,19.23333,2562,"Saints","#null","#null","Adrian, NA, NA",0,0,0
+"Air Force",38.9969701,-104.8436165,2005,"Falcons","#004a7b","#ffffff","Air Force, Colorado Springs, CO",0,0,0
+"Akron",41.0725534,-81.5083408,2006,"Zips","#00285e","#84754e","Akron, Akron, OH",0,0,0
+"Akron Westfield Senior",21.50951,-104.89569,1001035,"Unknown","#null","#null","Akron Westfield Senior, NA, NA",0,0,1
+"Alabama",33.2082752,-87.5503836,333,"Crimson Tide","#9e1632","#ffffff","Alabama, Tuscaloosa, AL",0,0,0
+"Alabama A&M",34.7835363,-86.5784132,2010,"Bulldogs","#790000","#ffffff","Alabama A&M, Huntsville, AL",0,0,0
+"Alabama State",32.3642223,-86.2896902,2011,"Hornets","#e9a900","#0a0a0a","Alabama State, Montgomery, AL",0,0,0
+"Albany",42.65258,-73.75623,1001029,"Unknown","#null","#null","Albany, NA, NA",0,0,1
+"Albany State",21.802060111765,-104.855408283338,1001006,"Unknown","#null","#null","Albany State, NA, NA",0,0,1
+"Albany State GA",31.5782062,-84.1556809,2013,"Golden Rams","#null","#null","Albany State GA, Albany, GA",0,0,0
+"Albion",42.243097,-84.7530304,2790,"Britons","#null","#null","Albion, Albion, MI",0,0,0
+"Albright",40.335345,-75.9279495,2015,"Lions","#c82e48","#000000","Albright, Reading, PA",0,0,0
+"Alcorn State",31.873621,-91.13488,2016,"Braves","#4b0058","#46166a","Alcorn State, Lorman, MS",0,0,0
+"Alderson-Broaddus",39.1523198,-80.0403578,2017,"Battlers","#null","#null","Alderson-Broaddus, Philippi, WV",0,0,0
+"Alfred State",42.2542334,-77.7906062,3162,"Pioneers","#null","#null","Alfred State, Alfred, NY",0,0,0
+"Alfred University",42.2542334,-77.7906062,365,"Saxons","#null","#null","Alfred University, Alfred, NY",0,0,0
+"Allegheny",41.641445,-80.151449,2018,"Gators","#null","#null","Allegheny, Meadville, PA",0,0,0
+"Allen",34.0007493,-81.0343313,2019,"Yellow Jackets","#null","#null","Allen, Columbia, SC",0,0,0
+"Alma",43.37892,-84.659727,2800,"Scots","#null","#null","Alma, Alma, MI",0,0,0
+"American",22.499544424186,-105.362543090693,3193,"Unknown","#000000","#null","American, NA, NA",0,0,1
+"American International",42.1018764,-72.5886727,2022,"Yellow Jackets","#null","#null","American International, Springfield, MA",0,0,0
+"Amherst",42.3685658,-72.505714,7,"Mammoths","#3f1f69","#ffffff","Amherst, Amherst, MA",0,0,0
+"Anderson (IN)",40.1053196,-85.6802541,2023,"Ravens","#null","#null","Anderson (IN), Anderson, IN",0,0,0
+"Anderson (Sc)",34.487872859647,-82.645812987839,129469,"Trojans","#null","#null","Anderson (Sc), NA, NA",0,0,0
+"Angelo State",31.4649685,-100.4405094,2025,"Rams","#null","#null","Angelo State, San Angelo, TX",0,0,0
+"Anna Maria College",42.3122967,-71.934172,15,"Amcats","#null","#null","Anna Maria College, Paxton, MA",0,0,0
+"Apprentice School",36.9775016,-76.42977,3111,"Builders","#null","#null","Apprentice School, Newport News, VA",0,0,0
+"App State",36.2114267,-81.6854278,2026,"Mountaineers","#ffcc00","#222222","App State, Boone, NC",0,0,0
+"Arizona",32.2288054,-110.9488677,12,"Wildcats","#0c234b","#ab0520","Arizona, Tucson, AZ",0,0,0
+"Arizona State",33.4264471,-111.9325005,9,"Sun Devils","#8e0c3a","#ffc72c","Arizona State, Tempe, AZ",0,0,0
+"Arkansas",36.0680662,-94.1789534,8,"Razorbacks","#a41f35","#ffffff","Arkansas, Fayetteville, AR",0,0,0
+"Arkansas-Monticello",33.6293427,-91.7912327,2028,"Boll Weevils","#null","#null","Arkansas-Monticello, Monticello, AR",0,0,0
+"Arkansas-Pine Bluff",34.253327,-92.0214031,2029,"Golden Lions","#e0aa0f","#eaaa00","Arkansas-Pine Bluff, Pine Bluff, AR",0,0,0
+"Arkansas State",35.8488977,-90.6677436,2032,"Red Wolves","#e81018","#000000","Arkansas State, Jonesboro, AR",0,0,0
+"Arkansas Tech",35.2784173,-93.1337856,2033,"Wonder Boys","#null","#null","Arkansas Tech, Russellville, AR",0,0,0
+"Army",41.3874924,-73.9640891,349,"Black Knights","#ce9c00","#231f20","Army, West Point, NY",0,0,0
+"Ashland",40.8686147,-82.3175942,308,"Eagles","#null","#null","Ashland, Ashland, OH",0,0,0
+"Assumption",42.2625621,-71.8018877,2038,"Greyhounds","#null","#null","Assumption, Worcester, MA",0,0,0
+"Auburn",32.6025532,-85.4897479,2,"Tigers","#002b5c","#f26522","Auburn, Auburn, AL",0,0,0
+"Augsburg",44.9772995,-93.2654692,124,"Auggies","#74233d","#a9a9aa","Augsburg, Minneapolis, MN",0,0,0
+"Augustana",32.115449,-81.164287,1000999,"Unknown","#null","#null","Augustana, NA, NA",0,0,1
+"Augustana (IL)",41.4411786,-90.5766144,2042,"Vikings","#null","#null","Augustana (IL), Rock Island, IL",0,0,0
+"Augustana University (SD)",43.5488256,-96.7307737,2043,"Vikings","#null","#null","Augustana University (SD), Sioux Falls, SD",0,0,0
+"Aurora",41.7571701,-88.3147539,2044,"Spartans","#00549f","#000000","Aurora, Aurora, IL",0,0,0
+"Aurora University",21.6999593,-104.0880309,1001004,"Unknown","#null","#null","Aurora University, NA, NA",0,0,1
+"Austin",36.2452294,-101.8858689,2045,"'Roos","#null","#null","Austin, Sherman, TX",0,0,0
+"Austin Peay",36.5362559,-87.3525507,2046,"Governors","#8e0b0b","#null","Austin Peay, Clarksville, TN",0,0,0
+"Ave Maria University",21.6999593,-104.0880309,3178,"Gyrenes","#null","#null","Ave Maria University, NA, NA",0,0,0
+"Averett",36.5859718,-79.3950228,2047,"Cougars","#012853","#fdbb30","Averett, Danville, VA",0,0,0
+"Avila University",21.6999593,-104.0880309,2048,"Eagles","#null","#null","Avila University, NA, NA",0,0,0
+"Azusa Pacific",20.757002793207,-105.342010411748,2049,"Cougars","#000000","#null","Azusa Pacific, NA, NA",0,0,0
+"Bacone College",35.777082,-95.334046,487,"Warriors","#null","#null","Bacone College, NA, NA",0,0,0
+"Baker University",21.6999593,-104.0880309,488,"Baker","#null","#null","Baker University, NA, NA",0,0,0
+"Baldwin Wallace",41.3661614,-81.8543026,188,"Yellow Jackets","#null","#null","Baldwin Wallace, Berea, OH",0,0,0
+"Ball State",40.2159422,-85.4161148,2050,"Cardinals","#DA0000","#ffffff","Ball State, Muncie, IN",0,0,0
+"Barton C.C.",21.50951,-104.89569,1001010,"Unknown","#null","#null","Barton C.C., NA, NA",0,0,1
+"Bates",44.100351,-70.2147764,121,"Bobcats","#a51e36","#b2b3b2","Bates, Lewiston, ME",0,0,0
+"Baylor",31.5582015,-97.1156702,239,"Bears","#154734","#ffb81c","Baylor, Waco, TX",0,0,0
+"Becker College",40.898258,-85.495833,479,"Hawks","#000000","#null","Becker College, NA, NA",0,0,0
+"Beloit",42.5083272,-89.031784,266,"Buccaneers","#null","#null","Beloit, Beloit, WI",0,0,0
+"Bemidji State",47.4785418,-94.8907869,132,"Beavers","#null","#null","Bemidji State, Bemidji, MN",0,0,0
+"Benedict College",34.0007493,-81.0343313,490,"Tigers","#null","#null","Benedict College, Columbia, SC",0,0,0
+"Benedictine College",39.577011,-95.1133739,16111,"Ravens","#null","#null","Benedictine College, NA, NA",0,0,0
+"Benedictine University",41.801159,-88.0747687,2283,"Eagles","#null","#null","Benedictine University, Lisle, IL",0,0,0
+"Bentley",42.3756401,-71.2358004,2060,"Falcons","#null","#null","Bentley, Waltham, MA",0,0,0
+"Berry College",34.275093,-85.1832843,2757,"Vikings","#null","#null","Berry College, Mount Berry, GA",0,0,0
+"Bethany Co",21.50951,-104.89569,121695,"Bethany Co","#null","#null","Bethany Co, NA, NA",0,0,0
+"Bethany (KS)",-26.48333,17.15,492,"Bethany (Ks)","#null","#null","Bethany (KS), NA, NA",0,0,0
+"Bethany (WV)",40.205627,-80.5567384,2062,"Bison","#null","#null","Bethany (WV), Bethany, WV",0,0,0
+"Bethel Col",21.4791174,-104.9100176,121754,"Bethel Col","#null","#null","Bethel Col, NA, NA",0,0,0
+"Bethel (MN)",45.0761409,-93.1666945,2802,"Royals","#002d62","#b59859","Bethel (MN), Arden Hills, MN",0,0,0
+"Bethel University Tennessee",35.20314,-85.92109,2064,"Wildcats","#null","#null","Bethel University Tennessee, NA, NA",0,0,0
+"Bethune-Cookman",29.173466,-81.117511,2065,"Wildcats","#7b1831","#e9aa12","Bethune-Cookman, Daytona Beach, FL",0,0,0
+"Biddeford",43.6610277,-70.2548596,111675,"Nor'easters","#null","#null","Biddeford, Portland, ME",0,0,0
+"Birmingham-Southern",33.5206824,-86.8024326,3,"Panthers","#000000","#null","Birmingham-Southern, Birmingham, AL",0,0,0
+"Blackburn",22.559487,88.353135,2070,"Beavers","#000000","#null","Blackburn, NA, NA",0,0,0
+"Black Hills State",44.490817,-103.85937,2069,"Yellow Jackets","#null","#null","Black Hills State, Spearfish, SD",0,0,0
+"Blinn College",21.50951,-104.89569,1000959,"Unknown","#null","#null","Blinn College, NA, NA",0,0,1
+"Bloomsburg",41.0044958,-76.4537302,2071,"Huskies","#null","#null","Bloomsburg, Bloomsburg, PA",0,0,0
+"BLUEFIELD",15.5940536,73.8152289,495,"Ramblin' Rams","#null","#null","BLUEFIELD, NA, NA",0,0,0
+"Bluefield State",37.2698395,-81.2223195,124180,"Big Blues","#null","#null","Bluefield State, Bluefield, WV",0,0,0
+"Bluffton",40.8934459,-83.8917849,2074,"Beavers","#46166a","#ffffff","Bluffton, Bluffton, OH",0,0,0
+"Boise State",43.6028839,-116.1958882,68,"Broncos","#0033a0","#fa4616","Boise State, Boise, ID",0,0,0
+"Boston College",42.335104,-71.1664413,103,"Eagles","#8c2232","#dbcca6","Boston College, Chestnut Hill, MA",0,0,0
+"Bowdoin",43.9145244,-69.9653278,340,"Polar Bears","#ffffff","#000000","Bowdoin, Brunswick, ME",0,0,0
+"Bowie State",38.9424464,-76.7301718,2075,"Bulldogs","#null","#null","Bowie State, Bowie, MD",0,0,0
+"Bowling Green",41.3780114,-83.6225,189,"Falcons","#2b1000","#492000","Bowling Green, Bowling Green, OH",0,0,0
+"Brevard College",35.2334472,-82.7342919,2913,"Tornados","#null","#null","Brevard College, Brevard, NC",0,0,0
+"Bridgewater State",41.9903787,-70.9750426,18,"Bears","#bf2f38","#000000","Bridgewater State, Bridgewater, MA",0,0,0
+"Bridgewater (VA)",38.3820655,-78.9766975,2079,"Eagles","#990022","#8d724b","Bridgewater (VA), Bridgewater, VA",0,0,0
+"British Columbia",30.473066,74.5179716,2080,"British Col","#null","#null","British Columbia, NA, NA",0,0,0
+"Brockport",43.213671,-77.93918,2781,"Golden Eagles","#null","#null","Brockport, Brockport, NY",0,0,0
+"Brown",41.842114,-71.3939416,225,"Bears","#411e09","#949300","Brown, Providence, RI",0,0,0
+"Bryant",41.924206,-71.5385124,2803,"Bulldogs","#null","#9f8343","Bryant, Smithfield, RI",0,0,0
+"Bucknell",40.9519411,-76.884752,2083,"Bison","#000060","#00316e","Bucknell, Lewisburg, PA",0,0,0
+"Buena Vista",42.6452817,-95.1992726,63,"Beavers","#feba12","#001440","Buena Vista, Storm Lake, IA",0,0,0
+"Buffalo",42.9991334,-78.7775113,2084,"Bulls","#041A9B","#ebebeb","Buffalo, Amherst, NY",0,0,0
+"Buffalo State",42.8867166,-78.8783922,2085,"Bengals","#null","#null","Buffalo State, Buffalo, NY",0,0,0
+"Butler",39.8444694,-86.1659242,2086,"Bulldogs","#0d1361","#00a3e0","Butler, Indianapolis, IN",0,0,0
+"Butler C.C.",21.50951,-104.89569,1000947,"Unknown","#null","#null","Butler C.C., NA, NA",0,0,1
+"Butler County (KS)",37.781277541025,-96.839079116011,1000965,"Unknown","#null","#null","Butler County (KS), NA, NA",0,0,1
+"BYU",40.2575347,-111.6545247,252,"Cougars","#003da5","#ffffff","BYU, Provo, UT",0,0,0
+"California",37.8710434,-122.2507729,25,"Golden Bears","#031522","#ffc423","California, Berkeley, CA",0,0,0
+"California Lutheran University",34.1705609,-118.8375937,2094,"Kingsmen","#3b2361","#fec223","California Lutheran University, Thousand Oaks, CA",0,0,0
+"California, Pa.",34.036215,-118.255758,1000987,"Unknown","#null","#null","California, Pa., NA, NA",0,0,1
+"Cal Poly",35.2984123,-120.6650005,13,"Mustangs","#1E4D2B","#eed897","Cal Poly, San Luis Obispo, CA",0,0,0
+"Calvin University",21.6999593,-104.0880309,129738,"Knights","#null","#null","Calvin University, NA, NA",0,0,0
+"Campbell",35.4047689,-78.7424842,2097,"Fighting Camels","#null","#null","Campbell, Buies Creek, NC",0,0,0
+"Campbellsville",43.78346,-65.48213,1001042,"Unknown","#null","#null","Campbellsville, NA, NA",0,0,1
+"Campbellsville University",37.3442226,-85.3487576,2098,"Tigers","#null","#null","Campbellsville University, NA, NA",0,0,0
+"Capital",39.9692378,-82.936864,424,"Comets","#null","#null","Capital, Bexley, OH",0,0,0
+"Carleton",44.4582041,-93.161159,2101,"Knights","#173a79","#edac09","Carleton, Northfield, MN",0,0,0
+"Carnegie Mellon",40.4416941,-79.9900861,2102,"Tartans","#null","#null","Carnegie Mellon, Pittsburgh, PA",0,0,0
+"Carroll College",27.270818,-82.488388,1001008,"Unknown","#null","#null","Carroll College, NA, NA",0,0,1
+"Carroll University (WI)",43.0053145,-88.2473643015325,32,"Pioneers","#null","#null","Carroll University (WI), Waukesha, WI",0,0,0
+"Carson-Newman College",36.122311,-83.4923961,2105,"Eagles","#f2682a","#0c233f","Carson-Newman College, Jefferson City, TN",0,0,0
+"Carthage",42.5846773,-87.8212263,2106,"Firebirds","#null","#null","Carthage, Kenosha, WI",0,0,0
+"Case Western Reserve",41.513447,-81.603634,2963,"Spartans","#null","#null","Case Western Reserve, Cleveland, OH",0,0,0
+"Castleton",43.6111275,-73.1807089,293,"Spartans","#null","#null","Castleton, Castleton, VT",0,0,0
+"Catawba",35.6709727,-80.4742261,2107,"Indians","#0c233f","#cb152f","Catawba, Salisbury, NC",0,0,0
+"Catholic",38.8950368,-77.0365427,2108,"Cardinals","#null","#null","Catholic, Washington, DC",0,0,0
+"CENTENARY",21.0779292,-104.5748582,101442,"Gentlemen","#null","#null","CENTENARY, NA, NA",0,0,0
+"Central Arkansas",35.0802599,-92.460045,2110,"Bears","#a7a9ac","#8e959a","Central Arkansas, Conway, AR",0,0,0
+"Central College",41.4073138,-92.9174074,2964,"Dutch","#ea0029","#c8c8c8","Central College, Pella, IA",0,0,0
+"Central Connecticut",41.6950591,-72.7616197,2115,"Blue Devils","#1B49A2","#d1d5d8","Central Connecticut, New Britain, CT",0,0,0
+"Central Methodist",22.5619751,88.3640103,2860,"Eagles","#null","#null","Central Methodist, NA, NA",0,0,0
+"Central Michigan",43.5777313,-84.7709904,2117,"Chippewas","#6a0032","#ffc82e","Central Michigan, Mount Pleasant, MI",0,0,0
+"Central Missouri",38.7624373,-93.7409596,2118,"Mules","#null","#null","Central Missouri, Warrensburg, MO",0,0,0
+"Central Missouri State",37.46505,-90.34678,1001025,"Unknown","#null","#null","Central Missouri State, NA, NA",0,0,1
+"Central Oklahoma",35.6571367,-97.4649038,2122,"Bronchos","#null","#null","Central Oklahoma, Edmond, OK",0,0,0
+"Central State (OH)",39.6847822,-83.9296526,2119,"Marauders","#null","#null","Central State (OH), Xenia, OH",0,0,0
+"Central Washington",46.9970635,-120.545122,2120,"Wildcats","#null","#null","Central Washington, Ellensburg, WA",0,0,0
+"Centre College Kentucky",37.6456488,-84.7721823,2121,"Colonels","#null","#null","Centre College Kentucky, Danville, KY",0,0,0
+"Cerritos College",21.78145,-105.27163,1000989,"Unknown","#null","#null","Cerritos College, NA, NA",0,0,1
+"Chadron St",42.8309807,-103.0003729,2123,"Eagles","#null","#null","Chadron St, Chadron, NE",0,0,0
+"Chapman",33.7500378,-117.8704931,411,"Panthers","#ab1d38","#000000","Chapman, Orange, CA",0,0,0
+"Charleston Southern",32.9810239,-80.0659664,2127,"Buccaneers","#2e3192","#ded090","Charleston Southern, North Charleston, SC",0,0,0
+"Charlotte",35.3105033,-80.7401194,2429,"49ers","#046A38","#B9975B","Charlotte, Charlotte, NC",0,0,0
+"Chattanooga",35.0363792,-85.3158835,236,"Mocs","#00386b","#dca71d","Chattanooga, Chattanooga, TN",0,0,0
+"Cheyney",21.50951,-104.89569,2129,"Wolves","#000000","#null","Cheyney, NA, NA",0,0,0
+"Chicago",41.8755616,-87.6244212,80,"Maroons","#null","#null","Chicago, Chicago, IL",0,0,0
+"Christopher Newport",36.9775016,-76.42977,3112,"Captains","#null","#null","Christopher Newport, Newport News, VA",0,0,0
+"Cincinnati",39.1312495,-84.5161913,2132,"Bearcats","#E00122","#000000","Cincinnati, Cincinnati, OH",0,0,0
+"Cincinnati Christian",39.1051443,-84.5170624,110255,"Eagles","#null","#null","Cincinnati Christian, NA, NA",0,0,0
+"Cisco College",19.969579,73.755679,1000933,"Unknown","#null","#null","Cisco College, NA, NA",0,0,1
+"City College of San Francisco",22.287101,-104.499666,1000936,"Unknown","#null","#null","City College of San Francisco, NA, NA",0,0,1
+"Claremont-Mudd-Scripps College",34.0966764,-117.7197785,17,"Stags","#981a31","#feba15","Claremont-Mudd-Scripps College, Claremont, CA",0,0,0
+"Clarion",41.2148975,-79.3857047,2134,"Golden Eagles","#null","#null","Clarion, Clarion, PA",0,0,0
+"Clark Atlanta",33.7489924,-84.3902644,2805,"Panthers","#null","#null","Clark Atlanta, Atlanta, GA",0,0,0
+"Clemson",34.6787737,-82.8432428,228,"Tigers","#f56600","#522d80","Clemson, Clemson, SC",0,0,0
+"Coastal Carolina",33.7928506,-79.0166946,324,"Chanticleers","#007073","#876447","Coastal Carolina, Conway, SC",0,0,0
+"Coast Guard",41.3556187,-72.0997804,2557,"Bears","#null","#null","Coast Guard, New London, CT",0,0,0
+"Coe College",41.9758872,-91.6704053,2141,"Kohawks","#881922","#c8934a","Coe College, Cedar Rapids, IA",0,0,0
+"Coffeyville C.C.",21.50951,-104.89569,1000991,"Unknown","#null","#null","Coffeyville C.C., NA, NA",0,0,1
+"Colby College",44.5520105,-69.6317121,33,"White Mules","#012778","#ffffff","Colby College, Waterville, ME",0,0,0
+"Cole College",40.424429,-86.92364,3210,"Jaguars","#null","#null","Cole College, NA, NA",0,0,0
+"Colgate",42.8168991,-75.5452721,2142,"Raiders","#821019","#ffffff","Colgate, Hamilton, NY",0,0,0
+"College of Charleston",21.50951,-104.89569,1000960,"Unknown","#null","#null","College of Charleston, NA, NA",0,0,1
+"College of Idaho",21.50951,-104.89569,108382,"Yotes","#null","#null","College of Idaho, NA, NA",0,0,0
+"College Of New Jersey",40.2688105,-74.8006895,2442,"Lions","#154c7d","#fbbc20","College Of New Jersey, Ewing, NJ",0,0,0
+"College of San Mateo",21.4807557,-105.0932095,1001038,"Unknown","#null","#null","College of San Mateo, NA, NA",0,0,1
+"College of the Canyons",21.50951,-104.89569,1000952,"Unknown","#null","#null","College of the Canyons, NA, NA",0,0,1
+"Colorado",40.0094746,-105.266905,38,"Buffaloes","#CFB87C","#000000","Colorado, Boulder, CO",0,0,0
+"Colorado College",38.848049,-104.822725,2144,"Tigers","#000000","#null","Colorado College, NA, NA",0,0,0
+"Colorado Mesa",39.063956,-108.5507317,11,"Mavericks","#null","#null","Colorado Mesa, Grand Junction, CO",0,0,0
+"Colorado School Of Mines",39.7546349,-105.2205809,2146,"Orediggers","#null","#null","Colorado School Of Mines, Golden, CO",0,0,0
+"Colorado State",40.570015,-105.088435,36,"Rams","#1e4d2b","#c8c372","Colorado State, Fort Collins, CO",0,0,0
+"Columbia",40.8732697,-73.9164594,171,"Lions","#174785","#004b85","Columbia, Manhattan, NY",0,0,0
+"Columbus State",21.50951,-104.89569,127946,"Colust","#null","#null","Columbus State, NA, NA",0,0,0
+"Concordia (AL)",15.89139,-92.94889,3099,"Hornets","#null","#null","Concordia (AL), NA, NA",0,0,0
+"Concordia-Michigan",15.89139,-92.94889,2985,"Cardinals","#null","#null","Concordia-Michigan, NA, NA",0,0,0
+"Concordia Moorhead",46.8739081,-96.7538674,2152,"Cobbers","#701d45","#ffffff","Concordia Moorhead, Moorhead, MN",0,0,0
+"Concordia University",21.6999593,-104.0880309,1000978,"Unknown","#null","#null","Concordia University, NA, NA",0,0,1
+"Concordia University Chicago",41.8978091,-87.8139483,2151,"Cougars","#572a31","#ffc72e","Concordia University Chicago, River Forest, IL",0,0,0
+"Concordia University Nebraska",21.50951,-104.89569,507,"Clippers","#null","#null","Concordia University Nebraska, NA, NA",0,0,0
+"Concordia University St Paul",44.9497487,-93.0931028,3066,"Golden Bears","#null","#null","Concordia University St Paul, Saint Paul, MN",0,0,0
+"Concordia-Wisconsin",43.2219088,-87.9822969,409,"Falcons","#245699","#b1b3b3","Concordia-Wisconsin, Mequon, WI",0,0,0
+"Concord University",37.366328,-81.1026607,2148,"Mountain Lions","#null","#null","Concord University, Princeton, WV",0,0,0
+"Copiah-Lincoln C.C.",21.50951,-104.89569,1000985,"Unknown","#null","#null","Copiah-Lincoln C.C., NA, NA",0,0,1
+"Cornell",42.4439016,-76.4785398,172,"Big Red","#d60027","#101010","Cornell, Ithaca, NY",0,0,0
+"Cornell College (IA)",41.9222443,-91.4171209,2155,"Rams","#null","#null","Cornell College (IA), Mount Vernon, IA",0,0,0
+"Cortland",41.2446453,-73.9259559,2782,"Red Dragons","#null","#null","Cortland, Cortland, NY",0,0,0
+"Crown College",44.885961756199,-93.74068723526,509,"Polars","#5c2f92","#ffffff","Crown College, Saint Bonifacius, MN",0,0,0
+"CSU Pueblo",38.2544472,-104.609141,2570,"Thunderwolves","#null","#null","CSU Pueblo, Pueblo, CO",0,0,0
+"CSU-Pueblo",21.50951,-104.89569,1001011,"Unknown","#null","#null","CSU-Pueblo, NA, NA",0,0,1
+"Culver-Stockton College",21.50951,-104.89569,510,"Wildcats","#null","#null","Culver-Stockton College, NA, NA",0,0,0
+"Cumberland (KY)",36.977942,-82.988643,511,"Indians","#null","#null","Cumberland (KY), NA, NA",0,0,0
+"Cumberland (TN)",36.39339,-87.63641,2161,"Bulldogs","#null","#null","Cumberland (TN), NA, NA",0,0,0
+"Curry College",42.2501425,-71.065573,40,"Colonels","#65448b","#ffffff","Curry College, Milton, MA",0,0,0
+"Dakota State University",21.6999593,-104.0880309,512,"Dakota St","#null","#null","Dakota State University, NA, NA",0,0,0
+"Dakota Wesleyan",35.362851,-84.559377,513,"Dakota Wesleyan","#null","#null","Dakota Wesleyan, NA, NA",0,0,0
+"Dartmouth",43.701302,-72.2842781,159,"Big Green","#005730","#000000","Dartmouth, Hanover, NH",0,0,0
+"Davenport",37.763382,-90.7729061,110254,"Panthers","#null","#null","Davenport, Caledonia, MI",0,0,0
+"Davidson",35.4995744,-80.8428419,2166,"Wildcats","#null","#e51837","Davidson, Davidson, NC",0,0,0
+"Dayton",39.7369239,-84.1981068,2168,"Flyers","#004B8D","#ffffff","Dayton, Dayton, OH",0,0,0
+"Dean College",34.440962,-87.8339064,110438,"Bulldogs","#null","#null","Dean College, Franklin, MA",0,0,0
+"De Anza College",21.50951,-104.89569,1000986,"Unknown","#null","#null","De Anza College, NA, NA",0,0,1
+"Defiance College",41.2844933,-84.3557802,190,"Yellow Jackets","#4e2d8a","#ded27c","Defiance College, Defiance, OH",0,0,0
+"Delaware",39.6617428,-75.7488224,48,"Fightin' Blue Hens","#033594","#e8ce31","Delaware, Newark, DE",0,0,0
+"Delaware State",39.189375,-75.5433185,2169,"Hornets","#FF3630","#009cdd","Delaware State, Dover, DE",0,0,0
+"Delaware Valley",40.30815835,-75.2164370939226,2808,"Aggies","#004c23","#e6b71b","Delaware Valley, New Britain, PA",0,0,0
+"Delta State",33.7440023,-90.7248187,2170,"Statesmen","#00753e","#000000","Delta State, Cleveland, MS",0,0,0
+"Denison University",40.0681192,-82.5196037,2171,"Big Red","#null","#null","Denison University, Granville, OH",0,0,0
+"Depauw",39.6444898,-86.8647316,83,"Tigers","#null","#null","Depauw, Greencastle, IN",0,0,0
+"Des Moines",21.50951,-104.89569,2254,"Vikings","#null","#null","Des Moines, NA, NA",0,0,0
+"Dickinson (PA)",40.201499,-77.1890783,2175,"Red Devils","#ed192d","#000000","Dickinson (PA), Carlisle, PA",0,0,0
+"Dickinson State University",21.6999593,-104.0880309,316,"Blue Hawks","#null","#null","Dickinson State University, NA, NA",0,0,0
+"Doane College",21.50951,-104.89569,5829,"Doane","#null","#null","Doane College, NA, NA",0,0,0
+"Drake",41.605,-93.655,2181,"Bulldogs","#005596","#bec0c2","Drake, Des Moines, IA",0,0,0
+"Dubuque",42.5006243,-90.6647985,49,"Spartans","#null","#null","Dubuque, Dubuque, IA",0,0,0
+"Duke",35.9953688,-78.9417564,150,"Blue Devils","#013088","#ffffff","Duke, Durham, NC",0,0,0
+"Duquesne",40.4355808,-79.9900263,2184,"Dukes","#002D62","#b90b2e","Duquesne, Pittsburgh, PA",0,0,0
+"Earlham",21.50951,-104.89569,2189,"Quakers","#000000","#null","Earlham, NA, NA",0,0,0
+"East",-26.573750601367,18.156398684153,3146,"All-Stars","#000000","#null","East, NA, NA",0,0,0
+"East Carolina",35.5968486,-77.364564,151,"Pirates","#4b1869","#f0907b","East Carolina, Greenville, NC",0,0,0
+"East Central C.C.",20.732169919988,-105.300090025986,1001039,"Unknown","#null","#null","East Central C.C., NA, NA",0,0,1
+"East Central (OK)",34.7743383,-96.6783651,2191,"Tigers","#null","#null","East Central (OK), Ada, OK",0,0,0
+"Eastern Illinois",39.4804965,-88.1811618,2197,"Panthers","#null","#bebab9","Eastern Illinois, Charleston, IL",0,0,0
+"Eastern Kentucky",37.7344109,-84.2972854,2198,"Colonels","#660819","#f0f0f0","Eastern Kentucky, Richmond, KY",0,0,0
+"Eastern Michigan",42.256126,-83.647285,2199,"Eagles","#00331b","#f0f0f0","Eastern Michigan, Ypsilanti, MI",0,0,0
+"Eastern New Mexico",34.1861922,-103.334397,2201,"Greyhounds","#null","#null","Eastern New Mexico, Portales, NM",0,0,0
+"Eastern Oregon",36.187288,-115.114019,2202,"Eastern Oregon","#null","#null","Eastern Oregon, NA, NA",0,0,0
+"Eastern University",21.6999593,-104.0880309,127954,"Eagles","#null","#null","Eastern University, NA, NA",0,0,0
+"Eastern Washington",47.49278,-117.587353,331,"Eagles","#a10022","#abb4bc","Eastern Washington, Cheney, WA",0,0,0
+"East Mississippi C.C.",21.50951,-104.89569,1000997,"Unknown","#null","#null","East Mississippi C.C., NA, NA",0,0,1
+"East Stroudsburg University",40.9995386,-75.1812913,2188,"Warriors","#null","#null","East Stroudsburg University, East Stroudsburg, PA",0,0,0
+"East Tennessee State",36.299084,-82.374117,2193,"Buccaneers","#002d61","#ffc423","East Tennessee State, Johnson City, TN",0,0,0
+"East Texas A&M",33.2442615,-95.9006353,2837,"Lions","#null","#null","East Texas A&M, Commerce, TX",0,0,0
+"East Texas Baptist University",32.5447756,-94.3661004,2194,"Tigers","#002b44","#e0ad13","East Texas Baptist University, Marshall, TX",0,0,0
+"Edinboro University",21.6999593,-104.0880309,1001018,"Unknown","#null","#null","Edinboro University, NA, NA",0,0,1
+"Edward Waters",30.3321838,-81.655651,2206,"Tigers","#null","#null","Edward Waters, Jacksonville, FL",0,0,0
+"El Camino College",21.50951,-104.89569,1001017,"Unknown","#null","#null","El Camino College, NA, NA",0,0,1
+"Elgin",27.047001,88.267419,122775,"Eagles","#null","#null","Elgin, NA, NA",0,0,0
+"Elizabeth City State",36.2956836,-76.2247697,2207,"Vikings","#null","#null","Elizabeth City State, Elizabeth City, NC",0,0,0
+"Elmhurst",41.8994745,-87.9403418,72,"Bluejays","#null","#null","Elmhurst, Elmhurst, IL",0,0,0
+"Elon",36.1101269,-79.5079979,2210,"Phoenix","#020303","#b59a57","Elon, Elon, NC",0,0,0
+"Emory & Henry College",37.3065238,-80.0267067,2213,"Wasps","#1e376d","#daad27","Emory & Henry College, Meadowview, VA",0,0,0
+"Emporia State University",38.4040054,-96.181623,2214,"Hornets","#null","#null","Emporia State University, Emporia, KS",0,0,0
+"Endicott College",42.5584284,-70.8800491,452,"Gulls","#null","#null","Endicott College, Beverly, MA",0,0,0
+"Erie",22.6406,-105.3244,3236,"Kats","#null","#null","Erie, NA, NA",0,0,0
+"ERSKINE",34.1954001,-82.1617883,101784,"Flying Fleet","#null","#null","ERSKINE, Greenwood, SC",0,0,0
+"Erskine College",34.332087,-82.39095,1000992,"Unknown","#null","#null","Erskine College, NA, NA",0,0,1
+"Eureka College",40.7213015,-89.2726708,101,"Red Devils","#960a2c","#c09a05","Eureka College, Eureka, IL",0,0,0
+"Evangel University",21.6999593,-104.0880309,2865,"Crusaders","#null","#null","Evangel University, NA, NA",0,0,0
+"Fairmont State",39.4850848,-80.1425781,2986,"Falcons","#null","#null","Fairmont State, Fairmont, WV",0,0,0
+"Faulkner University",21.6999593,-104.0880309,2219,"Eagles","#null","#null","Faulkner University, NA, NA",0,0,0
+"Fayetteville State",35.0525759,-78.878292,2220,"Broncos","#null","#null","Fayetteville State, Fayetteville, NC",0,0,0
+"FDU-Florham",40.7598227,-74.417097,2221,"Devils","#003f87","#a32638","FDU-Florham, Madison, NJ",0,0,0
+"Ferris State",43.698078,-85.483656,2222,"Bulldogs","#null","#null","Ferris State, Big Rapids, MI",0,0,0
+"Ferrum",36.937857,-80.0142499220802,366,"Panthers","#null","#c0a656","Ferrum, Ferrum, VA",0,0,0
+"Findlay",41.0413873,-83.6503982,2224,"Oilers","#null","#null","Findlay, Findlay, OH",0,0,0
+"Fitchburg State",42.5903661,-71.8119837,114,"Falcons","#024d36","#fbbf16","Fitchburg State, Fitchburg, MA",0,0,0
+"Florida",29.6499357,-82.3485788,57,"Gators","#0021a5","#fa4616","Florida, Gainesville, FL",0,0,0
+"Florida A&M",30.4261632,-84.2923095,50,"Rattlers","#F89728","#00843d","Florida A&M, Tallahassee, FL",0,0,0
+"Florida Atlantic",26.3763763,-80.1015759,2226,"Owls","#00447c","#d31245","Florida Atlantic, Boca Raton, FL",0,0,0
+"Florida International",25.7525014,-80.3778912,2229,"Panthers","#001538","#c5960c","Florida International, Miami, FL",0,0,0
+"Florida Memorial University",21.6999593,-104.0880309,125762,"Lions","#null","#null","Florida Memorial University, NA, NA",0,0,0
+"Florida State",30.4381692,-84.3044032,52,"Seminoles","#782f40","#ceb888","Florida State, Tallahassee, FL",0,0,0
+"Florida Tech",28.08524,-80.627345,53,"Panthers","#000000","#null","Florida Tech, NA, NA",0,0,0
+"Fordham",40.8466508,-73.8785937,2230,"Rams","#830032","#909090","Fordham, Bronx, NY",0,0,0
+"Fork Union",22.506412837534,-105.35638585366,109423,"Blue Devils","#null","#null","Fork Union, NA, NA",0,0,0
+"Fort Hays State",38.8791783,-99.3267702,2231,"Tigers","#null","#null","Fort Hays State, Hays, KS",0,0,0
+"Fort Lewis",37.2395367,-107.821581791693,2237,"Skyhawks","#null","#null","Fort Lewis, Durango, CO",0,0,0
+"Fort Valley State",32.5537585,-83.8874084,2232,"Wildcats","#f9bd0a","#2a307f","Fort Valley State, Fort Valley, GA",0,0,0
+"Framingham State",42.3095704,-71.4413097,2967,"Rams","#null","#null","Framingham State, Framingham, MA",0,0,0
+"Franklin",33.704156,-117.75109,2233,"Grizzlies","#1b295b","#fdd106","Franklin, Franklin, IN",0,0,0
+"Franklin College",39.4766735,-86.0421405,1001005,"Unknown","#null","#null","Franklin College, NA, NA",0,0,1
+"Franklin & Marshall",40.03813,-76.3056686,2234,"Diplomats","#25377d","#6cb3e9","Franklin & Marshall, Lancaster, PA",0,0,0
+"Franklin Pierce",47.1568,-122.4078,112334,"Ravens","#null","#null","Franklin Pierce, NA, NA",0,0,0
+"Fresno State",36.8143527,-119.7580092,278,"Bulldogs","#db0032","#002e6d","Fresno State, Fresno, CA",0,0,0
+"Friends University",21.6999593,-104.0880309,527,"Friends","#null","#null","Friends University, NA, NA",0,0,0
+"Frostburg State",39.6581425,-78.928357,341,"Bobcats","#null","#null","Frostburg State, Frostburg, MD",0,0,0
+"Furman",34.920192,-82.4370917,231,"Paladins","#582c83","#ffffff","Furman, Greenville, SC",0,0,0
+"Gallaudet",38.8950368,-77.0365427,417,"Bison","#null","#null","Gallaudet, Washington, DC",0,0,0
+"Gannon",42.1294712,-80.0852695,367,"Golden Knights","#null","#null","Gannon, Erie, PA",0,0,0
+"Garden City C.C.",21.50951,-104.89569,1000957,"Unknown","#null","#null","Garden City C.C. , NA, NA",0,0,1
+"Gardner-Webb",35.2457593,-81.6739887,2241,"Runnin' Bulldogs","#c12535","#909090","Gardner-Webb, Boiling Springs, NC",0,0,0
+"Geneva",40.7520097,-80.3192295,2242,"Golden Tornadoes","#null","#null","Geneva, Beaver Falls, PA",0,0,0
+"George Mason University",21.6999593,-104.0880309,2244,"Patriots","#016600","#ecb010","George Mason University, NA, NA",0,0,0
+"Georgetown",38.9080248,-77.0753144,46,"Hoyas","#110E42","#001c58","Georgetown, Washington, DC",0,0,0
+"Georgetown College Kentucky",38.2099574,-84.5597444,2245,"Tigers","#null","#null","Georgetown College Kentucky, NA, NA",0,0,0
+"Georgia",33.9498197,-83.3733813,61,"Bulldogs","#ba0c2f","#ffffff","Georgia, Athens, GA",0,0,0
+"Georgia Military College Prep",21.50951,-104.89569,1001045,"Unknown","#null","#null","Georgia Military College Prep, NA, NA",0,0,1
+"Georgia Southern",32.4122471,-81.7849296,290,"Eagles","#003775","#f0f0f0","Georgia Southern, Statesboro, GA",0,0,0
+"Georgia State",33.735267,-84.389949,2247,"Panthers","#1e539a","#ebebeb","Georgia State, Atlanta, GA",0,0,0
+"Georgia Tech",33.7724449,-84.3928054,59,"Yellow Jackets","#003057","#b3a369","Georgia Tech, Atlanta, GA",0,0,0
+"Gettysburg",39.8308973,-77.231012,2248,"Bullets","#null","#null","Gettysburg, Gettysburg, PA",0,0,0
+"Glenville State",38.9342573,-80.8376033,2249,"Pioneers","#null","#null","Glenville State, Glenville, WV",0,0,0
+"Glenville State",38.934889,-80.833252,1001027,"Unknown","#null","#null","Glenville State , NA, NA",0,0,1
+"Graceland University",21.6999593,-104.0880309,530,"Graceland","#null","#null","Graceland University, NA, NA",0,0,0
+"Grambling",32.5258665,-92.7146412,2755,"Tigers","#ee8601","#ffd10a","Grambling, Grambling, LA",0,0,0
+"Grand Valley State University",42.968996,-85.894735,125,"Lakers","#null","#null","Grand Valley State University, Allendale, MI",0,0,0
+"Greeneville",36.1631575,-82.8309861,2839,"Pioneers","#f2682a","#000000","Greeneville, Greeneville, TN",0,0,0
+"Greensboro College",36.0726355,-79.7919754,2256,"Pride","#null","#null","Greensboro College, Greensboro, NC",0,0,0
+"Greenville",38.8922687,-89.4131356,2257,"Panthers","#f36917","#000000","Greenville, Greenville, IL",0,0,0
+"Grinnell",41.7430237,-92.7239637,65,"Pioneers","#null","#null","Grinnell, Grinnell, IA",0,0,0
+"Grove City College",41.1579008,-80.0886631,146,"Wolverines","#null","#null","Grove City College, Grove City, PA",0,0,0
+"Guilford College",36.0726355,-79.7919754,2258,"Quakers","#910028","#dcddde","Guilford College, Greensboro, NC",0,0,0
+"Gustavus Adolphus",44.3238384,-93.9585295,2968,"Golden Gusties","#null","#ebb700","Gustavus Adolphus, Saint Peter, MN",0,0,0
+"Hamilton",44.7278943,-73.6686982,348,"Continentals","#062f87","#d5b98b","Hamilton, Clinton, NY",0,0,0
+"Hamline University",44.9497487,-93.0931028,162,"Pipers","#98012e","#ffffff","Hamline University, Saint Paul, MN",0,0,0
+"Hampden-Sydney",37.3024713,-78.3923813,297,"Tigers","#900028","#a8b1b7","Hampden-Sydney, Farmville, VA",0,0,0
+"Hampton",37.0200894,-76.3331555,2261,"Pirates","#0067AC","#null","Hampton, Hampton, VA",0,0,0
+"Hanover College",38.7142263,-85.4735707,2262,"Panthers","#0b486d","#990000","Hanover College, Hanover, IN",0,0,0
+"Harding University",35.9018987,-92.7098744,2264,"Bisons","#null","#null","Harding University, Searcy, AR",0,0,0
+"Hardin-Simmons",32.44645,-99.7475905,2810,"Cowboys","#5b2d83","#fec52f","Hardin-Simmons, Abilene, TX",0,0,0
+"Hartwick",42.453492,-75.0629531,173,"Hawks","#null","#null","Hartwick, Oneonta, NY",0,0,0
+"Harvard",42.366704,-71.1267511,108,"Crimson","#990000","#dbdbdb","Harvard, Boston, MA",0,0,0
+"Haskell Indian Nations Univ",21.50951,-104.89569,535,"Jayhawks","#null","#null","Haskell Indian Nations Univ, NA, NA",0,0,0
+"Hawai'i",21.294294,-157.819338,62,"Rainbow Warriors","#003420","#ffffff","Hawai'i, Honolulu, HI",0,0,0
+"Heidelberg",41.114485,-83.1779537,191,"Student Princes","#null","#null","Heidelberg, Tiffin, OH",0,0,0
+"Henderson State",34.1209292,-93.053784,2271,"Reddies","#null","#null","Henderson State, Arkadelphia, AR",0,0,0
+"Hendrix College",35.2521996,-92.6888936,418,"Warriors","#null","#null","Hendrix College, Conway, AR",0,0,0
+"Highland C.C.",21.50951,-104.89569,1001016,"Unknown","#null","#null","Highland C.C., NA, NA",0,0,1
+"Hilbert College",42.754553,-78.820833,125974,"Hawks","#null","#null","Hilbert College, NA, NA",0,0,0
+"Hillsdale",41.8779105,-84.5984396,2273,"Chargers","#null","#null","Hillsdale, Hillsdale, MI",0,0,0
+"Hillsdale College",41.932919,-84.633613,1000984,"Unknown","#null","#null","Hillsdale College, NA, NA",0,0,1
+"Hinds C.C.",21.50951,-104.89569,1000979,"Unknown","#null","#null","Hinds C.C., NA, NA",0,0,1
+"Hiram College",41.312555,-81.14371,2274,"Terriers","#null","#null","Hiram College, Hiram, OH",0,0,0
+"Hobart College",42.8690271,-76.9786122,174,"Statesmen","#null","#null","Hobart College, Geneva, NY",0,0,0
+"Holland College",46.239203,-63.121762,108354,"Hurricanes","#null","#null","Holland College, NA, NA",0,0,0
+"Holmes C.C.",21.50951,-104.89569,1000982,"Unknown","#null","#null","Holmes C.C., NA, NA",0,0,1
+"Holy Cross",42.2403564,-71.8111424,107,"Crusaders","#0a0a0a","#080808","Holy Cross, Worcester, MA",0,0,0
+"Hope",40.9075499,14.271325,1001002,"Unknown","#null","#null","Hope , NA, NA",0,0,1
+"Hope College",42.7876022,-86.1090828,2812,"Flying Dutchmen","#null","#null","Hope College, Holland, MI",0,0,0
+"Houston",29.7219885,-95.3491623,248,"Cougars","#c92a39","#ffffff","Houston, Houston, TX",0,0,0
+"Houston Christian",29.6949025,-95.5167353,2277,"Huskies","#00539c","#null","Houston Christian, Houston, TX",0,0,0
+"Howard",38.925487,-77.021047,47,"Bison","#003a63","#e51937","Howard, Washington, DC",0,0,0
+"Howard Payne",31.7070026,-98.9831022,2758,"Yellow Jackets","#02215b","#b5985b","Howard Payne, Brownwood, TX",0,0,0
+"Humboldt State",21.50951,-104.89569,2278,"Lumberjacks","#000000","#null","Humboldt State, NA, NA",0,0,0
+"Huntingdon College (AL)",32.3669656,-86.3006485,2938,"Hawks","#null","#null","Huntingdon College (AL), Montgomery, AL",0,0,0
+"Husson",44.8011821,-68.7778138,2280,"Eagles","#004b44","#b09a5f","Husson, Bangor, ME",0,0,0
+"Hutchinson C.C.",21.50951,-104.89569,1000953,"Unknown","#null","#null","Hutchinson C.C., NA, NA",0,0,1
+"Idaho",46.7262921,-117.0173713,70,"Vandals","#null","#8c6e4a","Idaho, Moscow, ID",0,0,0
+"Idaho State",42.8702052,-112.4281274,304,"Bengals","#ef8c00","#e9a126","Idaho State, Pocatello, ID",0,0,0
+"Illinois",40.0993268,-88.2359569,356,"Fighting Illini","#ff5f05","#13294b","Illinois, Champaign, IL",0,0,0
+"Illinois College",39.7343037,-90.2288356,2286,"Blueboys","#null","#null","Illinois College, Jacksonville, IL",0,0,0
+"Illinois State",40.5125091,-88.9967177,2287,"Redbirds","#CE1126","#ffe716","Illinois State, Normal, IL",0,0,0
+"Illinois Wesleyan",40.4797828,-88.9939147,306,"Titans","#null","#null","Illinois Wesleyan, Bloomington, IL",0,0,0
+"Incarnate Word",29.4674787,-98.470014,2916,"Cardinals","#null","#080808","Incarnate Word, San Antonio, TX",0,0,0
+"Independence C.C.",21.9422940104,-105.27967979446,1000942,"Unknown","#null","#null","Independence C.C., NA, NA",0,0,1
+"Indiana",39.1808959,-86.5256217,84,"Hoosiers","#990000","#edebeb","Indiana, Bloomington, IN",0,0,0
+"Indiana-Pennsylvania",40.6214551,-79.1525349,2291,"Crimson Hawks","#null","#null","Indiana-Pennsylvania, Indiana, PA",0,0,0
+"Indianapolis",39.7683331,-86.1583502,2292,"Greyhounds","#null","#null","Indianapolis, Indianapolis, IN",0,0,0
+"Indiana State",39.4746858,-87.3669599,282,"Sycamores","#00669a","#f0f0f0","Indiana State, Terre Haute, IN",0,0,0
+"Indiana Wesleyan",35.362851,-84.559377,111756,"Wildcats","#null","#null","Indiana Wesleyan, NA, NA",0,0,0
+"Iona",21.50951,-104.89569,314,"Gaels","#null","#null","Iona, NA, NA",0,0,0
+"Iowa",41.6586045,-91.5510829,2294,"Hawkeyes","#000000","#FFCD00","Iowa, Iowa City, IA",0,0,0
+"Iowa Central C.C.",20.732169919988,-105.300090025986,1000943,"Unknown","#null","#null","Iowa Central C.C., NA, NA",0,0,1
+"Iowa State",42.0139977,-93.6357716,66,"Cyclones","#822433","#fdca2f","Iowa State, Ames, IA",0,0,0
+"Iowa Wesleyan",35.362851,-84.559377,2295,"Tigers","#000000","#null","Iowa Wesleyan, NA, NA",0,0,0
+"Iowa Western C.C.",41.865285,-91.643232,1000973,"Unknown","#null","#null","Iowa Western C.C., NA, NA",0,0,1
+"Itawamba C.C.",21.50951,-104.89569,1001021,"Unknown","#null","#null","Itawamba C.C., NA, NA",0,0,1
+"Ithaca College",42.4396039,-76.4968019,175,"Bombers","#null","#null","Ithaca College, Ithaca, NY",0,0,0
+"Jackson State",32.3300053,-90.1795578,2296,"Tigers","#123297","#b5b7ba","Jackson State, Jackson, MS",0,0,0
+"Jacksonville",27.6166665,-76.75,294,"Dolphins","#00523e","#null","Jacksonville, NA, NA",0,0,0
+"Jacksonville State",33.8201052,-85.76647,55,"Gamecocks","#b50500","#b5b7ba","Jacksonville State, Jacksonville, AL",0,0,0
+"James Madison",38.4352919,-78.8729349,256,"Dukes","#450084","#b5a068","James Madison, Harrisonburg, VA",0,0,0
+"Jamestown College",46.91471,-98.6976,2939,"Jimmies","#null","#null","Jamestown College, NA, NA",0,0,0
+"John Carroll University",41.497831,-81.537346,2302,"Blue Streaks","#null","#null","John Carroll University, University Heights, OH",0,0,0
+"Johns Hopkins University",39.2908816,-76.610759,118,"Blue Jays","#null","#null","Johns Hopkins University, Baltimore, MD",0,0,0
+"Johnson C Smith",35.2272086,-80.8430827,2304,"Golden Bulls","#null","#null","Johnson C Smith, Charlotte, NC",0,0,0
+"Johnson C. Smith University",21.6999593,-104.0880309,1001009,"Unknown","#null","#null","Johnson C. Smith University, NA, NA",0,0,1
+"Juniata College",40.4847959,-78.0102813,246,"Eagles","#031832","#ac9c66","Juniata College, Huntingdon, PA",0,0,0
+"Kalamazoo",42.291707,-85.5872286,126,"Hornets","#null","#null","Kalamazoo, Kalamazoo, MI",0,0,0
+"Kansas",38.9629418,-95.2463686,2305,"Jayhawks","#0051ba","#e8000d","Kansas, Lawrence, KS",0,0,0
+"Kansas State",39.2020096,-96.5938395,2306,"Wildcats","#3c0969","#e2e3e4","Kansas State, Manhattan, KS",0,0,0
+"Kansas Wesleyan",35.362851,-84.559377,547,"Ks Wesleyan","#null","#null","Kansas Wesleyan, NA, NA",0,0,0
+"Keiser (Fl)",28.094849,-80.622998,127230,"Keiser (Fl)","#null","#null","Keiser (Fl), NA, NA",0,0,0
+"Keiser University",28.094849,-80.622998,126110,"Keiser","#null","#null","Keiser University, NA, NA",0,0,0
+"Kennesaw State",34.0289318,-84.5676234,338,"Owls","#fdbb30","#000000","Kennesaw State, Kennesaw, GA",0,0,0
+"Kent State",41.1390935,-81.31346,2309,"Golden Flashes","#003976","#efab00","Kent State, Kent, OH",0,0,0
+"Kentucky",38.0220905,-84.5053408,96,"Wildcats","#0033a0","#ffffff","Kentucky, Lexington, KY",0,0,0
+"Kentucky State",38.2009055,-84.8732836,2310,"Thorobreds","#null","#null","Kentucky State, Frankfort, KY",0,0,0
+"Kentucky Wesleyan",37.742297,-87.119976,2316,"Panthers","#null","#null","Kentucky Wesleyan, Owensboro, KY",0,0,0
+"Kenyon",40.375643,-82.3970994,352,"Owls","#null","#null","Kenyon, Gambier, OH",0,0,0
+"Keystone",41.5565738,-75.7551655,122774,"Keystone","#null","#null","Keystone, La Plume, PA",0,0,0
+"Kilgore College",32.3792147,-94.8699249,1001043,"Unknown","#null","#null","Kilgore College, NA, NA",0,0,1
+"Kilgore J.C.",21.50951,-104.89569,1000954,"Unknown","#null","#null","Kilgore J.C., NA, NA",0,0,1
+"King's College",21.50951,-104.89569,1001044,"Unknown","#null","#null","King's College, NA, NA",0,0,1
+"Kings College (PA)",41.23369915,-75.8536417894352,247,"Monarchs","#c41230","#000000","Kings College (PA), Wilkes Barre Township, PA",0,0,0
+"Kutztown University",40.5173165,-75.7774177,2315,"Golden Bears","#null","#null","Kutztown University, Kutztown, PA",0,0,0
+"Lackawanna C.C.",21.50951,-104.89569,1000990,"Unknown","#null","#null","Lackawanna C.C., NA, NA",0,0,1
+"Lackawanna College",41.411588,-75.658763,1000993,"Unknown","#null","#null","Lackawanna College, NA, NA",0,0,1
+"Lafayette",40.7009796,-75.2106499,322,"Leopards","#790000","#a59474","Lafayette, Easton, PA",0,0,0
+"Lagrange College",33.039291,-85.0313269,548,"Panthers","#null","#null","Lagrange College, Lagrange, GA",0,0,0
+"Lake Erie",41.7244885,-81.245657,437,"Storm","#null","#null","Lake Erie, Painesville, OH",0,0,0
+"Lake Forest College",42.2586342,-87.840625,262,"Foresters","#null","#null","Lake Forest College, Lake Forest, IL",0,0,0
+"LAKELAND",19.063685,72.881126,267,"Fires","#007dc3","#ffc423","LAKELAND, NA, NA",0,0,0
+"Lamar",30.04313,-94.069963,2320,"Cardinals","#null","#ebebeb","Lamar, Beaumont, TX",0,0,0
+"Lambuth",21.50951,-104.89569,2321,"Eagles","#000000","#null","Lambuth, NA, NA",0,0,0
+"Laney College",35.628751,-88.806453,1000994,"Unknown","#null","#null","Laney College, NA, NA",0,0,1
+"Langston University",21.6999593,-104.0880309,2324,"Lions","#null","#null","Langston University, NA, NA",0,0,0
+"La Salle",40.8577539,14.2407366,2325,"Explorers","#null","#null","La Salle, NA, NA",0,0,0
+"Laurinburg",21.50951,-104.89569,111610,"Knights","#null","#null","Laurinburg, NA, NA",0,0,0
+"La Verne",34.1008426,-117.7678355,2318,"Leopards","#004812","#f89828","La Verne, La Verne, CA",0,0,0
+"Lawrence Tech",38.996329,-95.265032,102071,"Blue Devils","#null","#null","Lawrence Tech, NA, NA",0,0,0
+"Lawrence University",44.2613967,-88.4069744,268,"Vikings","#null","#null","Lawrence University, Appleton, WI",0,0,0
+"Lebanon Valley",40.3295901,-76.515226,388,"Flying Dutchmen","#003767","#ffffff","Lebanon Valley, Annville, PA",0,0,0
+"Lehigh",40.5890837,-75.3553874,2329,"Mountain Hawks","#6c2b2a","#b69e70","Lehigh, Bethlehem, PA",0,0,0
+"Lenoir-Rhyne",35.7333312,-81.3442915,2331,"Bears","#null","#ffffff","Lenoir-Rhyne, Hickory, NC",0,0,0
+"Lewis & Clark College",45.5202471,-122.6741949,2333,"Pioneers","#f37737","#000000","Lewis & Clark College, Portland, OR",0,0,0
+"Liberty",37.3544305,-79.1750239,2335,"Flames","#071740","#a61f21","Liberty, Lynchburg, VA",0,0,0
+"Limestone",35.0717945,-81.6498195,2336,"Saints","#19468d","#fff607","Limestone, Gaffney, SC",0,0,0
+"Limestone College",35.05676,-81.648501,1000971,"Unknown","#null","#null","Limestone College, NA, NA",0,0,1
+"Limestone University",21.6999593,-104.0880309,1001034,"Unknown","#null","#null","Limestone University, NA, NA",0,0,1
+"Lincoln (CA)",25.790318,-80.137991,124179,"Oaklanders","#null","#null","Lincoln (CA), NA, NA",0,0,0
+"Lincoln (MO)",38.577359,-92.1724265,2876,"Blue Tigers","#null","#null","Lincoln (MO), Jefferson City, MO",0,0,0
+"Lincoln (PA)",39.8065518,-75.9287055124769,2339,"Lions","#null","#null","Lincoln (PA), Lincoln University, PA",0,0,0
+"Lindenwood",38.7946252,-90.519829,2815,"Lions","#null","#null","Lindenwood, Saint Charles, MO",0,0,0
+"Lindenwood Belleville",38.521507,-90.009026,3209,"Lynx","#null","#null","Lindenwood Belleville, NA, NA",0,0,0
+"Lindenwood University",38.787777,-90.502571,1000955,"Unknown","#null","#null","Lindenwood University, NA, NA",0,0,1
+"Lindsey Wilson College",36.2814407,-86.5455504,2877,"Lindsey","#null","#null","Lindsey Wilson College, NA, NA",0,0,0
+"Linfield College",45.2100367,-123.194463,203,"Wildcats","#46256a","#d41e47","Linfield College, Mcminnville, OR",0,0,0
+"Little Rock",21.50951,-104.89569,124386,"Buffaloes","#null","#null","Little Rock, NA, NA",0,0,0
+"LIU Post",13.969525655,100.646989712,2089,"Pioneers","#000000","#null","LIU Post, NA, NA",0,0,0
+"Livingstone",35.6709727,-80.4742261,2940,"Blue Bears","#null","#null","Livingstone, Salisbury, NC",0,0,0
+"Livingstone College",35.67157,-80.484812,1000972,"Unknown","#null","#null","Livingstone College, NA, NA",0,0,1
+"Lock Haven University",41.1369077,-77.4471641,209,"Bald Eagles","#null","#null","Lock Haven University, Lock Haven, PA",0,0,0
+"Long Beach City College",21.50951,-104.89569,1001022,"Unknown","#null","#null","Long Beach City College, NA, NA",0,0,1
+"Long Island University",21.6999593,-104.0880309,2341,"Sharks","#null","#null","Long Island University, NA, NA",0,0,0
+"Louisburg",21.50951,-104.89569,102118,"Hurricanes","#null","#null","Louisburg, NA, NA",0,0,0
+"Louisiana",30.2158434,-92.0417371,309,"Ragin' Cajuns","#ce181e","#ffffff","Louisiana, Lafayette, LA",0,0,0
+"Louisiana College",20.850009,83.511552,2347,"Wildcats","#null","#null","Louisiana College, NA, NA",0,0,0
+"Louisiana Tech",32.5321487,-92.6560019,2348,"Bulldogs","#002d65","#d3313a","Louisiana Tech, Ruston, LA",0,0,0
+"Louisville",38.2057621,-85.7588141,97,"Cardinals","#c9001f","#000000","Louisville, Louisville, KY",0,0,0
+"LSU",30.412035,-91.1838163,99,"Tigers","#461d7c","#fdd023","LSU, Baton Rouge, LA",0,0,0
+"Luther",43.3041609,-91.7859098,67,"Norse","#015a9c","#a5bbda","Luther, Decorah, IA",0,0,0
+"Lycoming",41.2493292,-77.0027671,2354,"Warriors","#15283f","#eaa22e","Lycoming, Williamsport, PA",0,0,0
+"LYONCOLL",21.50951,-104.89569,101161,"Scots","#null","#null","LYONCOLL, NA, NA",0,0,0
+"Macalester",44.9497487,-93.0931028,2359,"Scots","#null","#null","Macalester, Saint Paul, MN",0,0,0
+"MacMurray College",39.7417613,-90.2432244,273,"Highlanders","#000000","#null","MacMurray College, NA, NA",0,0,0
+"Madonna University",21.6999593,-104.0880309,126146,"Madonna","#null","#null","Madonna University, NA, NA",0,0,0
+"Madonna University (Mich.)",19.7918753,-101.7966775,127078,"Madonna Un","#null","#null","Madonna University (Mich.), NA, NA",0,0,0
+"Maine",44.905128,-68.6724718,311,"Black Bears","#127dbe","#null","Maine, Orono, ME",0,0,0
+"Maine Maritime",9.979933,76.275262,274,"Mariners","#null","#null","Maine Maritime, NA, NA",0,0,0
+"Malone",21.50951,-104.89569,556,"Pioneers","#000000","#null","Malone, NA, NA",0,0,0
+"Manchester",41.0006005,-85.768597,2362,"Spartans","#ddac14","#000000","Manchester, North Manchester, IN",0,0,0
+"MANITOBA",31.651482,74.862126,2770,"Manitoba","#null","#null","MANITOBA, NA, NA",0,0,0
+"Mansfield University",21.6999593,-104.0880309,2365,"Mountaineers","#null","#null","Mansfield University, NA, NA",0,0,0
+"Maranatha Baptist College",21.50951,-104.89569,421,"Crusaders","#000000","#null","Maranatha Baptist College, NA, NA",0,0,0
+"Marian College",10.693724,76.660348,2366,"Marian","#null","#null","Marian College, NA, NA",0,0,0
+"MARIAN (IN",20.747617599902,-105.270231084558,121696,"Marian (In","#null","#null","MARIAN (IN, NA, NA",0,0,0
+"Marietta",39.4167742,-81.4548392,317,"Pioneers","#null","#null","Marietta, Marietta, OH",0,0,0
+"Marist",41.7191409,-73.9329549,2368,"Red Foxes","#e53730","#f0f0f0","Marist, Poughkeepsie, NY",0,0,0
+"Marshall",38.4247042,-82.4214412,276,"Thundering Herd","#00ae42","#be854c","Marshall, Huntington, WV",0,0,0
+"Marshall Sr.",-1.2899338,36.8230639,1001036,"Unknown","#null","#null","Marshall Sr., NA, NA",0,0,1
+"Mars Hill",35.82685585,-82.5505768698772,2369,"Mountain Lions","#004b8d","#efc814","Mars Hill, Mars Hill, NC",0,0,0
+"Martin Luther",44.3140261,-94.4614177,446,"Knights","#null","#null","Martin Luther, New Ulm, MN",0,0,0
+"Mary Hardin-Baylor",31.0560132,-97.464453,2371,"Crusaders","#492f92","#fece1c","Mary Hardin-Baylor, Belton, TX",0,0,0
+"Maryland",38.9903332,-76.9473792,120,"Terrapins","#D5002B","#ffcd00","Maryland, College Park, MD",0,0,0
+"Maryville College (TN)",35.7564719,-83.9704593,2373,"Scots","#null","#null","Maryville College (TN), Maryville, TN",0,0,0
+"Massachusetts",42.3773244,-72.5360595,113,"Minutemen","#971B2F","#B1B3B3","Massachusetts, Hadley, MA",0,0,0
+"Mass Maritime",41.745383,-70.618087,110,"Buccaneers","#212c62","#fed523","Mass Maritime, Buzzards Bay, MA",0,0,0
+"Mayville State",21.50951,-104.89569,561,"Comets","#null","#null","Mayville State, NA, NA",0,0,0
+"McDaniel College",39.5752639,-76.9959277,2700,"Green Terror","#00674d","#f5cc2e","McDaniel College, Westminster, MD",0,0,0
+"McMurry",32.44645,-99.7475905,241,"War Hawks","#98002e","#000000","McMurry, Abilene, TX",0,0,0
+"McNeese",30.1804575,-93.2178729,2377,"Cowboys","#00529C","#null","McNeese, Lake Charles, LA",0,0,0
+"Mcpherson College",53.5952934,9.9885548,6584,"Mcpherson","#null","#null","Mcpherson College, NA, NA",0,0,0
+"Memphis",35.1209429,-89.977147,235,"Tigers","#004991","#8e908f","Memphis, Memphis, TN",0,0,0
+"Menlo",2.53333,11.71667,2381,"Oaks","#000000","#null","Menlo, NA, NA",0,0,0
+"Mercer",32.8262075,-83.6522485,2382,"Bears","#ff7f29","#080808","Mercer, Macon, GA",0,0,0
+"Merchant Marine Academy",40.8197813,-73.7351337,2383,"Mariners","#null","#null","Merchant Marine Academy, Kings Point, NY",0,0,0
+"Mercyhurst",42.1294712,-80.0852695,2385,"Lakers","#null","#null","Mercyhurst, Erie, PA",0,0,0
+"Mercyhurst College",42.219467,-79.834981,1001023,"Unknown","#null","#null","Mercyhurst College, NA, NA",0,0,1
+"Merrimack",42.6839894,-71.1127065,2771,"Warriors","#null","#null","Merrimack, North Andover, MA",0,0,0
+"Methodist",35.0525759,-78.878292,291,"Monarchs","#null","#null","Methodist, Fayetteville, NC",0,0,0
+"Miami",25.9579665,-80.2388604,2390,"Hurricanes","#005030","#f47321","Miami, Miami Gardens, FL",0,0,0
+"Miami (OH)",39.5197009,-84.7330255,193,"RedHawks","#a4000c","#f0f0f0","Miami (OH), Oxford, OH",0,0,0
+"Michigan",42.2658365,-83.7486956,130,"Wolverines","#00274c","#ffcb05","Michigan, Ann Arbor, MI",0,0,0
+"Michigan State",42.7281474,-84.4848526,127,"Spartans","#18453b","#ffffff","Michigan State, East Lansing, MI",0,0,0
+"Michigan Tech",46.8591287,-88.7774734,2392,"Huskies","#null","#null","Michigan Tech, Houghton, MI",0,0,0
+"Middlebury",44.0072736,-73.1633010541542,2394,"Panthers","#365a8a","#ffffff","Middlebury, Middlebury, VT",0,0,0
+"Middle Georgia State College",32.537648,-83.895186,111755,"Knights","#null","#null","Middle Georgia State College, NA, NA",0,0,0
+"Middle Tennessee",35.8511463,-86.3681649,2393,"Blue Raiders","#006db6","#ffffff","Middle Tennessee, Murfreesboro, TN",0,0,0
+"Midland Lutheran College",21.50951,-104.89569,565,"Midland Lutheran","#null","#null","Midland Lutheran College, NA, NA",0,0,0
+"Midwestern State",33.9137085,-98.4933873,2395,"Mustangs","#null","#null","Midwestern State, Wichita Falls, TX",0,0,0
+"Miles College",33.4859402,-86.9119366,2396,"Golden Bears","#null","#null","Miles College, Fairfield, AL",0,0,0
+"Millersville",39.997998,-76.3545372,210,"Marauders","#null","#null","Millersville, Millersville, PA",0,0,0
+"Millikin",39.8454163,-88.9524151,74,"Big Blue","#null","#null","Millikin, Decatur, IL",0,0,0
+"Millsaps",32.2990021,-90.1847691,2398,"Majors","#null","#null","Millsaps, Jackson, MS",0,0,0
+"Minnesota",44.976525,-93.2245462,135,"Golden Gophers","#5e0a2f","#fab41c","Minnesota, Minneapolis, MN",0,0,0
+"Minnesota-Crookston",47.773789,-96.606834,2772,"Golden Eagles","#000000","#null","Minnesota-Crookston, NA, NA",0,0,0
+"Minnesota Duluth",46.7729322,-92.1251218,134,"Bulldogs","#null","#null","Minnesota Duluth, Duluth, MN",0,0,0
+"Minnesota Morris",45.586072,-95.913941,2399,"Cougars","#8d191b","#e19c25","Minnesota Morris, Morris, MN",0,0,0
+"Minnesota State Mankato",44.1634663,-93.9993505,2364,"Mavericks","#null","#null","Minnesota State Mankato, Mankato, MN",0,0,0
+"Minnesota State Moorhead",46.8739081,-96.7538674,2817,"Dragons","#null","#null","Minnesota State Moorhead, Moorhead, MN",0,0,0
+"Minot State",48.23251,-101.296273,568,"Beavers","#null","#null","Minot State, Minot, ND",0,0,0
+"Misericordia",32.3117968,-87.1046643,2969,"Cougars","#null","#null","Misericordia, Dallas, PA",0,0,0
+"Mississippi College",32.3410552,-90.3215983,2401,"Choctaws","#0c2240","#c89700","Mississippi College, Clinton, MS",0,0,0
+"Mississippi Gulf Coast C.C.",21.50951,-104.89569,1000937,"Unknown","#null","#null","Mississippi Gulf Coast C.C., NA, NA",0,0,1
+"Mississippi State",33.4563403,-88.7933652,344,"Bulldogs","#5d1725","#c1c6c8","Mississippi State, Starkville, MS",0,0,0
+"Mississippi Valley State",33.5118304,-90.3397718,2400,"Delta Devils","#005328","#cf2d34","Mississippi Valley State, Itta Bena, MS",0,0,0
+"Missouri",38.9358491,-92.3332009,142,"Tigers","#f1b82d","#000000","Missouri, Columbia, MO",0,0,0
+"Missouri Southern State",37.08418,-94.51323,2403,"Lions","#null","#null","Missouri Southern State, Joplin, MO",0,0,0
+"Missouri S&T",37.95037,-91.780444,2402,"Miners","#null","#null","Missouri S&T, Rolla, MO",0,0,0
+"Missouri State",37.1976229,-93.2798119,2623,"Bears","#5F0000","#e8e8e8","Missouri State, Springfield, MO",0,0,0
+"Missouri Western",39.7686055,-94.8466322,137,"Griffons","#null","#null","Missouri Western, Saint Joseph, MO",0,0,0
+"Missouri Western State",21.50951,-104.89569,1000934,"Unknown","#null","#null","Missouri Western State, NA, NA",0,0,1
+"Monash University",21.6999593,-104.0880309,1000995,"Unknown","#null","#null","Monash University, NA, NA",0,0,1
+"Monmouth",40.278953,-74.009451,2405,"Hawks","#051844","#null","Monmouth, West Long Branch, NJ",0,0,0
+"Monmouth (IL)",40.9127103,-90.6472477,2919,"Fighting Scots","#null","#null","Monmouth (IL), Monmouth, IL",0,0,0
+"Montana",46.8638753,-113.9815042,149,"Grizzlies","#751D4A","#666666","Montana, Missoula, MT",0,0,0
+"Montana State",45.659048,-111.049547,147,"Bobcats","#00205c","#bc955c","Montana State, Bozeman, MT",0,0,0
+"MONTANASTN",21.50951,-104.89569,124390,"Montanastn","#null","#null","MONTANASTN, NA, NA",0,0,0
+"Montana Tech",46.01215,-112.55725,148,"Orediggers","#null","#null","Montana Tech, NA, NA",0,0,0
+"Montana-Western",21.50951,-104.89569,2701,"Bulldogs","#null","#null","Montana-Western, NA, NA",0,0,0
+"Montclair State",40.8164458,-74.2210643,2818,"Red Hawks","#c20f2f","#53585a","Montclair State, Montclair, NJ",0,0,0
+"Monterrey Tech",25.664697,-100.310892,3100,"Borregos","#null","#null","Monterrey Tech, NA, NA",0,0,0
+"Moravian",40.6178915,-75.3786521,323,"Greyhounds","#1f3361","#a5a6a9","Moravian, Bethlehem, PA",0,0,0
+"Morehead State",38.1916481,-83.4253315,2413,"Eagles","#094FA3","#fed91a","Morehead State, Morehead, KY",0,0,0
+"Morehouse College",33.7489924,-84.3902644,60,"Maroon Tigers","#null","#null","Morehouse College, Atlanta, GA",0,0,0
+"Morgan State",39.3439778,-76.5829573,2415,"Bears","#014786","#f47937","Morgan State, Baltimore, MD",0,0,0
+"Morningside College",42.4746595,-96.3597131,2416,"Chiefs","#null","#null","Morningside College, NA, NA",0,0,0
+"Morthland",21.50951,-104.89569,110263,"Patriots","#null","#null","Morthland, NA, NA",0,0,0
+"Mount Ida College",21.50951,-104.89569,481,"Mustangs","#000000","#null","Mount Ida College, NA, NA",0,0,0
+"Mount St. Joseph",39.1014537,-84.5124602,2419,"Lions","#002d5d","#f5ce3e","Mount St. Joseph, Cincinnati, OH",0,0,0
+"Muhlenberg",40.6022059,-75.4712794,2422,"Mules","#null","#null","Muhlenberg, Allentown, PA",0,0,0
+"Murray State",36.6215165,-88.3175531,93,"Racers","#002148","#000e00","Murray State, Murray, KY",0,0,0
+"Muskingum University",39.9934992,-81.7338559,332,"Fighting Muskies","#null","#null","Muskingum University, New Concord, OH",0,0,0
+"National",20.6986655,-105.2967881,3194,"Unknown","#000000","#null","National, NA, NA",0,0,1
+"Navarro College",18.2496368,-93.2232911,1000977,"Unknown","#null","#null","Navarro College, NA, NA",0,0,1
+"Navy",38.9846985,-76.5076335,2426,"Midshipmen","#00225b","#b5a67c","Navy, Annapolis, MD",0,0,0
+"NC State",35.8008001,-78.7195655,152,"Wolfpack","#cc0000","#ffffff","NC State, Raleigh, NC",0,0,0
+"Nebraska",40.820682,-96.705594,158,"Cornhuskers","#d00000","#ffffff","Nebraska, Lincoln, NE",0,0,0
+"Nebraska Kearney",40.701497,-99.082969,1001012,"Unknown","#null","#null","Nebraska Kearney, NA, NA",0,0,1
+"Nebraska-Kearney",40.4906216,-98.9472344,2438,"Lopers","#null","#null","Nebraska-Kearney, Kearney, NE",0,0,0
+"Nebraska-Omaha",41.258652,-95.937195,2437,"Mavericks","#e3193e","#null","Nebraska-Omaha, NA, NA",0,0,0
+"Nevada",39.5469459,-119.8175435,2440,"Wolf Pack","#002d62","#ffffff","Nevada, Reno, NV",0,0,0
+"NEWBERG",45.300347,-122.972751,415,"Bruins","#002d62","#c2a303","NEWBERG, Newberg, OR",0,0,0
+"Newberry",34.286133,-81.622539,2444,"Wolves","#d02030","#8a8c8f","Newberry, Newberry, SC",0,0,0
+"New Hampshire",43.1386231,-70.9393077,160,"Wildcats","#004990","#c3c4c6","New Hampshire, Durham, NH",0,0,0
+"New Haven",41.2706527,-72.9470471,2441,"Chargers","#null","#null","New Haven, West Haven, CT",0,0,0
+"New Mexico",35.0669479,-106.6283225,167,"Lobos","#BA0C2F","#a7a8aa","New Mexico, Albuquerque, NM",0,0,0
+"New Mexico Highlands",35.5939325,-105.2238969,2424,"Cowboys","#null","#null","New Mexico Highlands, Las Vegas, NM",0,0,0
+"New Mexico Military Institute",21.50951,-104.89569,1000956,"Unknown","#null","#null","New Mexico Military Institute, NA, NA",0,0,1
+"New Mexico State",32.2796202,-106.7411148,166,"Aggies","#891216","#000000","New Mexico State, Las Cruces, NM",0,0,0
+"Nicholls",29.7867254,-90.80455,2447,"Colonels","#C41230","#f0f0f0","Nicholls, Thibodaux, LA",0,0,0
+"Nichols College",42.0572744,-71.9396898,2884,"Bison","#007b5f","#000000","Nichols College, Dudley, MA",0,0,0
+"Norfolk State",36.8469442,-76.2600839,2450,"Spartans","#0c8968","#fdb813","Norfolk State, Norfolk, VA",0,0,0
+"NORTH",7.2,15,3145,"All-Stars","#000000","#null","NORTH, NA, NA",0,0,0
+"North Alabama",34.810914,-87.670587,2453,"Lions","#null","#null","North Alabama, Florence, AL",0,0,0
+"North American University",21.6999593,-104.0880309,123086,"Stallions","#null","#null","North American University, NA, NA",0,0,0
+"North Carolina",35.9069294,-79.0478889,153,"Tar Heels","#7bafd4","#13294b","North Carolina, Chapel Hill, NC",0,0,0
+"North Carolina A&T",36.0814337,-79.7700391,2448,"Aggies","#0505aa","#004684","North Carolina A&T, Greensboro, NC",0,0,0
+"North Carolina Central",35.9738646,-78.896969,2428,"Eagles","#880023","#c2c3c0","North Carolina Central, Durham, NC",0,0,0
+"North Carolina Wesleyan",35.9423833,-77.7956949,286,"Battling Bishops","#null","#null","North Carolina Wesleyan, Rocky Mount, NC",0,0,0
+"North Central College",41.7728699,-88.1479278,3071,"Cardinals","#null","#null","North Central College, Naperville, IL",0,0,0
+"North Dakota",47.910622,-97.090996,155,"Fighting Hawks","#00A26B","#c2c3c0","North Dakota, Grand Forks, ND",0,0,0
+"North Dakota State",46.9029938,-96.8003251,2449,"Bison","#01402A","#ffffff","North Dakota State, Fargo, ND",0,0,0
+"Northeastern State",35.91537,-94.969956,196,"RiverHawks","#null","#null","Northeastern State, Tahlequah, OK",0,0,0
+"Northern Arizona",35.1805483,-111.6528377,2464,"Lumberjacks","#003976","#1b3069","Northern Arizona, Flagstaff, AZ",0,0,0
+"Northern Colorado",40.403493,-104.705139,2458,"Bears","#13558D","#ffc533","Northern Colorado, Greeley, CO",0,0,0
+"Northern Illinois",41.9339586,-88.7778357,2459,"Huskies","#F1122C","#cc0000","Northern Illinois, DeKalb, IL",0,0,0
+"Northern Iowa",42.5156111,-92.4672307,2460,"Panthers","#473282","#ffffff","Northern Iowa, Cedar Falls, IA",0,0,0
+"Northern Michigan",46.560589,-87.393741,128,"Wildcats","#null","#null","Northern Michigan, Marquette, MI",0,0,0
+"Northern State",45.4649805,-98.487813,425,"Wolves","#null","#null","Northern State, Aberdeen, SD",0,0,0
+"NORTH FLORIDA",7.2,15,3197,"STARS","#000000","#null","NORTH FLORIDA, NA, NA",0,0,0
+"North Greenville",35.0684492,-82.3684509,2822,"Crusaders","#d91e39","#000000","North Greenville, Tigerville, SC",0,0,0
+"North Park",41.8755616,-87.6244212,75,"Vikings","#null","#null","North Park, Chicago, IL",0,0,0
+"North Texas",33.203899,-97.159245,249,"Mean Green","#00853E","#000000","North Texas, Denton, TX",0,0,0
+"Northwestern",42.0653994,-87.6924751,77,"Wildcats","#582c83","#ffffff","Northwestern, Evanston, IL",0,0,0
+"Northwestern (IA)",21.50951,-104.89569,2471,"Red Raiders","#null","#null","Northwestern (IA), NA, NA",0,0,0
+"Northwestern (MN)",45.0060767,-93.1566107,583,"Eagles","#null","#null","Northwestern (MN), Roseville, MN",0,0,0
+"Northwestern Oklahoma State",36.8030501,-98.6660278,2823,"Rangers","#null","#null","Northwestern Oklahoma State, Alva, OK",0,0,0
+"Northwestern State",31.747259,-93.0961357,2466,"Demons","#492F91","#ed6118","Northwestern State, Natchitoches, LA",0,0,0
+"Northwest Mississippi C.C.",21.50951,-104.89569,1001040,"Unknown","#null","#null","Northwest Mississippi C.C., NA, NA",0,0,1
+"Northwest Missouri St",40.3460468,-94.8723858,138,"Bearcats","#null","#null","Northwest Missouri St, Maryville, MO",0,0,0
+"Northwood (MI)",43.6155825,-84.2472117,2886,"Timberwolves","#null","#null","Northwood (MI), Midland, MI",0,0,0
+"Norwich",44.153195,-72.6567952885033,2467,"Cadets","#null","#null","Norwich, Northfield, VT",0,0,0
+"Notre Dame",41.698378,-86.2339425,87,"Fighting Irish","#0c2340","#c99700","Notre Dame, Notre Dame, IN",0,0,0
+"Notre Dame College",41.5231076,-81.5184553,587,"Blue Falcons","#000000","#null","Notre Dame College, South Euclid, OH",0,0,0
+"Oberlin",41.2939386,-82.2173786,391,"Yeomen","#null","#null","Oberlin, Oberlin, OH",0,0,0
+"Occidental",20.6951061,-105.2964201,2475,"Tigers","#000000","#null","Occidental, NA, NA",0,0,0
+"Ohio",39.3212794,-82.1034315,195,"Bobcats","#295A29","#e4bb85","Ohio, Athens, OH",0,0,0
+"Ohio Dominican",39.9622601,-83.0007065,2477,"Panthers","#null","#null","Ohio Dominican, Columbus, OH",0,0,0
+"Ohio Midwestern College",41.86528,-91.64323,108398,"Rams","#null","#null","Ohio Midwestern College, NA, NA",0,0,0
+"Ohio Northern",38.8398935,-83.5051704,427,"Polar Bears","#null","#null","Ohio Northern, Ada, OH",0,0,0
+"Ohio State",40.0016447,-83.0197266,194,"Buckeyes","#ce1141","#505056","Ohio State, Columbus, OH",0,0,0
+"Ohio State Newark",40.05812,-82.40126,3161,"Titans","#null","#null","Ohio State Newark, NA, NA",0,0,0
+"Ohio Wesleyan",40.2986724,-83.067965,2980,"Battling Bishops","#null","#null","Ohio Wesleyan, Delaware, OH",0,0,0
+"Oklahoma",35.2058537,-97.4423145,201,"Sooners","#a32036","#ffffff","Oklahoma, Norman, OK",0,0,0
+"Oklahoma Baptist",35.3272928,-96.9253004,319,"Bison","#null","#null","Oklahoma Baptist, Shawnee, OK",0,0,0
+"Oklahoma Panhandle St",21.50951,-104.89569,2824,"Ok Panhandle St","#null","#null","Oklahoma Panhandle St, NA, NA",0,0,0
+"Oklahoma State",36.125673,-97.066513,197,"Cowboys","#FF7300","#000000","Oklahoma State, Stillwater, OK",0,0,0
+"Old Dominion",36.8889533,-76.3049175,295,"Monarchs","#00507d","#a1d2f1","Old Dominion, Norfolk, VA",0,0,0
+"Ole Miss",34.3619837,-89.5342076,145,"Rebels","#13294b","#c8102e","Ole Miss, Oxford, MS",0,0,0
+"Olivet College",42.4414273,-84.9241542,354,"Comets","#null","#null","Olivet College, Olivet, MI",0,0,0
+"Oregon",44.0582712,-123.0684883,2483,"Ducks","#007030","#fee11a","Oregon, Eugene, OR",0,0,0
+"Oregon State",44.5594559,-123.2814341,204,"Beavers","#231f20","#d73f09","Oregon State, Corvallis, OR",0,0,0
+"Ottawa University Arizona",21.6999593,-104.0880309,112390,"Spirit","#null","#null","Ottawa University Arizona, NA, NA",0,0,0
+"Otterbein",40.126139,-82.9295287,359,"Cardinals","#null","#null","Otterbein, Westerville, OH",0,0,0
+"Ouachita Baptist",34.1209292,-93.053784,2888,"Tigers","#null","#null","Ouachita Baptist, Arkadelphia, AR",0,0,0
+"Ouachita Baptist University",21.6999593,-104.0880309,1001041,"Unknown","#null","#null","Ouachita Baptist University, NA, NA",0,0,1
+"Pace",41.1328736,-73.7926335,2487,"Setters","#null","#null","Pace, Pleasantville, NY",0,0,0
+"Pacific Lutheran",47.1849009,-122.29214,2486,"Lutes","#ffc423","#000000","Pacific Lutheran, Puyallup, WA",0,0,0
+"Pacific (OR)",45.5197452,-123.1114405,205,"Boxers","#b4183a","#ffffff","Pacific (OR), Forest Grove, OR",0,0,0
+"Paine",14.479853516,100.128673156,2488,"Lions","#null","#null","Paine, NA, NA",0,0,0
+"Palomar College",21.5253129,-104.9268557,1000988,"Unknown","#null","#null","Palomar College, NA, NA",0,0,1
+"Penn State",40.8121958,-77.8561023,213,"Nittany Lions","#041E42","#FFFFFF","Penn State, University Park, PA",0,0,0
+"Pennsylvania",39.9501475,-75.1901043,219,"Quakers","#082A74","#a6163d","Pennsylvania, Philadelphia, PA",0,0,0
+"PennWest California",40.0236854,-79.8839357,2858,"Vulcans","#null","#null","PennWest California, Brownsville, PA",0,0,0
+"Phoenix",43.23118,-76.30076,108358,"Firestorm","#null","#null","Phoenix, NA, NA",0,0,0
+"Pikeville",11.936838,79.834894,95,"Bears","#null","#null","Pikeville, NA, NA",0,0,0
+"Pittsburgh",40.4467648,-80.0157603,221,"Panthers","#003263","#231f20","Pittsburgh, Pittsburgh, PA",0,0,0
+"Pittsburg St",37.4108841,-94.70496,90,"Gorillas","#null","#null","Pittsburg St, Pittsburg, KS",0,0,0
+"Plymouth State",43.757209,-71.688538,2972,"Panthers","#054e39","#000000","Plymouth State, Plymouth, NH",0,0,0
+"Point University",21.6999593,-104.0880309,3179,"Skyhawks","#null","#null","Point University, NA, NA",0,0,0
+"Pomona Pitzer",34.0966764,-117.7197785,2923,"Sagehens","#00549a","#f7941e","Pomona Pitzer, Claremont, CA",0,0,0
+"Portland State",45.554597,-122.90694,2502,"Vikings","#00311e","#ebebeb","Portland State, Portland, OR",0,0,0
+"Post University",26.2636731,73.0278877,126086,"Eagles","#null","#null","Post University, NA, NA",0,0,0
+"Prairie View A&M",30.0937874,-95.9960913,2504,"Panthers","#4d0960","#null","Prairie View A&M, Prairie View, TX",0,0,0
+"Presbyterian",34.46158,-81.861368,2506,"Blue Hose","#194896","#990134","Presbyterian, Clinton, SC",0,0,0
+"Presentation",45.4028594,4.3646527,597,"Presentation","#null","#null","Presentation, NA, NA",0,0,0
+"Princeton",40.3457928,-74.6500047,163,"Tigers","#null","#ff6000","Princeton, Princeton, NJ",0,0,0
+"Principia College",38.9555408,-90.347194,363,"Panthers","#000000","#null","Principia College, NA, NA",0,0,0
+"Professional",18.7716314,98.9770257,1000951,"Unknown","#null","#null","Professional, NA, NA",0,0,1
+"Puget Sound",47.2495798,-122.4398746,2508,"Loggers","#680001","#ffffff","Puget Sound, Tacoma, WA",0,0,0
+"Purdue",40.4352253,-86.9186843,2509,"Boilermakers","#000000","#ceb888","Purdue, West Lafayette, IN",0,0,0
+"Quincy",39.9356016,-91.4098727,2825,"Hawks","#null","#null","Quincy, Quincy, IL",0,0,0
+"Randolph-Macon",37.7594012,-77.4806603,2516,"Yellow Jackets","#fcdf12","#000000","Randolph-Macon, Ashland, VA",0,0,0
+"Reading",40.335345,-75.9279495,111674,"Golden Wolves","#null","#null","Reading, Reading, PA",0,0,0
+"Redlands",34.0550328,-117.1827445,29,"Bulldogs","#751708","#ffffff","Redlands, Redlands, CA",0,0,0
+"Reinhardt University",21.6999593,-104.0880309,2890,"Eagles","#null","#null","Reinhardt University, NA, NA",0,0,0
+"Rensselaer",42.7284117,-73.6917878,2528,"Engineers","#null","#null","Rensselaer, Troy, NY",0,0,0
+"Rhode Island",41.4879984,-71.5347458,227,"Rams","#091f3f","#5ab3e8","Rhode Island, Kingston, RI",0,0,0
+"Rhodes College",35.1335022,-89.9668758,2519,"Lynx","#null","#null","Rhodes College, Memphis, TN",0,0,0
+"Rice",29.7163297,-95.4093261,242,"Owls","#d1d5d8","#003d7d","Rice, Houston, TX",0,0,0
+"Richmond",37.5807765,-77.5372211,257,"Spiders","#9e0712","#b90b2e","Richmond, Richmond, VA",0,0,0
+"Ripon",43.8424502,-88.8372972,2891,"Red Hawks","#null","#null","Ripon, Ripon, WI",0,0,0
+"Riverside C.C.",21.50951,-104.89569,1000996,"Unknown","#null","#null","Riverside C.C., NA, NA",0,0,1
+"Robert Morris",40.521046,-80.2159227,2523,"Colonials","#00214D","#a21d2b","Robert Morris, Moon Township, PA",0,0,0
+"Robert Morris University-Illinois",37.936437,-88.609499,599,"Lakers","#null","#null","Robert Morris University-Illinois, NA, NA",0,0,0
+"Rockford",42.2713945,-89.093966,2524,"Regents","#5a3f99","#c4c6c8","Rockford, Rockford, IL",0,0,0
+"Roosevelt",18.195379,-67.146701,127991,"Lakers","#null","#null","Roosevelt, NA, NA",0,0,0
+"Rose-Hulman",39.4667025,-87.4139119,86,"Fightin' Engineers","#800000","#b3b2b1","Rose-Hulman, Terre Haute, IN",0,0,0
+"Rowan",39.7027677,-75.1119434,2827,"Profs","#571b04","#ffcf06","Rowan, Glassboro, NJ",0,0,0
+"Rutgers",40.5462553,-74.4660408,164,"Scarlet Knights","#d21034","#ffffff","Rutgers, Piscataway, NJ",0,0,0
+"Sacramento State",38.5556718,-121.4229607,16,"Hornets","#00573C","#cdb97d","Sacramento State, Sacramento, CA",0,0,0
+"Sacred Heart",41.2212488,-73.2417431,2529,"Pioneers","#a40012","#c29472","Sacred Heart, Fairfield, CT",0,0,0
+"Saddleback College",21.50951,-104.89569,1001047,"Unknown","#null","#null","Saddleback College, NA, NA",0,0,1
+"Saginaw Valley State",25.71414555,-80.2764049838705,129,"Cardinals","#null","#null","Saginaw Valley State, University Center, MI",0,0,0
+"Saint Anselm",45.53288,-73.55807,1001003,"Unknown","#null","#null","Saint Anselm, NA, NA",0,0,1
+"Saint Francis",9.9900165,76.2935527,1001019,"Unknown","#null","#null","Saint Francis, NA, NA",0,0,1
+"Saint Francis (PA)",41.959279,-80.255012,1000983,"Unknown","#null","#null","Saint Francis (PA), NA, NA",0,0,1
+"Saint John's (MN)",45.5944117,-94.3622868,2600,"Johnnies","#ce153e","#7baed5","Saint John's (MN), Collegeville, MN",0,0,0
+"Saint Vincent",40.317287,-79.3840301,2614,"Bearcats","#null","#null","Saint Vincent, Latrobe, PA",0,0,0
+"Salisbury",38.366027,-75.6009964,2532,"Sea Gulls","#8b0e04","#fdb913","Salisbury, Salisbury, MD",0,0,0
+"Salve Regina",41.4899827,-71.3137707,2776,"Seahawks","#null","#null","Salve Regina, Newport, RI",0,0,0
+"Samford",33.463273,-86.795326,2535,"Bulldogs","#005485","#bc0023","Samford, Homewood, AL",0,0,0
+"Sam Houston",30.713926,-95.5419802,2534,"Bearkats","#fe5000","#000000","Sam Houston, Huntsville, TX",0,0,0
+"San Diego",32.7730674,-117.183721,301,"Toreros","#2f99d4","#2f99d4","San Diego, San Diego, CA",0,0,0
+"San Diego State",32.784444,-117.122833,21,"Aztecs","#c41230","#000000","San Diego State, San Diego, CA",0,0,0
+"San José State",37.3196675,-121.8682962,23,"Spartans","#005893","#fdba31","San José State, San Jose, CA",0,0,0
+"Santa Rosa J.C.",22.2739617,-104.4668668,1000946,"Unknown","#null","#null","Santa Rosa J.C., NA, NA",0,0,1
+"Savannah St",32.0274346,-81.0687492,2542,"Tigers","#280298","#f78f1e","Savannah St, Savannah, GA",0,0,0
+"SE Louisiana",30.5110264,-90.4685792,2545,"Lions","#215732","#ffc72c","SE Louisiana, Hammond, LA",0,0,0
+"Seton Hill",40.3014581,-79.5389289,611,"Griffins","#null","#null","Seton Hill, Greensburg, PA",0,0,0
+"Sewanee",35.200644,-85.9195236852273,2553,"Tigers","#null","#null","Sewanee, Sewanee, TN",0,0,0
+"Shaw",35.7803977,-78.6390989,2551,"Bears","#null","#null","Shaw, Raleigh, NC",0,0,0
+"Shenandoah",39.1852184,-78.1652404,2828,"Hornets","#null","#null","Shenandoah, Winchester, VA",0,0,0
+"Shepherd",39.4300996,-77.804161,2974,"Rams","#null","#null","Shepherd, Shepherdstown, WV",0,0,0
+"Shepherd Tech",34.060037,-118.304489,3181,"Eagles","#000000","#null","Shepherd Tech, NA, NA",0,0,0
+"Shepherd University",21.6999593,-104.0880309,1001037,"Unknown","#null","#null","Shepherd University, NA, NA",0,0,1
+"Shippensburg",40.0507198,-77.5205485,2559,"Raiders","#null","#null","Shippensburg, Shippensburg, PA",0,0,0
+"Shippensburg University",21.6999593,-104.0880309,1001001,"Unknown","#null","#null","Shippensburg University, NA, NA",0,0,1
+"Siena",21.465733605532,-104.845648543967,2561,"Saints","#null","#null","Siena, NA, NA",0,0,0
+"Simon Fraser",35.895335,-78.515105,2829,"Clansmen","#000000","#null","Simon Fraser, Burnaby, BC",0,0,0
+"Simpson College (IA)",41.3604966,-93.5613292,2564,"Storm","#b20838","#f0b310","Simpson College (IA), Indianola, IA",0,0,0
+"Simpson University (Ca)",33.979322,-117.328902,129758,"Simpuca","#null","#null","Simpson University (Ca), NA, NA",0,0,0
+"Slippery Rock",41.0639506,-80.0564468,215,"The Rock","#null","#null","Slippery Rock, Slippery Rock, PA",0,0,0
+"SMU",32.8377223,-96.7827859,2567,"Mustangs","#354ca1","#cc0035","SMU, University Park, TX",0,0,0
+"Snow College",40.424429,-86.92364,1000941,"Unknown","#null","#null","Snow College, NA, NA",0,0,1
+"SOUTH",-1.30995,36.83377,3144,"All-Stars","#000000","#null","SOUTH, NA, NA",0,0,0
+"South Alabama",30.6943566,-88.0430541,6,"Jaguars","#00205B","#BF0D3E","South Alabama, Mobile, AL",0,0,0
+"South Carolina",33.9730239,-81.0191726,2579,"Gamecocks","#73000a","#ffffff","South Carolina, Columbia, SC",0,0,0
+"South Carolina State",33.4986313,-80.8446857,2569,"Bulldogs","#7d1315","#104897","South Carolina State, Orangeburg, SC",0,0,0
+"South Dakota",42.7911218,-96.9278427,233,"Coyotes","#CD1241","#f0f0f0","South Dakota, Vermillion, SD",0,0,0
+"South Dakota Mines",44.0869329,-103.2274481,613,"Hardrockers","#null","#null","South Dakota Mines, Rapid City, SD",0,0,0
+"South Dakota State",44.3210182,-96.7801386,2571,"Jackrabbits","#0033a0","#ffd100","South Dakota State, Brookings, SD",0,0,0
+"Southeastern Louisiana",30.5125,-90.4701,1001028,"Unknown","#null","#null","Southeastern Louisiana, NA, NA",0,0,1
+"Southeastern Oklahoma State",33.9919761,-96.3776762,199,"Savage Storm","#null","#null","Southeastern Oklahoma State, Durant, OK",0,0,0
+"Southeast Missouri State",37.3034933,-89.5230357,2546,"Redhawks","#c8102e","#000000","Southeast Missouri State, Cape Girardeau, MO",0,0,0
+"Southeast Oklahoma State",21.50951,-104.89569,1001007,"Unknown","#null","#null","Southeast Oklahoma State, NA, NA",0,0,1
+"Southern",30.5221461,-91.1896087,2582,"Jaguars","#004B97","#ffc82d","Southern, Baton Rouge, LA",0,0,0
+"Southern Arkansas",33.2670725,-93.2393341,2568,"Muleriders","#null","#null","Southern Arkansas, Magnolia, AR",0,0,0
+"Southern Connecticut State",41.3082138,-72.9250518,2583,"Owls","#null","#null","Southern Connecticut State, New Haven, CT",0,0,0
+"Southern Illinois",37.708637,-89.216212,79,"Salukis","#85283D","#c2c3c0","Southern Illinois, Carbondale, IL",0,0,0
+"Southern Miss",31.3289321,-89.3318118,2572,"Golden Eagles","#FFAA3C","#ffc423","Southern Miss, Hattiesburg, MS",0,0,0
+"Southern Nazarene",35.5186728,-97.6322648,200,"Crimson Storm","#null","#null","Southern Nazarene, Bethany, OK",0,0,0
+"Southern Oregon",42.3747172,-122.9156173,2584,"Raiders","#null","#null","Southern Oregon, NA, NA",0,0,0
+"Southern Utah",37.6757919,-113.0773938,253,"Thunderbirds","#c72026","#000000","Southern Utah, Cedar City, UT",0,0,0
+"Southern Virginia",37.7342962,-79.3539292,2896,"Knights","#null","#null","Southern Virginia, Buena Vista, VA",0,0,0
+"South Florida",27.9758691,-82.5033344,58,"Bulls","#004A36","#231f20","South Florida, Tampa, FL",0,0,0
+"Southwest Baptist",37.1976229,-93.2798119,2586,"Bearcats","#null","#null","Southwest Baptist, Springfield, MO",0,0,0
+"Southwestern Assemblies Of God",21.50951,-104.89569,2904,"Lions","#null","#null","Southwestern Assemblies Of God, NA, NA",0,0,0
+"Southwestern College",35.1537,-89.9894,616,"Moundbuilders","#null","#null","Southwestern College, NA, NA",0,0,0
+"Southwestern Oklahoma State",35.5261633,-98.7075744,2927,"Bulldogs","#null","#null","Southwestern Oklahoma State, Weatherford, OK",0,0,0
+"Southwest Minnesota State",48.3605336,-96.381968,2587,"Mustangs","#null","#null","Southwest Minnesota State, Marshall, MN",0,0,0
+"Southwest Mississippi C.C.",21.50951,-104.89569,1000980,"Unknown","#null","#null","Southwest Mississippi C.C., NA, NA",0,0,1
+"Springfield",42.1018764,-72.5886727,81,"Pride","#null","#null","Springfield, Springfield, MA",0,0,0
+"St Ambrose University  Iowa",21.6999593,-104.0880309,2591,"Fighting Bees","#null","#null","St Ambrose University  Iowa, NA, NA",0,0,0
+"Stanford",37.4345556,-122.1611271,24,"Cardinal","#8c1515","#ffffff","Stanford, Stanford, CA",0,0,0
+"St. Anselm",42.9956397,-71.4547891,2830,"Hawks","#null","#null","St. Anselm, Manchester, NH",0,0,0
+"St. Augustine's",35.7803977,-78.6390989,395,"Falcons","#000000","#null","St. Augustine's, Raleigh, NC",0,0,0
+"St. Cloud State",21.802060111765,-104.855408283338,2594,"Huskies","#000000","#null","St. Cloud State, NA, NA",0,0,0
+"Stephen F. Austin",31.625719,-94.6444034,2617,"Lumberjacks","#393996","#bec0c2","Stephen F. Austin, Nacogdoches, TX",0,0,0
+"Sterling College",38.2170715,-98.2113665,618,"Sterling Ks","#null","#null","Sterling College, NA, NA",0,0,0
+"Stetson",29.0208575,-81.2993746,56,"Hatters","#0a5640","#56854e","Stetson, DeLand, FL",0,0,0
+"Stevenson",39.4102772,-76.7128314,471,"Mustangs","#005747","#000000","Stevenson, Stevenson, MD",0,0,0
+"St Francis Illinois",37.899819,-88.453069,2595,"Fighting Saints","#null","#null","St Francis Illinois, NA, NA",0,0,0
+"St. Francis (PA)",40.5063173,-78.637214,2598,"Red Flash","#a20012","#null","St. Francis (PA), Loretto, PA",0,0,0
+"Stillman",23.029154,72.556997,2948,"Tigers","#null","#null","Stillman, NA, NA",0,0,0
+"St John Fisher University",43.157285,-77.615214,374,"Cardinals","#null","#null","St John Fisher University, Rochester, NY",0,0,0
+"St. Joseph's (IN)",41.68338,-86.25001,2601,"Pumas","#000000","#null","St. Joseph's (IN), NA, NA",0,0,0
+"St. Lawrence",44.5956163,-75.1690942,2779,"Saints","#null","#null","St. Lawrence, Canton, NY",0,0,0
+"St. Louis",25.8025781,-109.0637018,2880,"Spartans","#null","#null","St. Louis, NA, NA",0,0,0
+"St. Mary's (CA)",45.192396036,-62.170655241,2608,"Gaels","#null","#null","St. Mary's (CA), NA, NA",0,0,0
+"St. Norbert",44.4493584,-88.0599986,2832,"Green Knights","#null","#null","St. Norbert, De Pere, WI",0,0,0
+"St. Olaf",44.4582041,-93.161159,133,"Oles","#null","#d18c29","St. Olaf, Northfield, MN",0,0,0
+"Stonehill",42.0667665,-71.1036592,284,"Skyhawks","#null","#null","Stonehill, North Easton, MA",0,0,0
+"Stony Brook",40.9188829,-73.1242966,2619,"Seawolves","#990000","#null","Stony Brook, Stony Brook, NY",0,0,0
+"St. Paul's College",21.50951,-104.89569,2611,"Tigers","#000000","#null","St. Paul's College, NA, NA",0,0,0
+"St. Peter's",21.50951,-104.89569,2612,"Peacocks","#001555","#null","St. Peter's, NA, NA",0,0,0
+"St. Petersburg",51.593676999,11.949686,3254,"Glory Eagles","#null","#null","St. Petersburg, NA, NA",0,0,0
+"St. Scholastica",46.7729322,-92.1251218,375,"Saints","#null","#null","St. Scholastica, Duluth, MN",0,0,0
+"St. Thomas (MN)",44.9497487,-93.0931028,2900,"Tommies","#null","#null","St. Thomas (MN), Saint Paul, MN",0,0,0
+"St. Thomas University",21.6999593,-104.0880309,1000968,"Unknown","#null","#null","St. Thomas University, NA, NA",0,0,1
+"St. Thomas University (Fl)",21.6999593,-104.0880309,125730,"Stthom","#null","#null","St. Thomas University (Fl), NA, NA",0,0,0
+"St. Xavier IL",21.50951,-104.89569,2615,"Cougars","#null","#null","St. Xavier IL, NA, NA",0,0,0
+"Sul Ross State",30.3573802,-103.6609367,2834,"Lobos","#null","#null","Sul Ross State, Alpine, TX",0,0,0
+"SUNY Maritime",40.807528,-73.797744,2951,"Privateers","#null","#null","SUNY Maritime, Bronx, NY",0,0,0
+"SUNY Morrisville",42.8986566,-75.6402204,3110,"Mustangs","#null","#null","SUNY Morrisville, Morrisville, NY",0,0,0
+"Susquehanna",40.8062437,-76.8607084,216,"River Hawks","#6b1a31","#fd6b0d","Susquehanna, Selinsgrove, PA",0,0,0
+"Syracuse",43.0362269,-76.1363161,183,"Orange","#ff6500","#000e54","Syracuse, Syracuse, NY",0,0,0
+"Tarleton State",32.2191836,-98.2130634,2627,"Texans","#null","#null","Tarleton State, Stephenville, TX",0,0,0
+"TCU",32.7096604,-97.3680835,2628,"Horned Frogs","#4d1979","#f1f2f3","TCU, Fort Worth, TX",0,0,0
+"Temple",39.9007995,-75.1675414,218,"Owls","#A80532","#a7a9ac","Temple, Philadelphia, PA",0,0,0
+"Tennessee",35.9550131,-83.9250128,2633,"Volunteers","#ff8200","#58595b","Tennessee, Knoxville, TN",0,0,0
+"Tennessee State",36.166479,-86.7712898,2634,"Tigers","#171796","#f0f0f0","Tennessee State, Nashville, TN",0,0,0
+"Tennessee Tech",36.1780555,-85.506183,2635,"Golden Eagles","#5A4099","#ffde00","Tennessee Tech, Cookeville, TN",0,0,0
+"Texas",30.2836813,-97.7325345,251,"Longhorns","#c15d26","#ffffff","Texas, Austin, TX",0,0,0
+"Texas A&M",30.6098891,-96.3403828,245,"Aggies","#500000","#ffffff","Texas A&M, College Station, TX",0,0,0
+"Texas A&M-Kingsville",27.5158689,-97.856109,2658,"Javelinas","#null","#null","Texas A&M-Kingsville, Kingsville, TX",0,0,0
+"Texas College",19.882435,74.477871,2637,"Steers","#null","#null","Texas College, NA, NA",0,0,0
+"Texas Lutheran",29.5688411,-97.9647269,2639,"Bulldogs","#fdbe10","#000000","Texas Lutheran, Seguin, TX",0,0,0
+"Texas-Permian Basin",21.50951,-104.89569,1000938,"Unknown","#null","#null","Texas-Permian Basin, NA, NA",0,0,1
+"Texas-Rio Grande Valley",26.318359860829,-98.654906635531,1001032,"Unknown","#null","#null","Texas-Rio Grande Valley, NA, NA",0,0,1
+"Texas Southern",29.7521988,-95.3524146,2640,"Tigers","#860038","#ffffff","Texas Southern, Houston, TX",0,0,0
+"Texas State",29.8910008,-97.9255735,326,"Bobcats","#4e1719","#b4975a","Texas State, San Marcos, TX",0,0,0
+"Texas Tech",33.5910518,-101.8728824,2641,"Red Raiders","#CC0000","#000000","Texas Tech, Lubbock, TX",0,0,0
+"Texas Wesleyan",35.362851,-84.559377,102626,"Rams","#null","#null","Texas Wesleyan, NA, NA",0,0,0
+"Thaddeus Stevens",38.903167,-77.046977,122776,"Bulldogs","#null","#null","Thaddeus Stevens, NA, NA",0,0,0
+"The Citadel",32.7936975,-79.9558183,2643,"Bulldogs","#002b5c","#f0f0f0","The Citadel, Charleston, SC",0,0,0
+"Thomas More College",21.50951,-104.89569,2646,"Saints","#null","#null","Thomas More College, NA, NA",0,0,0
+"Tiffin University",21.6999593,-104.0880309,625,"Dragons","#null","#null","Tiffin University, NA, NA",0,0,0
+"Toledo",41.6574777,-83.6135652,2649,"Rockets","#0a2240","#ffcd00","Toledo, Toledo, OH",0,0,0
+"Towson",39.3885683,-76.6159716,119,"Tigers","#FFC229","#null","Towson, Towson, MD",0,0,0
+"Trine University",41.634874,-84.99928,2651,"Thunder","#null","#null","Trine University, Angola, IN",0,0,0
+"Trinity Bible College",21.50951,-104.89569,3214,"Lions","#null","#null","Trinity Bible College, NA, NA",0,0,0
+"Trinity (CT)",41.764582,-72.6908547,2977,"Bantams","#032d58","#fecd01","Trinity (CT), Hartford, CT",0,0,0
+"Trinity (IL)",37.10005,-89.26147,2652,"Trojans","#000000","#null","Trinity (IL), NA, NA",0,0,0
+"Trinity University TX",29.4246002,-98.4951405,386,"Tigers","#null","#null","Trinity University TX, San Antonio, TX",0,0,0
+"Trinity Valley C.C.",21.50951,-104.89569,1000969,"Unknown","#null","#null","Trinity Valley C.C., NA, NA",0,0,1
+"Troy",40.845376,14.208533,3237,"Vikings","#null","#null","Troy, NA, NA",0,0,0
+"Truman State",40.1948848,-92.5833939,2654,"Bulldogs","#null","#null","Truman State, Kirksville, MO",0,0,0
+"Tufts",42.4184296,-71.1061639,112,"Jumbos","#3e8ede","#c6beb6","Tufts, Medford, MA",0,0,0
+"Tufts University",21.6999593,-104.0880309,1000998,"Unknown","#null","#null","Tufts University, NA, NA",0,0,1
+"Tulane",29.944616,-90.116692,2655,"Green Wave","#006547","#468ac9","Tulane, New Orleans, LA",0,0,0
+"Tulsa",36.1489175,-95.9437853,202,"Golden Hurricane","#003595","#d0b787","Tulsa, Tulsa, OK",0,0,0
+"Tuskegee",32.4240286,-85.6916195,2657,"Golden Tigers","#null","#null","Tuskegee, Tuskegee, AL",0,0,0
+"Tyler J.C.",21.50951,-104.89569,1000967,"Unknown","#null","#null","Tyler J.C. , NA, NA",0,0,1
+"UAB",33.5206824,-86.8024326,5,"Blazers","#003b28","#ffc845","UAB, Birmingham, AL",0,0,0
+"UAlbany",42.6808062,-73.8272841,399,"Great Danes","#3D2777","#ffffff","UAlbany, Albany, NY",0,0,0
+"UC Davis",38.5365266,-121.7627936,302,"Aggies","#002855","#c3c4c6","UC Davis, Davis, CA",0,0,0
+"UCF",28.6079765,-81.1927233,2116,"Knights","#ba9b37","#000000","UCF, Orlando, FL",0,0,0
+"UCLA",34.1613284,-118.1676462,26,"Bruins","#2774ae","#f2a900","UCLA, Pasadena, CA",0,0,0
+"UConn",41.7595675,-72.6187728,41,"Huskies","#0c2340","#f1f2f3","UConn, East Hartford, CT",0,0,0
+"UFTL",21.50951,-104.89569,124110,"Eagles","#null","#null","UFTL, NA, NA",0,0,0
+"UL Monroe",32.5308089,-92.0660602,2433,"Warhawks","#231F20","#b18445","UL Monroe, Monroe, LA",0,0,0
+"UMass Dartmouth",41.6332267,-70.9879928,379,"Corsairs","#null","#null","UMass Dartmouth, Dartmouth, MA",0,0,0
+"UMass Lowell",21.50951,-104.89569,2349,"River Hawks","#000000","#cf1f2f","UMass Lowell, NA, NA",0,0,0
+"UNC Pembroke",34.6801627,-79.1950373,2882,"Braves","#null","#null","UNC Pembroke, Pembroke, NC",0,0,0
+"UNC-Pembroke",21.50951,-104.89569,1001031,"Unknown","#null","#null","UNC-Pembroke, NA, NA",0,0,1
+"Union (NY)",42.8142432,-73.9395687,237,"Garnet Chargers","#null","#null","Union (NY), Schenectady, NY",0,0,0
+"University of Charleston",21.6999593,-104.0880309,1001030,"Unknown","#null","#null","University of Charleston, NA, NA",0,0,1
+"University Of Charleston (WV)",38.3505995,-81.6332812,2128,"Golden Eagles","#null","#null","University Of Charleston (WV), Charleston, WV",0,0,0
+"University of God's Chosen",21.6999593,-104.0880309,109425,"Disciples","#null","#null","University of God's Chosen, NA, NA",0,0,0
+"University of Guelph",21.6999593,-104.0880309,1001000,"Unknown","#null","#null","University of Guelph, NA, NA",0,0,1
+"University Of Mexico",21.4919,-104.8914,3212,"Mexico U","#null","#null","University Of Mexico, NA, NA",0,0,0
+"University of Mount Union",40.9153362,-81.1059309,426,"Raiders","#null","#null","University of Mount Union, Alliance, OH",0,0,0
+"University of Rochester (NY)",43.157285,-77.615214,184,"Yellow Jackets","#null","#null","University of Rochester (NY), Rochester, NY",0,0,0
+"University Of St Francis IN",21.6999593,-104.0880309,2831,"Cougars","#null","#null","University Of St Francis IN, NA, NA",0,0,0
+"UNLV",36.1672559,-115.1485163,2439,"Rebels","#b10202","#ffffff","UNLV, Las Vegas, NV",0,0,0
+"Upper Iowa University",42.8420766,-91.850265,389,"Peacocks","#null","#null","Upper Iowa University, Fayette, IA",0,0,0
+"Urbana",42.0551,3.2027,2666,"Blue Knights","#000000","#null","Urbana, NA, NA",0,0,0
+"Ursinus",40.1856597,-75.451571,2667,"Bears","#98012e","#fcb034","Ursinus, Collegeville, PA",0,0,0
+"USC",34.014167,-118.287778,30,"Trojans","#9e2237","#ffcc00","USC, Los Angeles, CA",0,0,0
+"Utah",40.7599724,-111.8488255,254,"Utes","#ea002a","#ffffff","Utah, Salt Lake City, UT",0,0,0
+"Utah State",41.7517394,-111.8116007,328,"Aggies","#00263a","#949ca1","Utah State, Logan, UT",0,0,0
+"Utah Tech",37.1098868,-113.5674494,3101,"Trailblazers","#null","#null","Utah Tech, Saint George, UT",0,0,0
+"UTEP",31.7733353,-106.507957,2638,"Miners","#ff8200","#041e42","UTEP, El Paso, TX",0,0,0
+"Utica",43.1009031,-75.2326641,390,"Pioneers","#null","#null","Utica, Utica, NY",0,0,0
+"UT Martin",36.3448341,-88.8616245,2630,"Skyhawks","#FF6700","#102a5c","UT Martin, Martin, TN",0,0,0
+"UT Permian Basin",31.8457149,-102.367687,110243,"Falcons","#null","#null","UT Permian Basin, Odessa, TX",0,0,0
+"UT-Rio Grande Valley",20.715956592533,-105.270558121868,1001033,"Unknown","#null","#null","UT-Rio Grande Valley, NA, NA",0,0,1
+"UTSA",29.4169834,-98.4788143,2636,"Roadrunners","#002A5C","#f47321","UTSA, San Antonio, TX",0,0,0
+"UVA Wise",36.9759345,-82.5757108,2842,"Cavaliers","#e30000","#000000","UVA Wise, Wise, VA",0,0,0
+"Valdosta State",30.8327022,-83.2784851,2673,"Blazers","#dd1a32","#000000","Valdosta State, Valdosta, GA",0,0,0
+"Valley City State",21.50951,-104.89569,628,"Valley City St","#null","#null","Valley City State, NA, NA",0,0,0
+"Valparaiso",41.465642,-87.0479446,2674,"Beacons","#794500","#null","Valparaiso, Valparaiso, IN",0,0,0
+"Vanderbilt",36.1440455,-86.8088942,238,"Commodores","#866d4b","#000000","Vanderbilt, Nashville, TN",0,0,0
+"Villanova",40.0343329,-75.3367666,222,"Wildcats","#00205b","#13b5ea","Villanova, Villanova, PA",0,0,0
+"Virginia",38.0311801,-78.5137897,258,"Cavaliers","#232d4b","#f84c1e","Virginia, Charlottesville, VA",0,0,0
+"Virginia St",37.227928,-77.4019268,330,"Trojans","#null","#null","Virginia St, Petersburg, VA",0,0,0
+"Virginia Tech",37.2199873,-80.4180643,259,"Hokies","#630031","#cf4520","Virginia Tech, Blacksburg, VA",0,0,0
+"Virginia University Of Lynchburg",37.978782471852,-78.545635310554,2355,"Dragons","#null","#null","Virginia University Of Lynchburg, NA, NA",0,0,0
+"VMI",37.788983,-79.43505,2678,"Keydets","#E52D37","#eec52b","VMI, Lexington, VA",0,0,0
+"Wabash College",40.0401991,-86.8990249,89,"Little Giants","#null","#null","Wabash College, Crawfordsville, IN",0,0,0
+"Wagner",40.614688,-74.090639,2681,"Seahawks","#00483A","#ffffff","Wagner, Staten Island, NY",0,0,0
+"Wake Forest",36.1305507,-80.2545851,154,"Demon Deacons","#9E7E38","#000000","Wake Forest, Winston-Salem, NC",0,0,0
+"Waldorf College",43.2629085,-93.6405142,3080,"Warriors","#null","#null","Waldorf College, NA, NA",0,0,0
+"Walsh",40.7985464,-81.3749508,2682,"Cavaliers","#null","#null","Walsh, Canton, OH",0,0,0
+"Warner University",21.6999593,-104.0880309,2683,"Royals","#null","#null","Warner University, NA, NA",0,0,0
+"Wartburg",42.7258451,-92.4746033,2685,"Knights","#f5822b","#000000","Wartburg, Waverly, IA",0,0,0
+"Washburn",39.049011,-95.677556,2687,"Ichabods","#null","#null","Washburn, Topeka, KS",0,0,0
+"Washington",47.6503235,-122.3015746,264,"Huskies","#33006f","#e8d3a2","Washington, Seattle, WA",0,0,0
+"Washington and Lee",37.7840208,-79.4428157,2688,"Generals","#000399","#d8d8d8","Washington and Lee, Lexington, VA",0,0,0
+"Washington & Jefferson",31.3991238,-88.2019828,2686,"Presidents","#null","#null","Washington & Jefferson, Washington, PA",0,0,0
+"Washington State",46.731831,-117.1604991,265,"Cougars","#981e32","#ffffff","Washington State, Pullman, WA",0,0,0
+"Washington University (St. Louis)",38.6264256,-90.1995853,143,"Bears","#null","#null","Washington University (St. Louis), Saint Louis, MO",0,0,0
+"Wayland Baptist",21.50951,-104.89569,630,"Pioneers","#null","#null","Wayland Baptist, NA, NA",0,0,0
+"Waynesburg",39.8964641,-80.1792299,2845,"Yellow Jackets","#null","#null","Waynesburg, Waynesburg, PA",0,0,0
+"Wayne State (MI)",42.3315509,-83.0466403,131,"Warriors","#null","#null","Wayne State (MI), Detroit, MI",0,0,0
+"Wayne State (NE)",42.1941294,-97.169623,2844,"Wildcats","#null","#null","Wayne State (NE), Wayne, NE",0,0,0
+"Webber International",31.6438156,74.877157,2691,"Warriors","#bf2f38","#909090","Webber International, NA, NA",0,0,0
+"Weber State",41.1918741,-111.9401391,2692,"Wildcats","#18005a","#ebebeb","Weber State, Ogden, UT",0,0,0
+"Wesleyan University (CT)",41.5623178,-72.6509061,336,"Cardinals","#d72121","#000000","Wesleyan University (CT), Middletown, CT",0,0,0
+"Wesley College",40.31971,-80.08027,2846,"Wolverines","#000000","#null","Wesley College, NA, NA",0,0,0
+"West",21.43333,-106.46667,3147,"All-Stars","#000000","#null","West, NA, NA",0,0,0
+"West Alabama",32.5843026,-88.1872474,2695,"Tigers","#d31d33","#ffffff","West Alabama, Livingston, AL",0,0,0
+"West Chester",39.9597213,-75.6059638,223,"Golden Rams","#null","#null","West Chester, West Chester, PA",0,0,0
+"Western Carolina",35.3048352,-83.1818148,2717,"Catamounts","#492F91","#bf9e70","Western Carolina, Cullowhee, NC",0,0,0
+"Western Colorado",38.6476702,-107.0603126,2714,"Mountaineers","#null","#null","Western Colorado, Gunnison, CO",0,0,0
+"Western Connecticut St",41.394817,-73.4540111,2843,"Wolves","#002857","#ffffff","Western Connecticut St, Danbury, CT",0,0,0
+"Western Illinois",40.4683928,-90.6841248,2710,"Leathernecks","#4e1e8a","#ffc90a","Western Illinois, Macomb, IL",0,0,0
+"Western Kentucky",36.9847901,-86.4594041,98,"Hilltoppers","#F32026","#b3b5b8","Western Kentucky, Bowling Green, KY",0,0,0
+"Western Michigan",42.2860064,-85.6007573,2711,"Broncos","#532e1f","#8b7f79","Western Michigan, Kalamazoo, MI",0,0,0
+"Western New England",42.1018764,-72.5886727,2702,"Golden Bears","#null","#null","Western New England, Springfield, MA",0,0,0
+"Western New Mexico",32.7751371,-108.2754371,2703,"Mustangs","#null","#null","Western New Mexico, Silver City, NM",0,0,0
+"Western Oregon",44.8486414,-123.2290777,2848,"Wolves","#null","#null","Western Oregon, Monmouth, OR",0,0,0
+"Western Washington",47.038522,-122.90585,2847,"Vikings","#000000","#null","Western Washington, NA, NA",0,0,0
+"Westfield State",42.1390327,-72.7584859,2909,"Owls","#1b509e","#000000","Westfield State, Westfield, MA",0,0,0
+"West Florida",20.749849577207,-105.24504908341,110242,"Argonauts","#null","#null","West Florida, NA, NA",0,0,0
+"West Georgia",33.5801103,-85.0766113,2698,"Wolves","#0033a1","#db1a21","West Georgia, Carrollton, GA",0,0,0
+"West Liberty",40.0639616,-80.7209149,2699,"Hilltoppers","#null","#null","West Liberty, Wheeling, WV",0,0,0
+"West Memphis",21.50951,-104.89569,3211,"Crusaders","#null","#null","West Memphis, NA, NA",0,0,0
+"Westminster College (MO)",38.8467082,-91.9479586,433,"Blue Jays","#06496f","#ffffff","Westminster College (MO), Fulton, MO",0,0,0
+"Westminster (PA)",41.1222812,-80.3328428,2849,"Titans","#null","#null","Westminster (PA), New Wilmington, PA",0,0,0
+"West Texas A&M",34.9799429,-101.919197,2704,"Buffaloes","#null","#null","West Texas A&M, Canyon, TX",0,0,0
+"West Virginia",39.6502744,-79.9551873,277,"Mountaineers","#002855","#eaaa00","West Virginia, Morgantown, WV",0,0,0
+"West Virginia Institute Of Tech",38.383422,-81.7640998,2706,"Golden Bears","#null","#null","West Virginia Institute Of Tech, NA, NA",0,0,0
+"West Virginia State",38.3836097,-81.7654665,2707,"Yellow Jackets","#null","#null","West Virginia State, Institute, WV",0,0,0
+"West Virginia Wesleyan",38.9939426,-80.2322698,455,"Bobcats","#null","#null","West Virginia Wesleyan, Buckhannon, WV",0,0,0
+"Wheaton",41.8646959,-88.1101709,396,"Thunder","#null","#null","Wheaton, Wheaton, IL",0,0,0
+"Wheeling",40.0639616,-80.7209149,112335,"Cardinals","#null","#null","Wheeling, Wheeling, WV",0,0,0
+"Whittier",33.9708782,-118.0308396,2850,"Poets","#000000","#null","Whittier, Whittier, CA",0,0,0
+"Whitworth",47.6571934,-117.4235106,2721,"Pirates","#930036","#000000","Whitworth, Spokane, WA",0,0,0
+"Widener",39.849557,-75.3557458,2725,"Pride","#0056ba","#fdc743","Widener, Chester, PA",0,0,0
+"Wilkes",33.707182,-85.5102146871894,398,"Colonels","#002856","#ffcd00","Wilkes, Edwardsville, PA",0,0,0
+"Willamette",44.9391565,-123.033121,2930,"Bearcats","#960a2c","#ab9e76","Willamette, Salem, OR",0,0,0
+"William Jewell",39.246479,-94.419079,2911,"Cardinals","#null","#null","William Jewell, Liberty, MO",0,0,0
+"William Jewell College",21.50951,-104.89569,1001046,"Unknown","#null","#null","William Jewell College, NA, NA",0,0,1
+"William & Mary",37.2730996,-76.7137202,2729,"Tribe","#103217","#f6b220","William & Mary, Williamsburg, VA",0,0,0
+"William Paterson",40.9491723,-74.2376802,2970,"Pioneers","#null","#f57b21","William Paterson, Wayne, NJ",0,0,0
+"William Penn",28.528466,77.219001,2912,"Statesmen","#null","#null","William Penn, NA, NA",0,0,0
+"Williams",42.6889156,-73.2246057,2731,"Ephs","#500082","#ffbe0a","Williams, Williamstown, MA",0,0,0
+"Williamson Trade School",21.50951,-104.89569,3130,"Mechanics","#null","#null","Williamson Trade School, NA, NA",0,0,0
+"William Woods",55.7942198,-4.2894673,129741,"Wwu","#null","#null","William Woods, NA, NA",0,0,0
+"Wilmington (OH)",39.4453393,-83.8285375,2733,"Fightin' Quakers","#null","#null","Wilmington (OH), Wilmington, OH",0,0,0
+"Wilson",35.7212689,-77.9155395,122666,"Bulldogs","#null","#null","Wilson, Wilson, NC",0,0,0
+"Wingate",34.9843176,-80.4492319,351,"Bulldogs","#182441","#c1b585","Wingate, Wingate, NC",0,0,0
+"Winona State",43.9582272,-91.7807784,2851,"Warriors","#null","#null","Winona State, Winona, MN",0,0,0
+"Winston-Salem",36.083372,-80.222037,2736,"Rams","#bb0100","#null","Winston-Salem, Winston-Salem, NC",0,0,0
+"Winston-Salem State",21.50951,-104.89569,1000935,"Unknown","#null","#null","Winston-Salem State, NA, NA",0,0,1
+"Wisconsin",43.06994,-89.4126943,275,"Badgers","#c4012f","#ffffff","Wisconsin, Madison, WI",0,0,0
+"Wisconsin-Eau Claire",44.811349,-91.4984941,2738,"Blugolds","#null","#null","Wisconsin-Eau Claire, Eau Claire, WI",0,0,0
+"Wisconsin-Lacrosse",43.8122836,-91.2514355,2740,"Eagles","#null","#null","Wisconsin-Lacrosse, La Crosse, WI",0,0,0
+"Wisconsin-Lutheran",43.0494122,-88.0079271,2741,"Warriors","#006241","#000000","Wisconsin-Lutheran, Wauwatosa, WI",0,0,0
+"Wisconsin-Oshkosh",44.0206919,-88.5408574,271,"Titans","#null","#null","Wisconsin-Oshkosh, Oshkosh, WI",0,0,0
+"Wisconsin-Platteville",42.7342942,-90.4784451,272,"Pioneers","#null","#null","Wisconsin-Platteville, Platteville, WI",0,0,0
+"Wisconsin-River Falls",44.8595111,-92.6265897,2723,"Falcons","#null","#null","Wisconsin-River Falls, River Falls, WI",0,0,0
+"Wisconsin-Stevens Pt",44.5229223,-89.574111,2743,"Pointers","#null","#null","Wisconsin-Stevens Pt, Stevens Point, WI",0,0,0
+"Wisconsin-Stout",44.8755183,-91.9193422,2744,"Blue Devils","#null","#null","Wisconsin-Stout, Menomonie, WI",0,0,0
+"Wisconsin-Whitewater",42.8336422,-88.7292679,2745,"Warhawks","#null","#null","Wisconsin-Whitewater, Whitewater, WI",0,0,0
+"Wittenberg",39.937943,-83.812075,2746,"Tigers","#null","#null","Wittenberg, Springfield, OH",0,0,0
+"Wofford",34.9618606,-81.9328915,2747,"Terriers","#533B23","#f0f0f0","Wofford, Spartanburg, SC",0,0,0
+"Wooster",40.7980976,-81.9397733,2748,"Fighting Scots","#null","#null","Wooster, Wooster, OH",0,0,0
+"Worcester Polytechnic Institute",42.2625621,-71.8018877,2749,"Engineers","#null","#null","Worcester Polytechnic Institute, Worcester, MA",0,0,0
+"Worcester St",42.2625621,-71.8018877,402,"Lancers","#004b8e","#ffc629","Worcester St, Worcester, MA",0,0,0
+"Wright State University",21.6999593,-104.0880309,2750,"Raiders","#cba052","#cba052","Wright State University, NA, NA",0,0,0
+"Wyoming",41.31161,-105.5681384,2751,"Cowboys","#492f24","#ffc425","Wyoming, Laramie, WY",0,0,0
+"Yale",41.3132441,-72.9605333,43,"Bulldogs","#004a81","#286dc0","Yale, New Haven, CT",0,0,0
+"Youngstown State",41.1092964,-80.6501885,2754,"Penguins","#E51936","#690717","Youngstown State, Youngstown, OH",0,0,0
+"10th District A.C.",21.50951,-104.89569,1000509,"Unknown","#null","#null","10th District A.C., NA, NA",0,0,1
+"111th Ambulance",21.50951,-104.89569,1000571,"Unknown","#null","#null","111th Ambulance, NA, NA",0,0,1
+"11th Cavalry",21.50951,-104.89569,1000449,"Unknown","#null","#null","11th Cavalry, NA, NA",0,0,1
+"1st Infantry",21.50951,-104.89569,1000727,"Unknown","#null","#null","1st Infantry, NA, NA",0,0,1
+"1st Texas Artillery",21.042818888692,-104.37466242464,1000557,"Unknown","#null","#null","1st Texas Artillery, NA, NA",0,0,1
+"20th Infantry",21.50951,-104.89569,1000726,"Unknown","#null","#null","20th Infantry, NA, NA",0,0,1
+"260th Coast Artillery",21.50951,-104.89569,1000770,"Unknown","#null","#null","260th Coast Artillery, NA, NA",0,0,1
+"26th Infantry",21.50951,-104.89569,1000399,"Unknown","#null","#null","26th Infantry, NA, NA",0,0,1
+"2nd Developmemt Regiment",21.50951,-104.89569,1000633,"Unknown","#null","#null","2nd Developmemt Regiment, NA, NA",0,0,1
+"2nd Texas 132nd Infantry",21.50951,-104.89569,1000566,"Unknown","#null","#null","2nd Texas 132nd Infantry, NA, NA",0,0,1
+"362nd Infantry",21.50951,-104.89569,1000562,"Unknown","#null","#null","362nd Infantry, NA, NA",0,0,1
+"3rd Army Corps",21.50951,-104.89569,1000677,"Unknown","#null","#null","3rd Army Corps, NA, NA",0,0,1
+"47th Infantry",21.50951,-104.89569,1000549,"Unknown","#null","#null","47th Infantry, NA, NA",0,0,1
+"48th Infantry",21.50951,-104.89569,1000600,"Unknown","#null","#null","48th Infantry, NA, NA",0,0,1
+"7th Infantry",21.50951,-104.89569,1000551,"Unknown","#null","#null","7th Infantry, NA, NA",0,0,1
+"9th Amry Corps",21.50951,-104.89569,1000668,"Unknown","#null","#null","9th Amry Corps, NA, NA",0,0,1
+"Abilene Field",21.50951,-104.89569,1000817,"Unknown","#null","#null","Abilene Field, NA, NA",0,0,1
+"Active Football Club",21.50951,-104.89569,1000093,"Unknown","#null","#null","Active Football Club, NA, NA",0,0,1
+"Actual Business College",21.50951,-104.89569,1000379,"Unknown","#null","#null","Actual Business College, NA, NA",0,0,1
+"Adelbert",21.50951,-104.89569,1000173,"Unknown","#null","#null","Adelbert, NA, NA",0,0,1
+"Adelphi",17.406561,78.430254,1000872,"Unknown","#null","#null","Adelphi, NA, NA",0,0,1
+"Alabama Medical",26.60207,-80.15465,1000654,"Unknown","#null","#null","Alabama Medical, NA, NA",0,0,1
+"Alabama Presbyterian",32.576544,-92.465922,1000481,"Unknown","#null","#null","Alabama Presbyterian, NA, NA",0,0,1
+"Alabama Southern",34.4745362,-86.5272118,1000473,"Unknown","#null","#null","Alabama Southern, NA, NA",0,0,1
+"Alameda Coast Guard",21.50951,-104.89569,1000008,"Sea Lions","#null","#null","Alameda Coast Guard, NA, NA",0,0,0
+"Alameda NAS",21.812561888161,-105.100705039269,1000869,"Unknown","#null","#null","Alameda NAS, NA, NA",0,0,1
+"Albertson",21.498375709768,-105.169042636553,1000672,"Unknown","#null","#null","Albertson, NA, NA",0,0,1
+"Albuquerque Field",21.50951,-104.89569,1000782,"Unknown","#null","#null","Albuquerque Field, NA, NA",0,0,1
+"Alliance",25.3252905,82.9996316,1000874,"Unknown","#null","#null","Alliance, NA, NA",0,0,1
+"Altoona A.C.",21.517896241317,-104.911995727376,1000409,"Unknown","#null","#null","Altoona A.C., NA, NA",0,0,1
+"Alverno College",42.982842,-87.965174,1000915,"Unknown","#null","#null","Alverno College, NA, NA",0,0,1
+"Amarillo Field",21.50951,-104.89569,1000009,"Sky Giants","#null","#null","Amarillo Field, NA, NA",0,0,0
+"American Legion",34.149324,-118.096383,1000684,"Unknown","#null","#null","American Legion, NA, NA",0,0,1
+"American Medical",13.099826,80.2880641,1000303,"Unknown","#null","#null","American Medical, NA, NA",0,0,1
+"American Osteopath",21.50951,-104.89569,1000257,"Unknown","#null","#null","American Osteopath, NA, NA",0,0,1
+"Amherst YMCA",21.50951,-104.89569,1000179,"Unknown","#null","#null","Amherst YMCA, NA, NA",0,0,1
+"Anaconda Anodes",21.50951,-104.89569,1000723,"Unknown","#null","#null","Anaconda Anodes, NA, NA",0,0,1
+"Anderson",39.97793,-123.80725,1000469,"Unknown","#null","#null","Anderson, NA, NA",0,0,1
+"Andover",21.50951,-104.89569,1000089,"Unknown","#null","#null","Andover, NA, NA",0,0,1
+"Arizona All-Stars",21.50951,-104.89569,1000740,"Unknown","#null","#null","Arizona All-Stars, NA, NA",0,0,1
+"Armour",44.1794137,28.6444236,1000142,"Unknown","#null","#null","Armour, NA, NA",0,0,1
+"Army Ambulance Corps",21.50951,-104.89569,1000552,"Unknown","#null","#null","Army Ambulance Corps, NA, NA",0,0,1
+"Athens",37.936367,23.9469977,1000446,"Unknown","#null","#null","Athens, NA, NA",0,0,1
+"Athens A.C.",21.517896241317,-104.911995727376,1000273,"Unknown","#null","#null","Athens A.C., NA, NA",0,0,1
+"Atlantic Christian",26.6613,-80.12,1000675,"Unknown","#null","#null","Atlantic Christian, NA, NA",0,0,1
+"Atlantic City NAS",21.50951,-104.89569,1000838,"Unknown","#null","#null","Atlantic City NAS, NA, NA",0,0,1
+"Augusta Military Academy",22.520321453503,-105.355717867065,1000362,"Unknown","#null","#null","Augusta Military Academy, NA, NA",0,0,1
+"Augustana (South Dakota)",21.50951,-104.89569,1000347,"Unknown","#null","#null","Augustana (South Dakota), NA, NA",0,0,1
+"Austin High",21.50951,-104.89569,1000212,"Unknown","#null","#null","Austin High, NA, NA",0,0,1
+"Australia",52.733333,-122.45,1000906,"Australia","#null","#null","Australia, NA, NA",0,0,0
+"Bailey Military",21.50951,-104.89569,1000547,"Unknown","#null","#null","Bailey Military, NA, NA",0,0,1
+"Bainbridge NTS",21.50951,-104.89569,1000808,"Unknown","#null","#null","Bainbridge NTS, NA, NA",0,0,1
+"Baker",12.9701201,100.906938,1000131,"Unknown","#null","#null","Baker, NA, NA",0,0,1
+"Balboa NTS",21.50951,-104.89569,1000637,"Unknown","#null","#null","Balboa NTS, NA, NA",0,0,1
+"Ballard Meteors",21.50951,-104.89569,1000544,"Unknown","#null","#null","Ballard Meteors, NA, NA",0,0,1
+"Baltimore",51.4834139,-9.3730566,1000431,"Unknown","#null","#null","Baltimore, NA, NA",0,0,1
+"Baltimore A.C.",21.517896241317,-104.911995727376,1000180,"Unknown","#null","#null","Baltimore A.C., NA, NA",0,0,1
+"Bankers A.C.",21.517896241317,-104.911995727376,1000140,"Unknown","#null","#null","Bankers A.C., NA, NA",0,0,1
+"Barksdale Field",37.2686158,-76.7139903,1000845,"Unknown","#null","#null","Barksdale Field, NA, NA",0,0,1
+"Barnes Medical",43.504781,-80.528765,1000442,"Unknown","#null","#null","Barnes Medical, NA, NA",0,0,1
+"Barron Field",52.740560702,0.118279542,1000597,"Unknown","#null","#null","Barron Field, NA, NA",0,0,1
+"Beaumont Hospital",42.446691,-83.324105,1000825,"Unknown","#null","#null","Beaumont Hospital, NA, NA",0,0,1
+"Belhaven",32.2990021,-90.1847691,2056,"Blazers","#215732","#f2a900","Belhaven, Jackson, MS",0,0,0
+"Bellefonte Academy",38.531038,-82.693266,1000408,"Unknown","#null","#null","Bellefonte Academy, NA, NA",0,0,1
+"Bellevue",43.7118,7.2574,1000336,"Unknown","#null","#null","Bellevue, NA, NA",0,0,1
+"Belmont A.C.",21.517896241317,-104.911995727376,1000596,"Unknown","#null","#null","Belmont A.C., NA, NA",0,0,1
+"Beloit High",21.50951,-104.89569,1000314,"Unknown","#null","#null","Beloit High, NA, NA",0,0,1
+"Benedict",45.800569,-68.411485,2059,"Tigers","#000000","#null","Benedict, NA, NA",0,0,0
+"Bennett Medical",26.60207,-80.15465,1000192,"Unknown","#null","#null","Bennett Medical, NA, NA",0,0,1
+"Berg Field",21.50951,-104.89569,1000857,"Unknown","#null","#null","Berg Field, NA, NA",0,0,1
+"Bergstrom Field",21.50951,-104.89569,1000849,"Unknown","#null","#null","Bergstrom Field, NA, NA",0,0,1
+"Berkeley A.C.",21.517896241317,-104.911995727376,1000112,"Unknown","#null","#null","Berkeley A.C., NA, NA",0,0,1
+"Bethel",21.4791174,-104.9100176,1000495,"Unknown","#null","#null","Bethel, NA, NA",0,0,1
+"Bingham",21.50951,-104.89569,1000288,"Unknown","#null","#null","Bingham, NA, NA",0,0,1
+"Birmingham",53.5370151,-8.8081348,1000440,"Unknown","#null","#null","Birmingham, NA, NA",0,0,1
+"Birmingham High",21.50951,-104.89569,1000291,"Unknown","#null","#null","Birmingham High, NA, NA",0,0,1
+"Bishop",19.962592,73.838801,1000893,"Unknown","#null","#null","Bishop, NA, NA",0,0,1
+"Blackland Field",41.796612,-72.548945,1000771,"Unknown","#null","#null","Blackland Field, NA, NA",0,0,1
+"Blountsville Agricultural",21.50951,-104.89569,1000468,"Unknown","#null","#null","Blountsville Agricultural, NA, NA",0,0,1
+"Bogue Field",21.50951,-104.89569,1000856,"Unknown","#null","#null","Bogue Field, NA, NA",0,0,1
+"Bolling Field",7.0672608,125.6121997,1000882,"Unknown","#null","#null","Bolling Field, NA, NA",0,0,1
+"Boston A.C.",21.517896241317,-104.911995727376,1000101,"Unknown","#null","#null","Boston A.C., NA, NA",0,0,1
+"Boston English High",21.50951,-104.89569,1000119,"Unknown","#null","#null","Boston English High, NA, NA",0,0,1
+"Boston Latin High",21.50951,-104.89569,1000117,"Unknown","#null","#null","Boston Latin High, NA, NA",0,0,1
+"Boston University",21.6999593,-104.0880309,1000010,"Terriers","#null","#null","Boston University, NA, NA",0,0,0
+"Boulder High",21.50951,-104.89569,1000280,"Unknown","#null","#null","Boulder High, NA, NA",0,0,1
+"Bradford National Guard",21.50951,-104.89569,1000213,"Unknown","#null","#null","Bradford National Guard, NA, NA",0,0,1
+"Bradley",21.50951,-104.89569,1000011,"Braves","#null","#null","Bradley, NA, NA",0,0,0
+"Brandeis",50.18356,14.67244,1000881,"Unknown","#null","#null","Brandeis, NA, NA",0,0,1
+"Brayton",21.50951,-104.89569,1000401,"Unknown","#null","#null","Brayton, NA, NA",0,0,1
+"Bremerton Navy",21.50951,-104.89569,1000546,"Unknown","#null","#null","Bremerton Navy, NA, NA",0,0,1
+"Bridgewater",23.0414333,72.5265619,1000748,"Unknown","#null","#null","Bridgewater, NA, NA",0,0,1
+"Britannia",21.527557103956,-104.922235424456,1000072,"Unknown","#null","#null","Britannia, NA, NA",0,0,1
+"British Club of New York",21.50951,-104.89569,1000078,"Unknown","#null","#null","British Club of New York, NA, NA",0,0,1
+"Broaddus College",39.15807,-80.04773,1000929,"Unknown","#null","#null","Broaddus College, NA, NA",0,0,1
+"Brooklyn",40.692529,-73.990996,1000842,"Unknown","#null","#null","Brooklyn, NA, NA",0,0,1
+"Brooklyn Polytechnic Institute",21.50951,-104.89569,1000080,"Unknown","#null","#null","Brooklyn Polytechnic Institute, NA, NA",0,0,1
+"Brooklyn Tigers (NFL)",21.50951,-104.89569,1000814,"Unknown","#null","#null","Brooklyn Tigers (NFL), NA, NA",0,0,1
+"Bryan Field",21.50951,-104.89569,1000795,"Unknown","#null","#null","Bryan Field, NA, NA",0,0,1
+"Bryson",40.9384446,14.2630197,1000662,"Unknown","#null","#null","Bryson, NA, NA",0,0,1
+"Buckner Business College",21.50951,-104.89569,1000378,"Unknown","#null","#null","Buckner Business College, NA, NA",0,0,1
+"Bunker Hill Navy",21.50951,-104.89569,1000840,"Unknown","#null","#null","Bunker Hill Navy, NA, NA",0,0,1
+"Burleson",21.50951,-104.89569,1000640,"Unknown","#null","#null","Burleson, NA, NA",0,0,1
+"Burlingame A.C.",21.517896241317,-104.911995727376,1000271,"Unknown","#null","#null","Burlingame A.C., NA, NA",0,0,1
+"Butler YMCA",38.316603,-77.456092,1000394,"Unknown","#null","#null","Butler YMCA, NA, NA",0,0,1
+"Butte A.C.",21.517896241317,-104.911995727376,1000162,"Unknown","#null","#null","Butte A.C., NA, NA",0,0,1
+"California Alumni",21.50951,-104.89569,1000687,"Unknown","#null","#null","California Alumni, NA, NA",0,0,1
+"California-Riverside",33.983922483858,-116.537932495837,1000891,"Unknown","#null","#null","California-Riverside, NA, NA",0,0,1
+"California-Santa Barbara",34.456835682124,-119.813078862434,1000007,"Gauchos","#null","#null","California-Santa Barbara, NA, NA",0,0,0
+"California Tech",34.137855,-118.126316,1000690,"Unknown","#null","#null","California Tech, NA, NA",0,0,1
+"Cal Poly-Pomona",-27.2,15.28333,1000513,"Unknown","#null","#null","Cal Poly-Pomona, NA, NA",0,0,1
+"Cal State Fullerton",21.50951,-104.89569,1000012,"Titans","#null","#null","Cal State Fullerton, NA, NA",0,0,0
+"Cal State Los Angeles",20.7547151,-105.2537901,1000013,"Golden Eagles","#null","#null","Cal State Los Angeles, NA, NA",0,0,0
+"Cal State Northridge",21.50951,-104.89569,1000887,"Unknown","#null","#null","Cal State Northridge, NA, NA",0,0,1
+"Cameron",6.8754075,14.7598221,1000917,"Aggies","#null","#null","Cameron, NA, NA",0,0,0
+"Camp Adams",21.50951,-104.89569,1000147,"Unknown","#null","#null","Camp Adams, NA, NA",0,0,1
+"Camp Baker",21.50951,-104.89569,1000591,"Unknown","#null","#null","Camp Baker, NA, NA",0,0,1
+"Camp Beale",19.8443598,-90.5065437,1000854,"Unknown","#null","#null","Camp Beale, NA, NA",0,0,1
+"Camp Blanding",21.50951,-104.89569,1000846,"Unknown","#null","#null","Camp Blanding, NA, NA",0,0,1
+"Camp Davis",21.50951,-104.89569,1000767,"Unknown","#null","#null","Camp Davis, NA, NA",0,0,1
+"Camp Devens",21.50951,-104.89569,1000567,"Unknown","#null","#null","Camp Devens, NA, NA",0,0,1
+"Camp Dodge",19.8058,-90.5282,1000618,"Unknown","#null","#null","Camp Dodge, NA, NA",0,0,1
+"Camp Doniphan",21.50951,-104.89569,1000575,"Unknown","#null","#null","Camp Doniphan, NA, NA",0,0,1
+"Campello",-22.5819575,17.0950606,1000217,"Unknown","#null","#null","Campello, NA, NA",0,0,1
+"Camp Funston",21.50951,-104.89569,1000564,"Unknown","#null","#null","Camp Funston, NA, NA",0,0,1
+"Camp Gordon",22.38333,113.98333,1000572,"Unknown","#null","#null","Camp Gordon, NA, NA",0,0,1
+"Camp Grant",43.3971646,39.9720222,1000014,"Warriors","#null","#null","Camp Grant, NA, NA",0,0,0
+"Camp Greene",48.14569,11.66592,1000626,"Unknown","#null","#null","Camp Greene, NA, NA",0,0,1
+"Camp Greenleaf",18.5011,73.5138,1000589,"Unknown","#null","#null","Camp Greenleaf, NA, NA",0,0,1
+"Camp Griffin",51.0027,14.357,1000598,"Unknown","#null","#null","Camp Griffin, NA, NA",0,0,1
+"Camp Haan",21.50951,-104.89569,1000769,"Unknown","#null","#null","Camp Haan, NA, NA",0,0,1
+"Camp Hancock",21.50951,-104.89569,1000599,"Unknown","#null","#null","Camp Hancock, NA, NA",0,0,1
+"Camp Harrison",21.50951,-104.89569,1000619,"Unknown","#null","#null","Camp Harrison, NA, NA",0,0,1
+"Camp Hood",21.50951,-104.89569,1000879,"Unknown","#null","#null","Camp Hood, NA, NA",0,0,1
+"Camp Humphreys",44.37042,-119.72498,1000605,"Unknown","#null","#null","Camp Humphreys, NA, NA",0,0,1
+"Camp Kilmer",21.50951,-104.89569,1000803,"Unknown","#null","#null","Camp Kilmer, NA, NA",0,0,1
+"Camp Lee",21.50951,-104.89569,1000574,"Unknown","#null","#null","Camp Lee, NA, NA",0,0,1
+"Camp Lejeune",21.50951,-104.89569,1000789,"Unknown","#null","#null","Camp Lejeune, NA, NA",0,0,1
+"Camp Logan",21.50951,-104.89569,1000550,"Unknown","#null","#null","Camp Logan, NA, NA",0,0,1
+"Camp Lyons",21.50951,-104.89569,1000559,"Unknown","#null","#null","Camp Lyons, NA, NA",0,0,1
+"Camp Mabry",21.50951,-104.89569,1000625,"Unknown","#null","#null","Camp Mabry, NA, NA",0,0,1
+"Camp MacAurthur",21.50951,-104.89569,1000569,"Unknown","#null","#null","Camp MacAurthur, NA, NA",0,0,1
+"Camp MacDowell",40.8331637,14.2383268,1000579,"Unknown","#null","#null","Camp MacDowell, NA, NA",0,0,1
+"Camp Mackall",21.50951,-104.89569,1000861,"Unknown","#null","#null","Camp Mackall, NA, NA",0,0,1
+"Camp McClelland",21.50951,-104.89569,1000866,"Unknown","#null","#null","Camp McClelland, NA, NA",0,0,1
+"Camp McKinley",35.6723,-84.00463,1000353,"Unknown","#null","#null","Camp McKinley, NA, NA",0,0,1
+"Camp McPherson",34.88887,-119.81319,1000349,"Unknown","#null","#null","Camp McPherson, NA, NA",0,0,1
+"Camp Meyer",21.50951,-104.89569,1000432,"Unknown","#null","#null","Camp Meyer, NA, NA",0,0,1
+"Camp Peary",21.50951,-104.89569,1000900,"Unknown","#null","#null","Camp Peary, NA, NA",0,0,1
+"Camp Pendleton",36.8044862,-75.9633677,1000880,"Unknown","#null","#null","Camp Pendleton, NA, NA",0,0,1
+"Camp Perry",19.844571846284,-90.49755407642,1000635,"Unknown","#null","#null","Camp Perry, NA, NA",0,0,1
+"Camp Pickett",36.4923728,-84.8493811,1000773,"Unknown","#null","#null","Camp Pickett, NA, NA",0,0,1
+"Camp Pike",21.50951,-104.89569,1000577,"Unknown","#null","#null","Camp Pike, NA, NA",0,0,1
+"Camp Polk",21.3093166,-104.1543084,1000829,"Unknown","#null","#null","Camp Polk, NA, NA",0,0,1
+"Camp Preble",21.50951,-104.89569,1000250,"Unknown","#null","#null","Camp Preble, NA, NA",0,0,1
+"Camp Russell",-36.52431,140.31873,1000451,"Unknown","#null","#null","Camp Russell, NA, NA",0,0,1
+"Camp Sevier",21.50951,-104.89569,1000576,"Unknown","#null","#null","Camp Sevier, NA, NA",0,0,1
+"Camp Shelby",37.42538,-82.49293,1000621,"Unknown","#null","#null","Camp Shelby, NA, NA",0,0,1
+"Camp Sherman",21.50951,-104.89569,1000573,"Unknown","#null","#null","Camp Sherman, NA, NA",0,0,1
+"Camp Taylor",21.50951,-104.89569,1000607,"Unknown","#null","#null","Camp Taylor, NA, NA",0,0,1
+"Camp Travis",33.640781,-96.609952,1000594,"Unknown","#null","#null","Camp Travis, NA, NA",0,0,1
+"Camp Wadsworth",21.50951,-104.89569,1000556,"Unknown","#null","#null","Camp Wadsworth, NA, NA",0,0,1
+"Canada All-Stars",21.50951,-104.89569,1000068,"Unknown","#null","#null","Canada All-Stars, NA, NA",0,0,1
+"Canisius",21.50951,-104.89569,1000706,"Unknown","#null","#null","Canisius, NA, NA",0,0,1
+"Canton A.C.",22.4748082,-105.5250187,1000396,"Unknown","#null","#null","Canton A.C., NA, NA",0,0,1
+"Carleton-St. Olaf",21.50951,-104.89569,1000601,"Unknown","#null","#null","Carleton-St. Olaf, NA, NA",0,0,1
+"Carlisle",21.50951,-104.89569,1000015,"Indians","#null","#null","Carlisle, NA, NA",0,0,0
+"Carlstrom Field",27.12017,-81.84956,1000670,"Unknown","#null","#null","Carlstrom Field, NA, NA",0,0,1
+"Carroll (Montana)",46.1299258,-112.9119854,1000692,"Unknown","#null","#null","Carroll (Montana), NA, NA",0,0,1
+"Carruthers Field",21.50951,-104.89569,1000580,"Unknown","#null","#null","Carruthers Field, NA, NA",0,0,1
+"Carswell AFB",21.50951,-104.89569,1000883,"Unknown","#null","#null","Carswell AFB, NA, NA",0,0,1
+"Casa Blanca Indians",21.8202594,-105.192656,1000744,"Unknown","#null","#null","Casa Blanca Indians, NA, NA",0,0,1
+"Case",20.443354,99.879343,1000156,"Unknown","#null","#null","Case, NA, NA",0,0,1
+"Castle Heights",22.3462919,73.2143906,1000429,"Unknown","#null","#null","Castle Heights, NA, NA",0,0,1
+"Centenary (LA)",21.0779292,-104.5748582,1000016,"Gents","#null","#null","Centenary (LA), NA, NA",0,0,0
+"Centerville (Butte)",39.787661,-121.655252,1000702,"Unknown","#null","#null","Centerville (Butte), NA, NA",0,0,1
+"Central Academy",24.544304,81.293028,1000309,"Unknown","#null","#null","Central Academy, NA, NA",0,0,1
+"Central (Iowa)",-8.8,147.26667,1000506,"Unknown","#null","#null","Central (Iowa), NA, NA",0,0,1
+"Central (Kentucky)",-8.8,147.26667,1000295,"Unknown","#null","#null","Central (Kentucky), NA, NA",0,0,1
+"Chamberlain Hunt",21.50951,-104.89569,1000526,"Unknown","#null","#null","Chamberlain Hunt, NA, NA",0,0,1
+"Chanute Field",21.50951,-104.89569,1000578,"Unknown","#null","#null","Chanute Field, NA, NA",0,0,1
+"Charles City",-17.86667,24.4,1000390,"Unknown","#null","#null","Charles City, NA, NA",0,0,1
+"Charleston",21.50951,-104.89569,1000305,"Unknown","#null","#null","Charleston, NA, NA",0,0,1
+"Charleston Coast Guard",21.50951,-104.89569,1000806,"Unknown","#null","#null","Charleston Coast Guard, NA, NA",0,0,1
+"Charleston Navy",44.89894,-72.05954,1000479,"Unknown","#null","#null","Charleston Navy, NA, NA",0,0,1
+"Chatham Field",29.59012,-95.65728,1000831,"Unknown","#null","#null","Chatham Field, NA, NA",0,0,1
+"Chemawa",21.50951,-104.89569,1000666,"Unknown","#null","#null","Chemawa, NA, NA",0,0,1
+"Cherry Point Marines",21.50951,-104.89569,1000826,"Unknown","#null","#null","Cherry Point Marines, NA, NA",0,0,1
+"Cheyenne High",21.50951,-104.89569,1000395,"Unknown","#null","#null","Cheyenne High, NA, NA",0,0,1
+"Chicago A.C.",21.517896241317,-104.911995727376,1000109,"Unknown","#null","#null","Chicago A.C., NA, NA",0,0,1
+"Chicago Alumni",21.50951,-104.89569,1000185,"Unknown","#null","#null","Chicago Alumni, NA, NA",0,0,1
+"Chicago College",21.50951,-104.89569,1000263,"Unknown","#null","#null","Chicago College, NA, NA",0,0,1
+"Chicago Dental",21.0365194,-104.3471918,1000287,"Unknown","#null","#null","Chicago Dental, NA, NA",0,0,1
+"Chicago Dining Club",21.50951,-104.89569,1000144,"Unknown","#null","#null","Chicago Dining Club, NA, NA",0,0,1
+"Chicago Medical",26.60207,-80.15465,1000267,"Unknown","#null","#null","Chicago Medical, NA, NA",0,0,1
+"Chicago Naval Reserve",21.50951,-104.89569,1000583,"Unknown","#null","#null","Chicago Naval Reserve, NA, NA",0,0,1
+"Chicago YMCA",21.50951,-104.89569,1000122,"Unknown","#null","#null","Chicago YMCA, NA, NA",0,0,1
+"Chick Springs Military",21.50951,-104.89569,1000543,"Unknown","#null","#null","Chick Springs Military, NA, NA",0,0,1
+"Chilocco",36.875327,-97.063122,1000321,"Unknown","#null","#null","Chilocco, NA, NA",0,0,1
+"Chowan",36.434053,-77.098431,2804,"Hawks","#null","#null","Chowan, Murfreesboro, TN",0,0,0
+"Christian Brothers",-33.9671301,18.8631658,1000514,"Unknown","#null","#null","Christian Brothers, NA, NA",0,0,1
+"City College of New York",21.50951,-104.89569,1000066,"Unknown","#null","#null","City College of New York, NA, NA",0,0,1
+"Clarke Memorial",21.50951,-104.89569,1000699,"Unknown","#null","#null","Clarke Memorial, NA, NA",0,0,1
+"Clarkson",21.50951,-104.89569,1000268,"Unknown","#null","#null","Clarkson, NA, NA",0,0,1
+"Clemson Freshmen",21.50951,-104.89569,1000535,"Unknown","#null","#null","Clemson Freshmen, NA, NA",0,0,1
+"Cleveland Naval Reserves",21.50951,-104.89569,1000634,"Unknown","#null","#null","Cleveland Naval Reserves, NA, NA",0,0,1
+"C.M.T.S.",29.62898335,-97.1113901,1000148,"Unknown","#null","#null","C.M.T.S., NA, NA",1,1,1
+"College All-Stars",21.50951,-104.89569,1000844,"Unknown","#null","#null","College All-Stars, NA, NA",0,0,1
+"Colorado Alumni",21.50951,-104.89569,1000344,"Unknown","#null","#null","Colorado Alumni, NA, NA",0,0,1
+"Colorado College Alumni",21.50951,-104.89569,1000330,"Unknown","#null","#null","Colorado College Alumni, NA, NA",0,0,1
+"Colorado Springs Field",37.406052,-102.61655,1000775,"Unknown","#null","#null","Colorado Springs Field, NA, NA",0,0,1
+"Colorado Springs High",21.50951,-104.89569,1000281,"Unknown","#null","#null","Colorado Springs High, NA, NA",0,0,1
+"Colorado State Freshmen",21.50951,-104.89569,1000695,"Unknown","#null","#null","Colorado State Freshmen, NA, NA",0,0,1
+"Columbia A.C.",22.495184476846,-105.373590240012,1000104,"Unknown","#null","#null","Columbia A.C., NA, NA",0,0,1
+"Columbia Alumni",22.495184476846,-105.373590240012,1000317,"Unknown","#null","#null","Columbia Alumni, NA, NA",0,0,1
+"Columbia College",21.4976193,-104.8922538,1000486,"Unknown","#null","#null","Columbia College, NA, NA",0,0,1
+"Columbia Law",22.495184476846,-105.373590240012,1000086,"Unknown","#null","#null","Columbia Law, NA, NA",0,0,1
+"Columbia (Oregon)",45.91735,-119.34252,1000753,"Unknown","#null","#null","Columbia (Oregon), NA, NA",0,0,1
+"Columbia YMCA",41.464474,-81.900296,1000318,"Unknown","#null","#null","Columbia YMCA, NA, NA",0,0,1
+"Company I",41.4167,1.646,1000375,"Unknown","#null","#null","Company I, NA, NA",0,0,1
+"Concordia Canada",15.9751,-92.56898,1000912,"Eagles","#null","#null","Concordia Canada, NA, NA",0,0,0
+"Concordia College (MN)",15.89139,-92.94889,1000922,"Cobbers","#null","#null","Concordia College (MN), NA, NA",0,0,0
+"Connecticut Literary",21.50951,-104.89569,1000110,"Unknown","#null","#null","Connecticut Literary, NA, NA",0,0,1
+"Connecticut-Waterbury",41.5542609,-73.0430692,1000206,"Unknown","#null","#null","Connecticut-Waterbury, NA, NA",0,0,1
+"Conway Hall",-42.5983,173.39015,1000421,"Unknown","#null","#null","Conway Hall, NA, NA",0,0,1
+"Corpus Christi NAS",21.50951,-104.89569,1000774,"Unknown","#null","#null","Corpus Christi NAS, NA, NA",0,0,1
+"Cortland State",21.50951,-104.89569,1000235,"Unknown","#null","#null","Cortland State, NA, NA",0,0,1
+"Cotton City A.C.",21.50951,-104.89569,1000656,"Unknown","#null","#null","Cotton City A.C., NA, NA",0,0,1
+"Crane J.C.",21.50951,-104.89569,1000588,"Unknown","#null","#null","Crane J.C., NA, NA",0,0,1
+"Creighton",-30.027369,29.842053,1000017,"Bluejays","#null","#null","Creighton, NA, NA",0,0,0
+"Crescent A.C.",21.517896241317,-104.911995727376,1000075,"Unknown","#null","#null","Crescent A.C., NA, NA",0,0,1
+"Culver",21.50951,-104.89569,1000364,"Unknown","#null","#null","Culver, NA, NA",0,0,1
+"Curtis Bay Coast Guard",21.50951,-104.89569,1000793,"Unknown","#null","#null","Curtis Bay Coast Guard, NA, NA",0,0,1
+"Dalhart Field",21.50951,-104.89569,1000862,"Unknown","#null","#null","Dalhart Field, NA, NA",0,0,1
+"Dallas",20.771719843066,-105.210845786107,1000491,"Unknown","#null","#null","Dallas, NA, NA",0,0,1
+"Daniel Baker",51.051257,2.431169,1000331,"Unknown","#null","#null","Daniel Baker, NA, NA",0,0,1
+"Daniel Field",41.621671,-93.754961,1000787,"Unknown","#null","#null","Daniel Field, NA, NA",0,0,1
+"Davis & Elkins",21.50951,-104.89569,1000507,"Unknown","#null","#null","Davis & Elkins, NA, NA",0,0,1
+"Dean Academy",43.876675,-79.285617,1000139,"Unknown","#null","#null","Dean Academy, NA, NA",0,0,1
+"Decatur Baptist",21.50951,-104.89569,1000645,"Unknown","#null","#null","Decatur Baptist, NA, NA",0,0,1
+"Del Monte Pre-Flight",21.50951,-104.89569,1000018,"Navyators","#null","#null","Del Monte Pre-Flight, NA, NA",0,0,0
+"Denver",21.50951,-104.89569,1000001,"Pioneers","#null","#null","Denver, NA, NA",0,0,0
+"Denver A.C.",21.50951,-104.89569,1000136,"Unknown","#null","#null","Denver A.C., NA, NA",0,0,1
+"Denver Alumni",21.50951,-104.89569,1000464,"Unknown","#null","#null","Denver Alumni, NA, NA",0,0,1
+"Denver Freshmen",21.50951,-104.89569,1000539,"Unknown","#null","#null","Denver Freshmen, NA, NA",0,0,1
+"Denver Manual High",21.50951,-104.89569,1000289,"Unknown","#null","#null","Denver Manual High, NA, NA",0,0,1
+"DePaul",21.50951,-104.89569,1000671,"Unknown","#null","#null","DePaul, NA, NA",0,0,1
+"Des Moines Baptist",21.50951,-104.89569,1000239,"Unknown","#null","#null","Des Moines Baptist, NA, NA",0,0,1
+"Detroit A.C.",21.517896241317,-104.911995727376,1000079,"Unknown","#null","#null","Detroit A.C., NA, NA",0,0,1
+"Detroit Mercy",21.50951,-104.89569,1000019,"Titans","#null","#null","Detroit Mercy, NA, NA",0,0,0
+"Dickinson Seminary",21.50951,-104.89569,1000277,"Unknown","#null","#null","Dickinson Seminary, NA, NA",0,0,1
+"Dixie",21.50951,-104.89569,1000751,"Unknown","#null","#null","Dixie, NA, NA",0,0,1
+"Dixon",21.50951,-104.89569,1000215,"Unknown","#null","#null","Dixon, NA, NA",0,0,1
+"Doane",21.50951,-104.89569,1000130,"Unknown","#null","#null","Doane, NA, NA",0,0,1
+"Drake Alumni",21.50951,-104.89569,1000415,"Unknown","#null","#null","Drake Alumni, NA, NA",0,0,1
+"Drexel",21.50951,-104.89569,1000701,"Unknown","#null","#null","Drexel, NA, NA",0,0,1
+"Drury",21.50951,-104.89569,1000020,"Panthers","#null","#null","Drury, NA, NA",0,0,0
+"Duquesne A.C.",21.517896241317,-104.911995727376,1000176,"Unknown","#null","#null","Duquesne A.C., NA, NA",0,0,1
+"East Denver High",21.50951,-104.89569,1000299,"Unknown","#null","#null","East Denver High, NA, NA",0,0,1
+"East Des Moines High",21.50951,-104.89569,1000311,"Unknown","#null","#null","East Des Moines High, NA, NA",0,0,1
+"Eastern Arizona J.C.",21.50951,-104.89569,1000739,"Unknown","#null","#null","Eastern Arizona J.C., NA, NA",0,0,1
+"Eastern (Virginia)",21.50951,-104.89569,1000428,"Unknown","#null","#null","Eastern (Virginia), NA, NA",0,0,1
+"Edmond Tech",35.626587570875,-97.491290849344,1000728,"Unknown","#null","#null","Edmond Tech, NA, NA",0,0,1
+"Edmonton Field",21.50951,-104.89569,1000833,"Unknown","#null","#null","Edmonton Field, NA, NA",0,0,1
+"Elgin Academy",21.50951,-104.89569,1000265,"Unknown","#null","#null","Elgin Academy, NA, NA",0,0,1
+"Elizabeth A.C.",21.5128026,-104.9025182,1000167,"Unknown","#null","#null","Elizabeth A.C., NA, NA",0,0,1
+"Ellensburg",21.50951,-104.89569,1000724,"Unknown","#null","#null","Ellensburg, NA, NA",0,0,1
+"Ellington Field",29.608031,-95.169416,1000850,"Unknown","#null","#null","Ellington Field, NA, NA",0,0,1
+"Ellsworth",21.50951,-104.89569,1000525,"Unknown","#null","#null","Ellsworth, NA, NA",0,0,1
+"El Paso National Guard",21.50951,-104.89569,1000732,"Unknown","#null","#null","El Paso National Guard, NA, NA",0,0,1
+"El Toro Marines",22.771511,-105.2572904,1000828,"Unknown","#null","#null","El Toro Marines, NA, NA",0,0,1
+"Emporia College",38.41294,-96.17847,1000316,"Unknown","#null","#null","Emporia College, NA, NA",0,0,1
+"England",51.08364,19.87322,1001015,"England","#null","#null","England, NA, NA",0,0,0
+"Englewood",21.50951,-104.89569,1000707,"Unknown","#null","#null","Englewood, NA, NA",0,0,1
+"Englewood High",21.50951,-104.89569,1000127,"Unknown","#null","#null","Englewood High, NA, NA",0,0,1
+"Englewood YMCA",21.50951,-104.89569,1000128,"Unknown","#null","#null","Englewood YMCA, NA, NA",0,0,1
+"Erskine",21.50951,-104.89569,1000021,"The Flying Fleet","#null","#null","Erskine, NA, NA",0,0,0
+"Eton",21.50951,-104.89569,1000067,"Unknown","#null","#null","Eton, NA, NA",0,0,1
+"Eureka",40.8397227,14.2547743,1000163,"Unknown","#null","#null","Eureka, NA, NA",0,0,1
+"Evanston High",21.50951,-104.89569,1000152,"Unknown","#null","#null","Evanston High, NA, NA",0,0,1
+"Evansville",21.50951,-104.89569,1000752,"Unknown","#null","#null","Evansville, NA, NA",0,0,1
+"Exeter",21.50951,-104.89569,1000090,"Unknown","#null","#null","Exeter, NA, NA",0,0,1
+"F.A.A.",29.62898335,-97.1113901,1000155,"Unknown","#null","#null","F.A.A., NA, NA",1,1,1
+"Fairfield",-42.83686,147.35818,1000981,"Stags","#null","#null","Fairfield, NA, NA",0,0,0
+"Fall River",18.02425,-76.63964,1000111,"Unknown","#null","#null","Fall River, NA, NA",0,0,1
+"Falls of Schuylkill",21.50951,-104.89569,1000087,"Unknown","#null","#null","Falls of Schuylkill, NA, NA",0,0,1
+"Farragut Navy",21.50951,-104.89569,1000859,"Unknown","#null","#null","Farragut Navy, NA, NA",0,0,1
+"Finlandia University",21.6999593,-104.0880309,109418,"Lions","#null","#null","Finlandia University, NA, NA",0,0,0
+"Fishburne M.A.",21.50951,-104.89569,1000437,"Unknown","#null","#null","Fishburne M.A., NA, NA",0,0,1
+"Fisk University",21.6999593,-104.0880309,1000925,"Bulldogs","#null","#null","Fisk University, NA, NA",0,0,0
+"Fitchburg YMCA",21.50951,-104.89569,1000228,"Unknown","#null","#null","Fitchburg YMCA, NA, NA",0,0,1
+"Fleet City",21.50951,-104.89569,1000819,"Unknown","#null","#null","Fleet City, NA, NA",0,0,1
+"Florence YMCA",40.8867364,14.26673,1000528,"Unknown","#null","#null","Florence YMCA, NA, NA",0,0,1
+"Florida Southern",21.50951,-104.89569,1000508,"Unknown","#null","#null","Florida Southern, NA, NA",0,0,1
+"Fort Benning",21.50951,-104.89569,1000022,"Doughboys","#null","#null","Fort Benning, NA, NA",0,0,0
+"Fort Bliss",21.50951,-104.89569,1000830,"Unknown","#null","#null","Fort Bliss, NA, NA",0,0,1
+"Fort Bragg",21.50951,-104.89569,1000689,"Unknown","#null","#null","Fort Bragg, NA, NA",0,0,1
+"Fort Des Moines",21.50951,-104.89569,1000631,"Unknown","#null","#null","Fort Des Moines, NA, NA",0,0,1
+"Fort Douglas",-22.63333,14.66667,1000391,"Unknown","#null","#null","Fort Douglas, NA, NA",0,0,1
+"Fort Ethan Allen",21.50951,-104.89569,1000382,"Unknown","#null","#null","Fort Ethan Allen, NA, NA",0,0,1
+"Fort Jackson",21.50951,-104.89569,1000643,"Unknown","#null","#null","Fort Jackson, NA, NA",0,0,1
+"Fort Knox",29.7111226,77.0187887,1000777,"Unknown","#null","#null","Fort Knox, NA, NA",0,0,1
+"Fort Leavenworth",39.351502,-94.93011,1000476,"Unknown","#null","#null","Fort Leavenworth, NA, NA",0,0,1
+"Fort Lewis College",21.50951,-104.89569,1000755,"Unknown","#null","#null","Fort Lewis College, NA, NA",0,0,1
+"Fort Monmouth",40.30094,-74.07625,1000776,"Unknown","#null","#null","Fort Monmouth, NA, NA",0,0,1
+"Fort Monroe",21.372052863261,-104.718861200539,1000823,"Unknown","#null","#null","Fort Monroe, NA, NA",0,0,1
+"Fort Oglethorpe",32.08206,-81.03604,1000628,"Unknown","#null","#null","Fort Oglethorpe, NA, NA",0,0,1
+"Fort Ord",21.50951,-104.89569,1000768,"Unknown","#null","#null","Fort Ord, NA, NA",0,0,1
+"Fort Pierce",-18.25,48.5,1000827,"Unknown","#null","#null","Fort Pierce, NA, NA",0,0,1
+"Fort Riley",21.50951,-104.89569,1000023,"Centaurs","#null","#null","Fort Riley, NA, NA",0,0,0
+"Fort Sheridan",21.50951,-104.89569,1000255,"Unknown","#null","#null","Fort Sheridan, NA, NA",0,0,1
+"Fort Totten",21.50951,-104.89569,1000784,"Unknown","#null","#null","Fort Totten, NA, NA",0,0,1
+"Fort Warren",21.50951,-104.89569,1000024,"Broncos","#null","#null","Fort Warren, NA, NA",0,0,0
+"Fort Worth",21.50951,-104.89569,1000326,"Unknown","#null","#null","Fort Worth, NA, NA",0,0,1
+"Foundation",46.5136,6.5574,1000612,"Unknown","#null","#null","Foundation, NA, NA",0,0,1
+"Frederick",18.5673047,73.8465846,1000885,"Unknown","#null","#null","Frederick, NA, NA",0,0,1
+"Freeport High",21.50951,-104.89569,1000278,"Unknown","#null","#null","Freeport High, NA, NA",0,0,1
+"Fremont Ammuntion",21.50951,-104.89569,1000584,"Unknown","#null","#null","Fremont Ammuntion, NA, NA",0,0,1
+"Fresno State JV",21.5,-104.9,1000868,"Unknown","#null","#null","Fresno State JV, NA, NA",0,0,1
+"Friends",44.5621389,38.0904468,1000342,"Unknown","#null","#null","Friends, NA, NA",0,0,1
+"Galveston Field",21.50951,-104.89569,1000818,"Unknown","#null","#null","Galveston Field, NA, NA",0,0,1
+"Garden City",28.0160354,73.413023,1000632,"Unknown","#null","#null","Garden City, NA, NA",0,0,1
+"Georgetown (Kentucky)",38.202973169897,-84.711976654685,1000351,"Unknown","#null","#null","Georgetown (Kentucky), NA, NA",0,0,1
+"Georgetown (KY)",38.202973169897,-84.711976654685,1000921,"Tigers","#null","#null","Georgetown (KY), NA, NA",0,0,0
+"George Washington",47.0791604,-119.8558368,1000025,"Colonials","#null","#null","George Washington, NA, NA",0,0,0
+"Georgia B",31.6410674,-86.7287519,1000548,"Unknown","#null","#null","Georgia B, NA, NA",0,0,1
+"Georgia Medical",37.951657,23.737422,1000470,"Unknown","#null","#null","Georgia Medical, NA, NA",0,0,1
+"Georgia Pre-Flight",21.50951,-104.89569,1000026,"Skycrackers","#null","#null","Georgia Pre-Flight, NA, NA",0,0,0
+"Georgia Tech B",21.50951,-104.89569,1000545,"Unknown","#null","#null","Georgia Tech B, NA, NA",0,0,1
+"Goat Island Navy",21.50951,-104.89569,1000581,"Unknown","#null","#null","Goat Island Navy, NA, NA",0,0,1
+"Golden High",36.344911,-119.2538,1000283,"Unknown","#null","#null","Golden High, NA, NA",0,0,1
+"Gonzaga",-16.0529,-48.1426,1000027,"Bulldogs","#null","#null","Gonzaga, NA, NA",0,0,0
+"Gonzaga Alumni",21.50951,-104.89569,1000691,"Unknown","#null","#null","Gonzaga Alumni, NA, NA",0,0,1
+"Gordon",-6.522131,111.012075,1000404,"Unknown","#null","#null","Gordon, NA, NA",0,0,1
+"Goshen",13.014531,77.631838,1000244,"Unknown","#null","#null","Goshen, NA, NA",0,0,1
+"Grand Island",15.35218,73.77743,1000315,"Unknown","#null","#null","Grand Island, NA, NA",0,0,1
+"Grand Rapids High",21.50951,-104.89569,1000188,"Unknown","#null","#null","Grand Rapids High, NA, NA",0,0,1
+"Granite High",20.710397151164,-105.274469812994,1000532,"Unknown","#null","#null","Granite High, NA, NA",0,0,1
+"Great Lakes Navy",21.50951,-104.89569,1000028,"Bluejackets","#null","#null","Great Lakes Navy, NA, NA",0,0,0
+"Greenfield",-1.29386,36.89523,1000137,"Unknown","#null","#null","Greenfield, NA, NA",0,0,1
+"Greensboro Field",21.50951,-104.89569,1000809,"Unknown","#null","#null","Greensboro Field, NA, NA",0,0,1
+"Greenville Field",45.46533,-69.5538,1000804,"Unknown","#null","#null","Greenville Field, NA, NA",0,0,1
+"Greer",21.50951,-104.89569,1000184,"Unknown","#null","#null","Greer, NA, NA",0,0,1
+"Grinnell Alumni",21.50951,-104.89569,1000240,"Unknown","#null","#null","Grinnell Alumni, NA, NA",0,0,1
+"Grinnell High",21.50951,-104.89569,1000284,"Unknown","#null","#null","Grinnell High, NA, NA",0,0,1
+"Grove City",21.50951,-104.89569,1000406,"Unknown","#null","#null","Grove City, NA, NA",0,0,1
+"Hahnemann Medical",22.483757,88.304057,1000186,"Unknown","#null","#null","Hahnemann Medical, NA, NA",0,0,1
+"Hamilton A.C.",21.517896241317,-104.911995727376,1000653,"Unknown","#null","#null","Hamilton A.C., NA, NA",0,0,1
+"Hampton A.C.",20.7496885,-105.3190554,1000361,"Unknown","#null","#null","Hampton A.C., NA, NA",0,0,1
+"Hampton Road",20.7496885,-105.3190554,1000646,"Unknown","#null","#null","Hampton Road, NA, NA",0,0,1
+"Harrisburg A.C.",21.517896241317,-104.911995727376,1000467,"Unknown","#null","#null","Harrisburg A.C., NA, NA",0,0,1
+"Harry Hillman Academy",21.50951,-104.89569,1000492,"Unknown","#null","#null","Harry Hillman Academy, NA, NA",0,0,1
+"Hartford",41.76371,-72.68509,1000154,"Unknown","#null","#null","Hartford, NA, NA",0,0,1
+"Harvard Alumni",21.50951,-104.89569,1000092,"Unknown","#null","#null","Harvard Alumni, NA, NA",0,0,1
+"Harvard B",21.50951,-104.89569,1000094,"Unknown","#null","#null","Harvard B, NA, NA",0,0,1
+"Harvard Freshmen",21.50951,-104.89569,1000134,"Unknown","#null","#null","Harvard Freshmen, NA, NA",0,0,1
+"Harvard Law",40.631205,-111.938366,1000477,"Unknown","#null","#null","Harvard Law, NA, NA",0,0,1
+"Haskell",21.50951,-104.89569,1000029,"Indians","#null","#null","Haskell, NA, NA",0,0,0
+"Hastings",21.50951,-104.89569,1000398,"Unknown","#null","#null","Hastings, NA, NA",0,0,1
+"Hastings State",21.50951,-104.89569,1000716,"Unknown","#null","#null","Hastings State, NA, NA",0,0,1
+"Havana A.C.",21.517896241317,-104.911995727376,1000458,"Unknown","#null","#null","Havana A.C., NA, NA",0,0,1
+"Havana University",21.6999593,-104.0880309,1000420,"Unknown","#null","#null","Havana University, NA, NA",0,0,1
+"Haverford",-33.91822,150.96593,1000030,"Fords","#null","#null","Haverford, NA, NA",0,0,0
+"Hawaii All-Stars",21.50951,-104.89569,1000696,"Unknown","#null","#null","Hawaii All-Stars, NA, NA",0,0,1
+"Hayward State",21.802060111765,-104.855408283338,1000889,"Unknown","#null","#null","Hayward State, NA, NA",0,0,1
+"Hebron Academy",44.198589,-70.407926,1000377,"Unknown","#null","#null","Hebron Academy, NA, NA",0,0,1
+"Hedding",14.884264528,100.413195027,1000329,"Unknown","#null","#null","Hedding, NA, NA",0,0,1
+"Herington Field",42.259692,-77.787894,1000858,"Unknown","#null","#null","Herington Field, NA, NA",0,0,1
+"Highland Park",21.1535139,79.0058165,1000313,"Unknown","#null","#null","Highland Park, NA, NA",0,0,1
+"High Point",30.7434722,76.7826485,1000719,"Unknown","#null","#null","High Point, NA, NA",0,0,1
+"Hiwassee",21.50951,-104.89569,1000762,"Unknown","#null","#null","Hiwassee, NA, NA",0,0,1
+"Hoboken Navy",21.50951,-104.89569,1000614,"Unknown","#null","#null","Hoboken Navy, NA, NA",0,0,1
+"Hofstra",21.50951,-104.89569,2275,"Pride","#27297c","#f6c934","Hofstra, NA, NA",0,0,0
+"Homestead A.C.",21.517896241317,-104.911995727376,1000254,"Unknown","#null","#null","Homestead A.C., NA, NA",0,0,1
+"Hondo Field",21.50951,-104.89569,1000847,"Unknown","#null","#null","Hondo Field, NA, NA",0,0,1
+"Hopkinson",-37.7676764,145.1266042,1000178,"Unknown","#null","#null","Hopkinson, NA, NA",0,0,1
+"Horner",21.50951,-104.89569,1000471,"Unknown","#null","#null","Horner, NA, NA",0,0,1
+"Houston YMCA",33.370611,-96.473526,1000373,"Unknown","#null","#null","Houston YMCA, NA, NA",0,0,1
+"Hyde Park",28.494876,77.155777,1000158,"Unknown","#null","#null","Hyde Park, NA, NA",0,0,1
+"Hyde Park High",21.50951,-104.89569,1000123,"Unknown","#null","#null","Hyde Park High, NA, NA",0,0,1
+"Idaho Marines",20.693518629832,-105.290600834739,1000779,"Unknown","#null","#null","Idaho Marines, NA, NA",0,0,1
+"Illinois Alumni",21.50951,-104.89569,1000216,"Unknown","#null","#null","Illinois Alumni, NA, NA",0,0,1
+"Illinois Cycling Club",21.50951,-104.89569,1000172,"Unknown","#null","#null","Illinois Cycling Club, NA, NA",0,0,1
+"Illinois Medical",21.50951,-104.89569,1000555,"Unknown","#null","#null","Illinois Medical, NA, NA",0,0,1
+"Independence A.C.",22.430893458648,-105.375245528351,1000439,"Unknown","#null","#null","Independence A.C., NA, NA",0,0,1
+"Indiana Alumni",21.50951,-104.89569,1000241,"Unknown","#null","#null","Indiana Alumni, NA, NA",0,0,1
+"Indiana Medical",26.60207,-80.15465,1000348,"Unknown","#null","#null","Indiana Medical, NA, NA",0,0,1
+"Indianapolis Artillery",21.50951,-104.89569,1000150,"Unknown","#null","#null","Indianapolis Artillery, NA, NA",0,0,1
+"Intermountain",46.57944,-112.009221,1000705,"Unknown","#null","#null","Intermountain, NA, NA",0,0,1
+"Iowa Pre-Flight",21.50951,-104.89569,1000000,"Seahawks","#null","#null","Iowa Pre-Flight, NA, NA",0,0,0
+"Jackson Br.-New Orleans",21.50951,-104.89569,1000430,"Unknown","#null","#null","Jackson Br.-New Orleans, NA, NA",0,0,1
+"Jackson Field",42.2478229,-84.4025162,1000822,"Unknown","#null","#null","Jackson Field, NA, NA",0,0,1
+"Jacksonville Naval Air Station",30.232036,-81.6986596,1000031,"Flyers","#null","#null","Jacksonville Naval Air Station, NA, NA",0,0,0
+"James Millikin",21.50951,-104.89569,1000435,"Unknown","#null","#null","James Millikin, NA, NA",0,0,1
+"Jefferson",21.50951,-104.89569,1000412,"Unknown","#null","#null","Jefferson, NA, NA",0,0,1
+"Jefferson Medical",39.963596,-75.173214,1000350,"Unknown","#null","#null","Jefferson Medical, NA, NA",0,0,1
+"Jersey Shore",-26.2202108,28.0125053,1000360,"Unknown","#null","#null","Jersey Shore, NA, NA",0,0,1
+"Kamehameha Alumni",21.50951,-104.89569,1000758,"Unknown","#null","#null","Kamehameha Alumni, NA, NA",0,0,1
+"Kansas City A.C.",21.50951,-104.89569,1000132,"Unknown","#null","#null","Kansas City A.C., NA, NA",0,0,1
+"Kansas City Medical",21.50951,-104.89569,1000251,"Unknown","#null","#null","Kansas City Medical, NA, NA",0,0,1
+"Kansas City Veterinary",21.50951,-104.89569,1000407,"Unknown","#null","#null","Kansas City Veterinary, NA, NA",0,0,1
+"Kean",40.6976019,-74.2632024,2871,"Cougars","#092f56","#ffffff","Kean, Union, NJ",0,0,0
+"Kearney",21.50951,-104.89569,1000483,"Unknown","#null","#null","Kearney, NA, NA",0,0,1
+"Kearney Field",21.50951,-104.89569,1000855,"Unknown","#null","#null","Kearney Field, NA, NA",0,0,1
+"Keesler Field",44.820963,-91.512033,1000851,"Unknown","#null","#null","Keesler Field, NA, NA",0,0,1
+"Kelly Field",51.948563157,0.473093777,1000608,"Unknown","#null","#null","Kelly Field, NA, NA",0,0,1
+"Kents Hill",21.50951,-104.89569,1000354,"Unknown","#null","#null","Kents Hill, NA, NA",0,0,1
+"Kentucky Christian",36.894081394494,-87.490358397146,3077,"Knights","#null","#null","Kentucky Christian, NA, NA",0,0,0
+"King",-5.67684,15.93004,1000293,"Unknown","#null","#null","King, NA, NA",0,0,1
+"Kingfisher",12.967561,77.593691,1000328,"Unknown","#null","#null","Kingfisher, NA, NA",0,0,1
+"King George",44.3850331,26.1110818,1000743,"Unknown","#null","#null","King George, NA, NA",0,0,1
+"Kirtland Field",21.50951,-104.89569,1000772,"Unknown","#null","#null","Kirtland Field, NA, NA",0,0,1
+"Kiski Preparatory",21.496823719567,-104.887770411906,1000553,"Unknown","#null","#null","Kiski Preparatory, NA, NA",0,0,1
+"Knox College",40.9475652,-90.3712169,255,"Prairie Fire","#null","#null","Knox College, Galesburg, IL",0,0,0
+"Knoxville",21.50951,-104.89569,1000911,"Bulldogs","#null","#null","Knoxville, NA, NA",0,0,0
+"Lackland Field",21.50951,-104.89569,1000848,"Unknown","#null","#null","Lackland Field, NA, NA",0,0,1
+"Lake Forest Academy",21.50951,-104.89569,1000224,"Unknown","#null","#null","Lake Forest Academy, NA, NA",0,0,1
+"Lake Forest Alumni",21.50951,-104.89569,1000226,"Unknown","#null","#null","Lake Forest Alumni, NA, NA",0,0,1
+"Lakehurst NAS",21.50951,-104.89569,1000778,"Unknown","#null","#null","Lakehurst NAS, NA, NA",0,0,1
+"Lakeland",43.7486054,-87.977038,6353,"Muskies","#null","#null","Lakeland, Plymouth, WI",0,0,0
+"Lake View High",21.50951,-104.89569,1000120,"Unknown","#null","#null","Lake View High, NA, NA",0,0,1
+"Lancaster Crescents",32.603451,-96.813141,1000202,"Unknown","#null","#null","Lancaster Crescents, NA, NA",0,0,1
+"Lane College",35.6144446,-88.8177418,2323,"Dragons","#null","#null","Lane College, Jackson, TN",0,0,0
+"Lanier",21.50951,-104.89569,1000660,"Unknown","#null","#null","Lanier, NA, NA",0,0,1
+"Laramie High",21.50951,-104.89569,1000445,"Unknown","#null","#null","Laramie High, NA, NA",0,0,1
+"Latrobe A.C.",20.817583688529,-105.386923762894,1000488,"Unknown","#null","#null","Latrobe A.C., NA, NA",0,0,1
+"Laureate Boat Club",21.50951,-104.89569,1000159,"Unknown","#null","#null","Laureate Boat Club, NA, NA",0,0,1
+"Lawrenceville",26.819355,80.915375,1000138,"Unknown","#null","#null","Lawrenceville, NA, NA",0,0,1
+"Lawton",21.472483981968,-104.865624564304,1000339,"Unknown","#null","#null","Lawton, NA, NA",0,0,1
+"League Island Navy",21.50951,-104.89569,1000568,"Unknown","#null","#null","League Island Navy, NA, NA",0,0,1
+"Leander Clarke",21.50951,-104.89569,1000427,"Unknown","#null","#null","Leander Clarke, NA, NA",0,0,1
+"Lehigh A.C.",21.517896241317,-104.911995727376,1000108,"Unknown","#null","#null","Lehigh A.C., NA, NA",0,0,1
+"Leilahau",21.50951,-104.89569,1000870,"Unknown","#null","#null","Leilahau, NA, NA",0,0,1
+"Lewis",-22.001025,15.5863289,1000932,"Unknown","#null","#null","Lewis, NA, NA",0,0,1
+"Lewisburg A.C.",21.517896241317,-104.911995727376,1000083,"Unknown","#null","#null","Lewisburg A.C., NA, NA",0,0,1
+"Lieutenants",50.6137,4.6445,1000630,"Unknown","#null","#null","Lieutenants, NA, NA",0,0,1
+"Lincoln",21.49487878964,-104.877974779754,1000894,"Unknown","#null","#null","Lincoln, NA, NA",0,0,1
+"Lincoln Field",41.826078,-71.401265,1000824,"Unknown","#null","#null","Lincoln Field, NA, NA",0,0,1
+"Lincoln High",40.567502,-75.482604,1000243,"Unknown","#null","#null","Lincoln High, NA, NA",0,0,1
+"Lincoln Medical",40.803637,-96.655452,1000355,"Unknown","#null","#null","Lincoln Medical, NA, NA",0,0,1
+"Locust Grove",21.50951,-104.89569,1000460,"Unknown","#null","#null","Locust Grove, NA, NA",0,0,1
+"Logan All-Stars",21.50951,-104.89569,1000502,"Unknown","#null","#null","Logan All-Stars, NA, NA",0,0,1
+"Lombard",-22.443625014502,18.976144951921,1000032,"","#null","#null","Lombard, NA, NA",0,0,0
+"Long Beach State",34.04565,-85.05606,1000006,"49ers","#null","#null","Long Beach State, NA, NA",0,0,0
+"Longmont High",21.50951,-104.89569,1000300,"Unknown","#null","#null","Longmont High, NA, NA",0,0,1
+"Loras",20.749617752502,-105.294861432768,1000718,"Unknown","#null","#null","Loras, NA, NA",0,0,1
+"Loras College",42.5006243,-90.6647985,263,"Duhawks","#452d7d","#d2b888","Loras College, Dubuque, IA",0,0,0
+"Los Angeles A.C.",21.068665629542,-105.226294334134,1000710,"Unknown","#null","#null","Los Angeles A.C., NA, NA",0,0,1
+"Los Angeles Junior College",20.7547151,-105.2537901,1000750,"Unknown","#null","#null","Los Angeles Junior College, NA, NA",0,0,1
+"Louisiana Army STU",21.50951,-104.89569,1000800,"Unknown","#null","#null","Louisiana Army STU, NA, NA",0,0,1
+"Louisiana State Freshmen",21.50951,-104.89569,1000709,"Unknown","#null","#null","Louisiana State Freshmen, NA, NA",0,0,1
+"Louisville Field",-24.01667,19.58333,1000852,"Unknown","#null","#null","Louisville Field, NA, NA",0,0,1
+"Love Field",21.50951,-104.89569,1000615,"Unknown","#null","#null","Love Field, NA, NA",0,0,1
+"Lowry Field",21.50951,-104.89569,1000790,"Unknown","#null","#null","Lowry Field, NA, NA",0,0,1
+"Loyola Academy",24.855488,85.003903,1000606,"Unknown","#null","#null","Loyola Academy, NA, NA",0,0,1
+"Loyola (Baltimore)",51.4834139,-9.3730566,1000713,"Unknown","#null","#null","Loyola (Baltimore), NA, NA",0,0,1
+"Loyola (Chicago)",40.8631,14.2011,1000712,"Unknown","#null","#null","Loyola (Chicago), NA, NA",0,0,1
+"Loyola (LA)",23.14958,97.48747,1000033,"Wolfpack","#null","#null","Loyola (LA), NA, NA",0,0,0
+"Loyola Marymount",33.966696,-118.415787,1000034,"Lions","#null","#null","Loyola Marymount, NA, NA",0,0,0
+"Lubbock Field",21.50951,-104.89569,1000035,"","#null","#null","Lubbock Field, NA, NA",0,0,0
+"Lynchburg",21.50951,-104.89569,1000682,"Unknown","#null","#null","Lynchburg, NA, NA",0,0,1
+"MacAurthur Field",44.851147,-123.241827,1000590,"Unknown","#null","#null","MacAurthur Field, NA, NA",0,0,1
+"Machinists Mates",21.50951,-104.89569,1000517,"Unknown","#null","#null","Machinists Mates, NA, NA",0,0,1
+"Madison High",40.712088,-73.998061,1000189,"Unknown","#null","#null","Madison High, NA, NA",0,0,1
+"Manhattan",-1.3277618,36.8809057,1000036,"Jaspers","#null","#null","Manhattan, NA, NA",0,0,0
+"Manhattan A.C.",21.517896241317,-104.911995727376,1000102,"Unknown","#null","#null","Manhattan A.C., NA, NA",0,0,1
+"Manhattan Beach Coast Guard",21.50951,-104.89569,1000785,"Unknown","#null","#null","Manhattan Beach Coast Guard, NA, NA",0,0,1
+"Mankato State",21.802060111765,-104.855408283338,1000897,"Unknown","#null","#null","Mankato State, NA, NA",0,0,1
+"Manual Training High",21.50951,-104.89569,1000145,"Unknown","#null","#null","Manual Training High, NA, NA",0,0,1
+"March Field",-40.08825,176.50021,1000037,"Flyers","#null","#null","March Field, NA, NA",0,0,0
+"Mare Island Marines",21.50951,-104.89569,1000038,"","#null","#null","Mare Island Marines, NA, NA",0,0,0
+"Mare Island Navy",21.50951,-104.89569,1000609,"Unknown","#null","#null","Mare Island Navy, NA, NA",0,0,1
+"Marine Officers",21.50951,-104.89569,1000352,"Unknown","#null","#null","Marine Officers, NA, NA",0,0,1
+"Marion",-17.2,12.38333,1000294,"Unknown","#null","#null","Marion, NA, NA",0,0,1
+"Marion County High",21.50951,-104.89569,1000510,"Unknown","#null","#null","Marion County High, NA, NA",0,0,1
+"Marion Sims",21.50951,-104.89569,1000261,"Unknown","#null","#null","Marion Sims, NA, NA",0,0,1
+"Marquette",21.50951,-104.89569,1000039,"Golden Eagles","#null","#null","Marquette, NA, NA",0,0,0
+"Marshall School",30.3172015,78.0500968,1000463,"Unknown","#null","#null","Marshall School, NA, NA",0,0,1
+"Marshalltown",46.5110153,-67.8692265,1000368,"Unknown","#null","#null","Marshalltown, NA, NA",0,0,1
+"Maryland A.C.",21.517896241317,-104.911995727376,1000194,"Unknown","#null","#null","Maryland A.C., NA, NA",0,0,1
+"Maryland-Baltimore",39.378537,-76.608069,1000204,"Unknown","#null","#null","Maryland-Baltimore, NA, NA",0,0,1
+"Maryland-Eastern Shore",21.50951,-104.89569,1000903,"Hawks","#null","#null","Maryland-Eastern Shore, NA, NA",0,0,0
+"Massilon A.C.",21.517896241317,-104.911995727376,1000393,"Unknown","#null","#null","Massilon A.C., NA, NA",0,0,1
+"Mather Field",21.50951,-104.89569,1000620,"Unknown","#null","#null","Mather Field, NA, NA",0,0,1
+"Maxwell Field",21.50951,-104.89569,1000841,"Unknown","#null","#null","Maxwell Field, NA, NA",0,0,1
+"Mayport NAS",21.50951,-104.89569,1000815,"Unknown","#null","#null","Mayport NAS, NA, NA",0,0,1
+"McClellan Field",45.89428,-122.54815,1000860,"Unknown","#null","#null","McClellan Field, NA, NA",0,0,1
+"McDaniel",21.50951,-104.89569,1000345,"Unknown","#null","#null","McDaniel, NA, NA",0,0,1
+"McGill",21.50951,-104.89569,1000069,"Unknown","#null","#null","McGill, NA, NA",0,0,1
+"McKendree",38.6039375,-89.8073195,2816,"Bearcats","#null","#null","McKendree, Lebanon, IL",0,0,0
+"Medford A.C.",21.517896241317,-104.911995727376,1000232,"Unknown","#null","#null","Medford A.C., NA, NA",0,0,1
+"Medico-Chirurgical",50.7417542,3.5274822,1000264,"Unknown","#null","#null","Medico-Chirurgical, NA, NA",0,0,1
+"Melville PT Boats",21.50951,-104.89569,1000835,"Unknown","#null","#null","Melville PT Boats, NA, NA",0,0,1
+"Memphis High",21.50951,-104.89569,1000466,"Unknown","#null","#null","Memphis High, NA, NA",0,0,1
+"Memphis Navy",40.9414938,14.2551232,1000797,"Unknown","#null","#null","Memphis Navy, NA, NA",0,0,1
+"Mercersburg Academy",39.82015,-77.89704,1000325,"Unknown","#null","#null","Mercersburg Academy, NA, NA",0,0,1
+"Meridian",-1.28084,36.82151,1000540,"Unknown","#null","#null","Meridian, NA, NA",0,0,1
+"Meteor A.C.",21.517896241317,-104.911995727376,1000485,"Unknown","#null","#null","Meteor A.C., NA, NA",0,0,1
+"Michigan A.C.",21.5108403,-104.8855267,1000124,"Unknown","#null","#null","Michigan A.C., NA, NA",0,0,1
+"Michigan Military Academy",21.50951,-104.89569,1000149,"Unknown","#null","#null","Michigan Military Academy, NA, NA",0,0,1
+"Midwestern Texas State",21.50951,-104.89569,1000873,"Unknown","#null","#null","Midwestern Texas State, NA, NA",0,0,1
+"Milligan",47.657671,-117.425383,1000816,"Unknown","#null","#null","Milligan, NA, NA",0,0,1
+"Milwaukee Medical",21.50951,-104.89569,1000259,"Unknown","#null","#null","Milwaukee Medical, NA, NA",0,0,1
+"Minneapolis Boat Club",21.50951,-104.89569,1000171,"Unknown","#null","#null","Minneapolis Boat Club, NA, NA",0,0,1
+"Minneapolis Central High",44.9412405,-93.268719,1000165,"Unknown","#null","#null","Minneapolis Central High, NA, NA",0,0,1
+"Minneapolis Eastern High",21.50951,-104.89569,1000312,"Unknown","#null","#null","Minneapolis Eastern High, NA, NA",0,0,1
+"Minneapolis South High",21.50951,-104.89569,1000182,"Unknown","#null","#null","Minneapolis South High, NA, NA",0,0,1
+"Minnesota Alumni",21.50951,-104.89569,1000125,"Unknown","#null","#null","Minnesota Alumni, NA, NA",0,0,1
+"Missouri-Kansas City",39.099792,-94.578559,1000516,"Unknown","#null","#null","Missouri-Kansas City, NA, NA",0,0,1
+"Missouri-Rolla",37.951497,-91.772551,1000320,"Unknown","#null","#null","Missouri-Rolla, NA, NA",0,0,1
+"Missouri Southern",37.962672,-91.759315,1000895,"Unknown","#null","#null","Missouri Southern, NA, NA",0,0,1
+"Missouri Valley",41.5559,-95.8829,1000839,"Unknown","#null","#null","Missouri Valley, NA, NA",0,0,1
+"Missouri Wesleyan",21.50951,-104.89569,1000661,"Unknown","#null","#null","Missouri Wesleyan, NA, NA",0,0,1
+"MIT",42.3750997,-71.1056157,109,"Engineers","#null","#null","MIT, Cambridge, MA",0,0,0
+"Moffett Field",21.50951,-104.89569,1000766,"Unknown","#null","#null","Moffett Field, NA, NA",0,0,1
+"Mohawk",21.50951,-104.89569,1000871,"Unknown","#null","#null","Mohawk, NA, NA",0,0,1
+"Moline A.C.",21.433072784907,-105.199009808537,1000388,"Unknown","#null","#null","Moline A.C., NA, NA",0,0,1
+"Monroe A.C.",21.517896241317,-104.911995727376,1000403,"Unknown","#null","#null","Monroe A.C., NA, NA",0,0,1
+"Montana Wesleyan",35.362851,-84.559377,1000681,"Unknown","#null","#null","Montana Wesleyan, NA, NA",0,0,1
+"Montclair A.C.",21.517896241317,-104.911995727376,1000115,"Unknown","#null","#null","Montclair A.C., NA, NA",0,0,1
+"Montezuma",21.487305,-104.8970243,1000717,"Unknown","#null","#null","Montezuma, NA, NA",0,0,1
+"Montgomery A.C.",21.517896241317,-104.911995727376,1000319,"Unknown","#null","#null","Montgomery A.C., NA, NA",0,0,1
+"Monticello Navy",21.50951,-104.89569,1000798,"Unknown","#null","#null","Monticello Navy, NA, NA",0,0,1
+"Montreal",45.470859,-73.665544,1000076,"Unknown","#null","#null","Montreal, NA, NA",0,0,1
+"Mooney",21.50951,-104.89569,1000285,"Unknown","#null","#null","Mooney, NA, NA",0,0,1
+"Moorhead State",21.50951,-104.89569,1000896,"Unknown","#null","#null","Moorhead State, NA, NA",0,0,1
+"Morgan",21.575364081635,-104.899527615867,1000474,"Unknown","#null","#null","Morgan, NA, NA",0,0,1
+"Morganton Mutes",21.50951,-104.89569,1000438,"Unknown","#null","#null","Morganton Mutes, NA, NA",0,0,1
+"Morris Brown",21.50951,-104.89569,1000910,"Unknown","#null","#null","Morris Brown, NA, NA",0,0,1
+"Morris Field",21.50951,-104.89569,1000832,"Unknown","#null","#null","Morris Field, NA, NA",0,0,1
+"Morris Harvey",21.50951,-104.89569,1000490,"Unknown","#null","#null","Morris Harvey, NA, NA",0,0,1
+"Mount Airy Deaf School",21.50951,-104.89569,1000193,"Unknown","#null","#null","Mount Airy Deaf School, NA, NA",0,0,1
+"Mount Carmel All-Stars",21.50951,-104.89569,1000454,"Unknown","#null","#null","Mount Carmel All-Stars, NA, NA",0,0,1
+"Mount Hermon",54.39964,-128.60343,1000129,"Unknown","#null","#null","Mount Hermon, NA, NA",0,0,1
+"Mount Pleasant",11.42902,76.85923,1000497,"Unknown","#null","#null","Mount Pleasant, NA, NA",0,0,1
+"Mount St. Mary's",48.743552,-113.429081,1000203,"Unknown","#null","#null","Mount St. Mary's, NA, NA",0,0,1
+"Multnomah A.C.",21.517896241317,-104.911995727376,1000419,"Unknown","#null","#null","Multnomah A.C., NA, NA",0,0,1
+"Nashville",21.50951,-104.89569,1000040,"","#null","#null","Nashville, NA, NA",0,0,0
+"Navy Hospital Corps",21.50951,-104.89569,1000558,"Unknown","#null","#null","Navy Hospital Corps, NA, NA",0,0,1
+"Navy Reserves",21.50951,-104.89569,1000565,"Unknown","#null","#null","Navy Reserves, NA, NA",0,0,1
+"Navy Transport",19.839131,79.373866,1000604,"Unknown","#null","#null","Navy Transport, NA, NA",0,0,1
+"Nebraska Alumni",21.50951,-104.89569,1000245,"Unknown","#null","#null","Nebraska Alumni, NA, NA",0,0,1
+"Nebraska Wesleyan",40.7744351,-96.6753655,6845,"Prairie Wolves","#null","#null","Nebraska Wesleyan, NA, NA",0,0,0
+"Needham",21.50951,-104.89569,1000253,"Unknown","#null","#null","Needham, NA, NA",0,0,1
+"Newark A.C.",21.517896241317,-104.911995727376,1000231,"Unknown","#null","#null","Newark A.C., NA, NA",0,0,1
+"Newberry A.C.",21.517896241317,-104.911995727376,1000515,"Unknown","#null","#null","Newberry A.C., NA, NA",0,0,1
+"Newburyport A.C.",21.517896241317,-104.911995727376,1000275,"Unknown","#null","#null","Newburyport A.C., NA, NA",0,0,1
+"New England All-Stars",21.50951,-104.89569,1000523,"Unknown","#null","#null","New England All-Stars, NA, NA",0,0,1
+"New Jersey A.C.",21.517896241317,-104.911995727376,1000195,"Unknown","#null","#null","New Jersey A.C., NA, NA",0,0,1
+"New London Submarine Base",21.50951,-104.89569,1000837,"Unknown","#null","#null","New London Submarine Base, NA, NA",0,0,1
+"New Mexico Military",18.9586528,-99.5730487,1000737,"Unknown","#null","#null","New Mexico Military, NA, NA",0,0,1
+"New Mexico Tech",21.50951,-104.89569,1000746,"Unknown","#null","#null","New Mexico Tech, NA, NA",0,0,1
+"New Orleans Gym Club",21.50951,-104.89569,1000424,"Unknown","#null","#null","New Orleans Gym Club, NA, NA",0,0,1
+"Newport Navy",40.8439508,14.2311909,1000570,"Unknown","#null","#null","Newport Navy, NA, NA",0,0,1
+"Newport News",37.006187,-76.411298,1000759,"Unknown","#null","#null","Newport News, NA, NA",0,0,1
+"Newport NTS",40.8439508,14.2311909,1000602,"Unknown","#null","#null","Newport NTS, NA, NA",0,0,1
+"Newton A.C.",21.493338973161,-104.877448864395,1000164,"Unknown","#null","#null","Newton A.C., NA, NA",0,0,1
+"Newton High",21.50951,-104.89569,1000416,"Unknown","#null","#null","Newton High, NA, NA",0,0,1
+"Newtowne A.C.",21.517896241317,-104.911995727376,1000200,"Unknown","#null","#null","Newtowne A.C., NA, NA",0,0,1
+"New York A.C.",20.748946339012,-105.245637533499,1000106,"Unknown","#null","#null","New York A.C., NA, NA",0,0,1
+"New York Law",20.748946339012,-105.245637533499,1000116,"Unknown","#null","#null","New York Law, NA, NA",0,0,1
+"New York Naval Militia",21.50951,-104.89569,1000333,"Unknown","#null","#null","New York Naval Militia, NA, NA",0,0,1
+"New York State",21.802060111765,-104.855408283338,1000649,"Unknown","#null","#null","New York State, NA, NA",0,0,1
+"New York University",21.6999593,-104.0880309,1000041,"Violets","#null","#null","New York University, NA, NA",0,0,0
+"Niagara",40.8483266,14.2265547,1000402,"Unknown","#null","#null","Niagara, NA, NA",0,0,1
+"Norfolk A.C.",21.517896241317,-104.911995727376,1000356,"Unknown","#null","#null","Norfolk A.C., NA, NA",0,0,1
+"Norfolk Blues",21.50951,-104.89569,1000480,"Unknown","#null","#null","Norfolk Blues, NA, NA",0,0,1
+"Norfolk Fire Department",-11.98114,-76.83421,1000688,"Unknown","#null","#null","Norfolk Fire Department, NA, NA",0,0,1
+"Norfolk Marines",36.714739,-76.593547,1000811,"Unknown","#null","#null","Norfolk Marines, NA, NA",0,0,1
+"Norfolk Navy",21.50951,-104.89569,1000622,"Unknown","#null","#null","Norfolk Navy, NA, NA",0,0,1
+"Norfolk Navy Base",21.50951,-104.89569,1000642,"Unknown","#null","#null","Norfolk Navy Base, NA, NA",0,0,1
+"Norfolk Navy Yard",21.50951,-104.89569,1000639,"Unknown","#null","#null","Norfolk Navy Yard, NA, NA",0,0,1
+"Norman Naval Air Station",21.50951,-104.89569,1000042,"Zoomers","#null","#null","Norman Naval Air Station, NA, NA",0,0,0
+"Norman Park",17.736311,83.265299,1000444,"Unknown","#null","#null","Norman Park, NA, NA",0,0,1
+"North Alabama A.C.",34.4112012,-86.2741487,1000518,"Unknown","#null","#null","North Alabama A.C., NA, NA",0,0,1
+"North Carolina Medical",20.747845587669,-105.244338882735,1000434,"Unknown","#null","#null","North Carolina Medical, NA, NA",0,0,1
+"North Carolina Pre-Flight",20.747845587669,-105.244338882735,1000005,"Cloudbusters","#null","#null","North Carolina Pre-Flight, NA, NA",0,0,0
+"North Dakota Teachers",21.50951,-104.89569,1000754,"Unknown","#null","#null","North Dakota Teachers, NA, NA",0,0,1
+"North Denver High",7.2,15,1000310,"Unknown","#null","#null","North Denver High, NA, NA",0,0,1
+"North Division High",21.524059378248,-104.886110026189,1000237,"Unknown","#null","#null","North Division High, NA, NA",0,0,1
+"Northeastern",21.50951,-104.89569,111,"Huskies","#cc0001","#c2c3c0","Northeastern, NA, NA",0,0,0
+"Northeastern Oklahoma State",21.50951,-104.89569,1000698,"Unknown","#null","#null","Northeastern Oklahoma State, NA, NA",0,0,1
+"North Georgia",7.2,15,1000385,"Unknown","#null","#null","North Georgia, NA, NA",0,0,1
+"Northwest Division High",21.50951,-104.89569,1000210,"Unknown","#null","#null","Northwest Division High, NA, NA",0,0,1
+"Northwestern Academy",45.5414,-100.4493,1000187,"Unknown","#null","#null","Northwestern Academy, NA, NA",0,0,1
+"Northwestern Alumni",38.89867,-77.030898,1000205,"Unknown","#null","#null","Northwestern Alumni, NA, NA",0,0,1
+"Northwestern Dental",41.910544,-87.69241,1000221,"Unknown","#null","#null","Northwestern Dental, NA, NA",0,0,1
+"Northwestern (Wisconsin)",44.959942,-89.628185,1000392,"Unknown","#null","#null","Northwestern (Wisconsin), NA, NA",0,0,1
+"Notre Dame B",12.1393786,-15.3674209,1000747,"Unknown","#null","#null","Notre Dame B, NA, NA",0,0,1
+"Oak Ridge",17.409368,78.459161,1000282,"Unknown","#null","#null","Oak Ridge, NA, NA",0,0,1
+"Oceana NAS",21.81527703278,-105.196141945783,1000863,"Unknown","#null","#null","Oceana NAS, NA, NA",0,0,1
+"Ogden A.C.",21.517896241317,-104.911995727376,1000664,"Unknown","#null","#null","Ogden A.C., NA, NA",0,0,1
+"Ogden High",21.50951,-104.89569,1000411,"Unknown","#null","#null","Ogden High, NA, NA",0,0,1
+"Oglethorpe",21.50951,-104.89569,1000043,"Stormy Petrels","#null","#null","Oglethorpe, NA, NA",0,0,0
+"Ohio Am. Corp.",21.50951,-104.89569,1000554,"Unknown","#null","#null","Ohio Am. Corp., NA, NA",0,0,1
+"Ohio Medical",-10.947635,-37.086234,1000209,"Unknown","#null","#null","Ohio Medical, NA, NA",0,0,1
+"Oklahoma City",35.449705,-97.437765,1000457,"Unknown","#null","#null","Oklahoma City, NA, NA",0,0,1
+"Oklahoma Mines",21.50951,-104.89569,1000522,"Unknown","#null","#null","Oklahoma Mines, NA, NA",0,0,1
+"Oklahoma Teachers",21.50951,-104.89569,1000735,"Unknown","#null","#null","Oklahoma Teachers, NA, NA",0,0,1
+"Olathe Navy",21.50951,-104.89569,1000821,"Unknown","#null","#null","Olathe Navy, NA, NA",0,0,1
+"Olivet",40.67909,14.54752,1000153,"Unknown","#null","#null","Olivet, NA, NA",0,0,1
+"Olympic A.C.",21.6637938939,-105.19411856983,1000096,"Unknown","#null","#null","Olympic A.C., NA, NA",0,0,1
+"Olympic Club",11.1341513,76.0180799,1000536,"Unknown","#null","#null","Olympic Club, NA, NA",0,0,1
+"Omaha Balloon",21.50951,-104.89569,1000623,"Unknown","#null","#null","Omaha Balloon, NA, NA",0,0,1
+"Omaha Light Guards",21.50951,-104.89569,1000323,"Unknown","#null","#null","Omaha Light Guards, NA, NA",0,0,1
+"Onondaga",21.50951,-104.89569,1000286,"Unknown","#null","#null","Onondaga, NA, NA",0,0,1
+"Orange A.C.",21.517896241317,-104.911995727376,1000100,"Unknown","#null","#null","Orange A.C., NA, NA",0,0,1
+"Oregon College",21.50951,-104.89569,1000738,"Unknown","#null","#null","Oregon College, NA, NA",0,0,1
+"Oregon State Alumni",21.50951,-104.89569,1000538,"Unknown","#null","#null","Oregon State Alumni, NA, NA",0,0,1
+"Oregon Tech",21.50951,-104.89569,1000916,"Hustlin' Owls","#null","#null","Oregon Tech, NA, NA",0,0,0
+"Originals A.C.",21.517896241317,-104.911995727376,1000537,"Unknown","#null","#null","Originals A.C., NA, NA",0,0,1
+"Ottawa",-22.26667,18.41667,1000074,"Unknown","#null","#null","Ottawa, NA, NA",0,0,1
+"Ottumwa Pre-Flight",21.50951,-104.89569,1000805,"Unknown","#null","#null","Ottumwa Pre-Flight, NA, NA",0,0,1
+"Ouachita",39.15965392,140.46025614,1000436,"Unknown","#null","#null","Ouachita, NA, NA",0,0,1
+"Overland Station",39.44992,-117.71011,1000585,"Unknown","#null","#null","Overland Station, NA, NA",0,0,1
+"Ozarks",21.50951,-104.89569,1000715,"Unknown","#null","#null","Ozarks, NA, NA",0,0,1
+"Pacific",20.757002793207,-105.342010411748,1000044,"Tigers","#null","#null","Pacific, NA, NA",0,0,0
+"Pacific All-Stars",21.50951,-104.89569,1000796,"Unknown","#null","#null","Pacific All-Stars, NA, NA",0,0,1
+"Pacific Fleet",20.757002793207,-105.342010411748,1000657,"Unknown","#null","#null","Pacific Fleet, NA, NA",0,0,1
+"Pacific (Oregon)",20.856690085816,-104.428566090824,1000650,"Unknown","#null","#null","Pacific (Oregon), NA, NA",0,0,1
+"Pacific Submarines",21.50951,-104.89569,1000878,"Unknown","#null","#null","Pacific Submarines, NA, NA",0,0,1
+"Palmyra",28.479388,77.091255,1000097,"Unknown","#null","#null","Palmyra, NA, NA",0,0,1
+"Panora",-22.5652222,17.0837594,1000220,"Unknown","#null","#null","Panora, NA, NA",0,0,1
+"Park Field",40.1343,-75.1089,1000627,"Unknown","#null","#null","Park Field, NA, NA",0,0,1
+"Parris Island Marines",21.50951,-104.89569,1000456,"Unknown","#null","#null","Parris Island Marines, NA, NA",0,0,1
+"Parsons",21.491047454387,-104.852151002093,1000886,"Unknown","#null","#null","Parsons, NA, NA",0,0,1
+"Parsons (Iowa)",21.50951,-104.89569,1000482,"Unknown","#null","#null","Parsons (Iowa), NA, NA",0,0,1
+"Pastime A.C.",21.517896241317,-104.911995727376,1000143,"Unknown","#null","#null","Pastime A.C., NA, NA",0,0,1
+"Payne Field",42.2458499,-71.5735892,1000613,"Unknown","#null","#null","Payne Field, NA, NA",0,0,1
+"Pearl Harbor",11.654335,92.732384,1000673,"Unknown","#null","#null","Pearl Harbor, NA, NA",0,0,1
+"Pelham Bay Navy",47.93365,12.34245,1000593,"Unknown","#null","#null","Pelham Bay Navy, NA, NA",0,0,1
+"Penn Radio School",21.50951,-104.89569,1000587,"Unknown","#null","#null","Penn Radio School, NA, NA",0,0,1
+"Pennsylvania Alumni",21.50951,-104.89569,1000082,"Unknown","#null","#null","Pennsylvania Alumni, NA, NA",0,0,1
+"Pennsylvania College",41.803685,-77.07469,1000201,"Unknown","#null","#null","Pennsylvania College, NA, NA",0,0,1
+"Pennsylvania Military",40.4352,-76.5439,1000073,"Unknown","#null","#null","Pennsylvania Military, NA, NA",0,0,1
+"Pennsylvania Railroad YMCA",39.759947,-76.695236,1000367,"Unknown","#null","#null","Pennsylvania Railroad YMCA, NA, NA",0,0,1
+"Pennsylvania Reserves",40.1985,-75.4452,1000191,"Unknown","#null","#null","Pennsylvania Reserves, NA, NA",0,0,1
+"Pensacola A.C.",21.517896241317,-104.911995727376,1000366,"Unknown","#null","#null","Pensacola A.C., NA, NA",0,0,1
+"Pensacola NAS",30.3476968,-87.3144674,1000783,"Unknown","#null","#null","Pensacola NAS, NA, NA",0,0,1
+"Peoria Socials A.C.",21.50951,-104.89569,1000337,"Unknown","#null","#null","Peoria Socials A.C., NA, NA",0,0,1
+"Pepperdine",21.50951,-104.89569,1000867,"Unknown","#null","#null","Pepperdine, NA, NA",0,0,1
+"Peru State",21.802060111765,-104.855408283338,1000410,"Unknown","#null","#null","Peru State, NA, NA",0,0,1
+"Phialdelphia YMCA",-22.76667,17.3,1000214,"Unknown","#null","#null","Phialdelphia YMCA, NA, NA",0,0,1
+"Philadelphia A.C.",21.50951,-104.89569,1000270,"Unknown","#null","#null","Philadelphia A.C., NA, NA",0,0,1
+"Philadelphia All-Stars",21.50951,-104.89569,1000070,"Unknown","#null","#null","Philadelphia All-Stars, NA, NA",0,0,1
+"Philadelphia Naval Yard",21.50951,-104.89569,1000603,"Unknown","#null","#null","Philadelphia Naval Yard, NA, NA",0,0,1
+"Phillips",28.482326,77.097521,1000045,"Haymakers","#null","#null","Phillips, NA, NA",0,0,0
+"Phoenix A.C.",21.517896241317,-104.911995727376,1000198,"Unknown","#null","#null","Phoenix A.C., NA, NA",0,0,1
+"Phoenix All-Stars",21.50951,-104.89569,1000749,"Unknown","#null","#null","Phoenix All-Stars, NA, NA",0,0,1
+"Phoenix Indians",21.50951,-104.89569,1000234,"Unknown","#null","#null","Phoenix Indians, NA, NA",0,0,1
+"Physicians & Surgeons",21.50951,-104.89569,1000190,"Unknown","#null","#null","Physicians & Surgeons, NA, NA",0,0,1
+"Piedmont",21.50951,-104.89569,1000674,"Unknown","#null","#null","Piedmont, NA, NA",0,0,1
+"Pittsburgh A.C.",21.517896241317,-104.911995727376,1000133,"Unknown","#null","#null","Pittsburgh A.C., NA, NA",0,0,1
+"Pittsburgh Lyceum",21.50951,-104.89569,1000389,"Unknown","#null","#null","Pittsburgh Lyceum, NA, NA",0,0,1
+"Pittsfield A.C.",21.517896241317,-104.911995727376,1000177,"Unknown","#null","#null","Pittsfield A.C., NA, NA",0,0,1
+"Pleasanton Navy",21.50951,-104.89569,1000794,"Unknown","#null","#null","Pleasanton Navy, NA, NA",0,0,1
+"Pomona Ordinance Base",21.50951,-104.89569,1000807,"Unknown","#null","#null","Pomona Ordinance Base, NA, NA",0,0,1
+"Pontiac A.C.",21.517896241317,-104.911995727376,1000233,"Unknown","#null","#null","Pontiac A.C., NA, NA",0,0,1
+"Porter Military",21.50951,-104.89569,1000447,"Unknown","#null","#null","Porter Military, NA, NA",0,0,1
+"Portland",28.657615,77.302505,1000046,"Pilots","#null","#null","Portland, NA, NA",0,0,0
+"Portland A.C.",21.517896241317,-104.911995727376,1000218,"Unknown","#null","#null","Portland A.C., NA, NA",0,0,1
+"Port Royal",20.76064454427,-105.344244043969,1000450,"Unknown","#null","#null","Port Royal, NA, NA",0,0,1
+"Portsmouth Fleet",-23.1,16.41667,1000836,"Unknown","#null","#null","Portsmouth Fleet, NA, NA",0,0,1
+"Post Field",21.50951,-104.89569,1000611,"Unknown","#null","#null","Post Field, NA, NA",0,0,1
+"Prairie A.C.",21.517896241317,-104.911995727376,1000157,"Unknown","#null","#null","Prairie A.C., NA, NA",0,0,1
+"Presidio of San Francisco",37.799614,-122.467202,1000582,"Unknown","#null","#null","Presidio of San Francisco, NA, NA",0,0,1
+"Princeton A.C.",21.517896241317,-104.911995727376,1000114,"Unknown","#null","#null","Princeton A.C., NA, NA",0,0,1
+"Princeton Alumni",21.50951,-104.89569,1000077,"Unknown","#null","#null","Princeton Alumni, NA, NA",0,0,1
+"Princeton Seminary",40.345266,-74.663516,1000174,"Unknown","#null","#null","Princeton Seminary, NA, NA",0,0,1
+"Providence",22.643489171553,-105.323655558477,1000704,"Unknown","#null","#null","Providence, NA, NA",0,0,1
+"Pueblo High",21.50951,-104.89569,1000334,"Unknown","#null","#null","Pueblo High, NA, NA",0,0,1
+"Pueblo YMCA",21.50951,-104.89569,1000307,"Unknown","#null","#null","Pueblo YMCA, NA, NA",0,0,1
+"Purdue Alumni",21.50951,-104.89569,1000208,"Unknown","#null","#null","Purdue Alumni, NA, NA",0,0,1
+"Quantico Marines",21.225834695232,-104.746995990483,1000047,"Devil Dogs","#null","#null","Quantico Marines, NA, NA",0,0,0
+"Queen's",43.646173,-79.408337,1000918,"Unknown","#null","#null","Queen's, NA, NA",0,0,1
+"Quincy A.C.",21.517896241317,-104.911995727376,1000292,"Unknown","#null","#null","Quincy A.C., NA, NA",0,0,1
+"Randolph Field",36.60149,-82.19819,1000048,"Ramblers","#null","#null","Randolph Field, NA, NA",0,0,0
+"Ream Field",21.50951,-104.89569,1000586,"Unknown","#null","#null","Ream Field, NA, NA",0,0,1
+"Regis (CO)",39.787429,-105.043979,1000049,"Rangers","#null","#null","Regis (CO), NA, NA",0,0,0
+"Reina Mercedes",25.77077,-80.30549,1000531,"Unknown","#null","#null","Reina Mercedes, NA, NA",0,0,1
+"Reliance A.C.",21.517896241317,-104.911995727376,1000160,"Unknown","#null","#null","Reliance A.C., NA, NA",0,0,1
+"Richmond Blues",21.50951,-104.89569,1000533,"Unknown","#null","#null","Richmond Blues, NA, NA",0,0,1
+"Richmond Field",37.9182,-122.3319,1000791,"Unknown","#null","#null","Richmond Field, NA, NA",0,0,1
+"Ridgefield A.C.",21.517896241317,-104.911995727376,1000099,"Unknown","#null","#null","Ridgefield A.C., NA, NA",0,0,1
+"Riverside",-28.3345,18.06842,1000496,"Unknown","#null","#null","Riverside, NA, NA",0,0,1
+"Roanoke",21.50951,-104.89569,1000383,"Unknown","#null","#null","Roanoke, NA, NA",0,0,1
+"Rockford High",21.50951,-104.89569,1000343,"Unknown","#null","#null","Rockford High, NA, NA",0,0,1
+"Rockford YMCA",21.50951,-104.89569,1000256,"Unknown","#null","#null","Rockford YMCA, NA, NA",0,0,1
+"Rockhurst",21.50951,-104.89569,1000765,"Unknown","#null","#null","Rockhurst, NA, NA",0,0,1
+"Rock Island A.C.",21.517896241317,-104.911995727376,1000276,"Unknown","#null","#null","Rock Island A.C., NA, NA",0,0,1
+"Rollins",21.50951,-104.89569,1000669,"Unknown","#null","#null","Rollins, NA, NA",0,0,1
+"Rooks",38.065289,12.610191,1000647,"Unknown","#null","#null","Rooks, NA, NA",0,0,1
+"Rush Medical",26.60207,-80.15465,1000151,"Unknown","#null","#null","Rush Medical, NA, NA",0,0,1
+"Rusk",32.22214,72.92371,1000641,"Unknown","#null","#null","Rusk, NA, NA",0,0,1
+"Sacaton Indians",21.50951,-104.89569,1000733,"Unknown","#null","#null","Sacaton Indians, NA, NA",0,0,1
+"Sacred Heart (Wisconsin)",44.0133486,-88.5599773,1000238,"Unknown","#null","#null","Sacred Heart (Wisconsin), NA, NA",0,0,1
+"Saint Louis",46.73772,-92.14019,1000050,"Billikens","#null","#null","Saint Louis, NA, NA",0,0,0
+"Saint Mary's",21.50951,-104.89569,1000920,"Gaels","#null","#null","Saint Mary's, NA, NA",0,0,0
+"Saint Mary's (CA)",45.192396036,-62.170655241,1000051,"Gaels","#null","#null","Saint Mary's (CA), NA, NA",0,0,0
+"Saint Mary's (CA) Pre-Flight",45.192396036,-62.170655241,1000065,"Air Devils","#null","#null","Saint Mary's (CA) Pre-Flight, NA, NA",0,0,0
+"Salem",-22.68333,15.43333,1000930,"Unknown","#null","#null","Salem, NA, NA",0,0,1
+"Salem International",50.0134591,8.4499491,1000919,"Unknown","#null","#null","Salem International, NA, NA",0,0,1
+"Salt Lake Field",21.50951,-104.89569,1000799,"Unknown","#null","#null","Salt Lake Field, NA, NA",0,0,1
+"Salt Lake High",21.50951,-104.89569,1000414,"Unknown","#null","#null","Salt Lake High, NA, NA",0,0,1
+"Salt Lake YMCA",21.50951,-104.89569,1000161,"Unknown","#null","#null","Salt Lake YMCA, NA, NA",0,0,1
+"Sampson NTS",21.50951,-104.89569,1000792,"Unknown","#null","#null","Sampson NTS, NA, NA",0,0,1
+"San Diego Bombers (PCFL)",21.50951,-104.89569,1000820,"Unknown","#null","#null","San Diego Bombers (PCFL), NA, NA",0,0,1
+"San Diego Marines",20.693518629832,-105.290600834739,1000745,"Unknown","#null","#null","San Diego Marines, NA, NA",0,0,1
+"San Diego Navy",21.99441,-105.04278,1000801,"Unknown","#null","#null","San Diego Navy, NA, NA",0,0,1
+"San Francisco",22.288466,-104.49955,1000004,"Dons","#null","#null","San Francisco, NA, NA",0,0,0
+"San Francisco Clippers (AFL)",21.518141535664,-104.903084102928,1000843,"Unknown","#null","#null","San Francisco Clippers (AFL), NA, NA",0,0,1
+"San Francisco State",22.287101,-104.499666,1000888,"Unknown","#null","#null","San Francisco State, NA, NA",0,0,1
+"San Pedro A.C.",21.223222880916,-104.82773411782,1000875,"Unknown","#null","#null","San Pedro A.C., NA, NA",0,0,1
+"San Pedro Navy",21.1058016,-104.4281112,1000636,"Unknown","#null","#null","San Pedro Navy, NA, NA",0,0,1
+"Santa Ana Field",21.2389017,-104.9060184,1000788,"Unknown","#null","#null","Santa Ana Field, NA, NA",0,0,1
+"Santa Clara",22.0924951,-104.5245692,1000003,"Broncos","#null","#null","Santa Clara, NA, NA",0,0,0
+"Savannah A.C.",21.517896241317,-104.911995727376,1000335,"Unknown","#null","#null","Savannah A.C., NA, NA",0,0,1
+"S.B. Howard Park",21.50951,-104.89569,1000247,"Unknown","#null","#null","S.B. Howard Park, NA, NA",0,0,1
+"Schuylkill",21.50951,-104.89569,1000714,"Unknown","#null","#null","Schuylkill, NA, NA",0,0,1
+"Schuylkill Navy",21.50951,-104.89569,1000107,"Unknown","#null","#null","Schuylkill Navy, NA, NA",0,0,1
+"Scott Field",52.622346275,0.23785755,1000629,"Unknown","#null","#null","Scott Field, NA, NA",0,0,1
+"Scout Fleet",21.50951,-104.89569,1000703,"Unknown","#null","#null","Scout Fleet, NA, NA",0,0,1
+"Scranton",21.50951,-104.89569,1000725,"Unknown","#null","#null","Scranton, NA, NA",0,0,1
+"Seamen Gunners",21.50951,-104.89569,1000465,"Unknown","#null","#null","Seamen Gunners, NA, NA",0,0,1
+"Second Air Force",21.50951,-104.89569,1000053,"Superbombers","#null","#null","Second Air Force, NA, NA",0,0,0
+"Second Air Force (Colorado)",21.50951,-104.89569,1000813,"Unknown","#null","#null","Second Air Force (Colorado), NA, NA",0,0,1
+"Second Air Force (Washington)",38.895905118634,-77.003518904558,1000781,"Unknown","#null","#null","Second Air Force (Washington), NA, NA",0,0,1
+"Seton Hall",21.50951,-104.89569,1000081,"Unknown","#null","#null","Seton Hall, NA, NA",0,0,1
+"Sewanee Club (Virginia)",21.50951,-104.89569,1000655,"Unknown","#null","#null","Sewanee Club (Virginia), NA, NA",0,0,1
+"Sewanee Medical",20.915706,77.760811,1000461,"Unknown","#null","#null","Sewanee Medical, NA, NA",0,0,1
+"Shamokin",21.50951,-104.89569,1000225,"Unknown","#null","#null","Shamokin, NA, NA",0,0,1
+"Shattuck",21.50951,-104.89569,1000227,"Unknown","#null","#null","Shattuck, NA, NA",0,0,1
+"Sherman",32.06006,70.13887,1000340,"Unknown","#null","#null","Sherman, NA, NA",0,0,1
+"Shorter",34.257038,-85.1646726,2560,"Hawks","#null","#null","Shorter, Rome, GA",0,0,0
+"Shreveport A.C.",21.517896241317,-104.911995727376,1000357,"Unknown","#null","#null","Shreveport A.C., NA, NA",0,0,1
+"Shurtleff",21.50951,-104.89569,1000332,"Unknown","#null","#null","Shurtleff, NA, NA",0,0,1
+"Sioux City A.C.",21.50951,-104.89569,1000170,"Unknown","#null","#null","Sioux City A.C., NA, NA",0,0,1
+"Sioux Falls",43.5488256,-96.7307737,2894,"Cougars","#null","#null","Sioux Falls, Sioux Falls, SD",0,0,0
+"SMTS",21.50951,-104.89569,1000266,"Unknown","#null","#null","SMTS, NA, NA",0,0,1
+"Sonoma State",21.802060111765,-104.855408283338,1000898,"Unknown","#null","#null","Sonoma State, NA, NA",0,0,1
+"South Bend A.C.",21.517896241317,-104.911995727376,1000258,"Unknown","#null","#null","South Bend A.C., NA, NA",0,0,1
+"South Berwick",21.50951,-104.89569,1000168,"Unknown","#null","#null","South Berwick, NA, NA",0,0,1
+"South Denver High",21.50951,-104.89569,1000519,"Unknown","#null","#null","South Denver High, NA, NA",0,0,1
+"Southern California Alumni",41.07182,-122.35501,1000678,"Unknown","#null","#null","Southern California Alumni, NA, NA",0,0,1
+"Southern College",35.221476,-80.848149,1000686,"Unknown","#null","#null","Southern College, NA, NA",0,0,1
+"Southern Methodist Freshmen",21.50951,-104.89569,1000679,"Unknown","#null","#null","Southern Methodist Freshmen, NA, NA",0,0,1
+"Southern Military Academy",21.50951,-104.89569,1000659,"Unknown","#null","#null","Southern Military Academy, NA, NA",0,0,1
+"SOUTH FLORIDA STARS",20.749849577207,-105.24504908341,3198,"STARS","#000000","#null","SOUTH FLORIDA STARS, NA, NA",0,0,0
+"South Plains Field",21.50951,-104.89569,1000802,"Unknown","#null","#null","South Plains Field, NA, NA",0,0,1
+"South Side Academy",21.50951,-104.89569,1000229,"Unknown","#null","#null","South Side Academy, NA, NA",0,0,1
+"Southwestern (Kansas)",21.50951,-104.89569,1000493,"Unknown","#null","#null","Southwestern (Kansas), NA, NA",0,0,1
+"Southwestern University",30.6326942,-97.6772311,2588,"Pirates","#null","#ffcd00","Southwestern University, Georgetown, TX",0,0,0
+"Southwest State",21.50951,-104.89569,1000914,"Mustangs","#null","#null","Southwest State, NA, NA",0,0,0
+"Spence Field",42.568456,-88.1002707,1000786,"Unknown","#null","#null","Spence Field, NA, NA",0,0,1
+"Spring Hill",22.320462,73.197242,1000054,"Badgers","#null","#null","Spring Hill, NA, NA",0,0,0
+"Squantum NAS",21.50951,-104.89569,1000853,"Unknown","#null","#null","Squantum NAS, NA, NA",0,0,1
+"Staats A.C.",21.517896241317,-104.911995727376,1000503,"Unknown","#null","#null","Staats A.C., NA, NA",0,0,1
+"St. Albans",51.6653,-0.3994,1000290,"Unknown","#null","#null","St. Albans, NA, NA",0,0,1
+"Standifer Shipbuilders",21.50951,-104.89569,1000624,"Unknown","#null","#null","Standifer Shipbuilders, NA, NA",0,0,1
+"St. Benedict",-1.2534766,36.8564688,1000756,"Unknown","#null","#null","St. Benedict, NA, NA",0,0,1
+"St. Bonaventure",22.4998371,-105.4087534,1000462,"Unknown","#null","#null","St. Bonaventure, NA, NA",0,0,1
+"St. Edward's",21.50951,-104.89569,1000667,"Unknown","#null","#null","St. Edward's, NA, NA",0,0,1
+"Steelton YMCA",21.50951,-104.89569,1000279,"Unknown","#null","#null","Steelton YMCA, NA, NA",0,0,1
+"Sterling A.C.",21.517896241317,-104.911995727376,1000472,"Unknown","#null","#null","Sterling A.C., NA, NA",0,0,1
+"Stevens",21.50951,-104.89569,1000055,"Ducks","#null","#null","Stevens, NA, NA",0,0,0
+"Stevens Alumni",21.50951,-104.89569,1000071,"Unknown","#null","#null","Stevens Alumni, NA, NA",0,0,1
+"St. Helena NTS",21.50951,-104.89569,1000610,"Unknown","#null","#null","St. Helena NTS, NA, NA",0,0,1
+"Still",43.233558,13.632479,1000262,"Unknown","#null","#null","Still, NA, NA",0,0,1
+"St. John's M.A.",21.50951,-104.89569,1000146,"Unknown","#null","#null","St. John's M.A., NA, NA",0,0,1
+"St. John's (Maryland)",38.345957,-76.444396,1000113,"Unknown","#null","#null","St. John's (Maryland), NA, NA",0,0,1
+"St. Joseph's (Pennsylvania)",41.927853,-75.992421,1000617,"Unknown","#null","#null","St. Joseph's (Pennsylvania), NA, NA",0,0,1
+"St. Louis Alumni-Hawaii",21.50951,-104.89569,1000729,"Unknown","#null","#null","St. Louis Alumni-Hawaii, NA, NA",0,0,1
+"St. Mary's (Kansas)",39.194082,-96.071142,1000400,"Unknown","#null","#null","St. Mary's (Kansas), NA, NA",0,0,1
+"St. Mary's (Minnesota)",44.065537,-93.586949,1000734,"Unknown","#null","#null","St. Mary's (Minnesota), NA, NA",0,0,1
+"St. Mary's (Texas)",21.50951,-104.89569,1000498,"Unknown","#null","#null","St. Mary's (Texas), NA, NA",0,0,1
+"St. Paul",4.0581203,9.7677712,1000527,"Unknown","#null","#null","St. Paul, NA, NA",0,0,1
+"St. Paul Central High",36.4709,-93.5364,1000236,"Unknown","#null","#null","St. Paul Central High, NA, NA",0,0,1
+"St. Paul's (New Hampshire)",21.50951,-104.89569,1000274,"Unknown","#null","#null","St. Paul's (New Hampshire), NA, NA",0,0,1
+"Stroudsburg",21.50951,-104.89569,1000423,"Unknown","#null","#null","Stroudsburg, NA, NA",0,0,1
+"St. Steven's",21.50951,-104.89569,1000175,"Unknown","#null","#null","St. Steven's, NA, NA",0,0,1
+"St. Thomas",19.1680831,72.8498384,1000365,"Unknown","#null","#null","St. Thomas, NA, NA",0,0,1
+"St. Viator",21.50951,-104.89569,1000380,"Unknown","#null","#null","St. Viator, NA, NA",0,0,1
+"St. Vincent's (California)",38.029644,-122.534422,1000417,"Unknown","#null","#null","St. Vincent's (California), NA, NA",0,0,1
+"St. Vincent's (Pennsylvania)",21.50951,-104.89569,1000763,"Unknown","#null","#null","St. Vincent's (Pennsylvania), NA, NA",0,0,1
+"Superba A.C.",21.517896241317,-104.911995727376,1000426,"Unknown","#null","#null","Superba A.C., NA, NA",0,0,1
+"Swarthmore",-21.66667,14.25,1000002,"Garnet Tide","#null","#null","Swarthmore, NA, NA",0,0,0
+"Swarthmore Alumni",21.50951,-104.89569,1000103,"Unknown","#null","#null","Swarthmore Alumni, NA, NA",0,0,1
+"Syracuse A.C.",21.517896241317,-104.911995727376,1000118,"Unknown","#null","#null","Syracuse A.C., NA, NA",0,0,1
+"Syracuse Alumni",21.50951,-104.89569,1000272,"Unknown","#null","#null","Syracuse Alumni, NA, NA",0,0,1
+"Talladega",21.50951,-104.89569,1000680,"Unknown","#null","#null","Talladega, NA, NA",0,0,1
+"Tampa",19.41667,-72.08333,1000056,"Spartans","#null","#null","Tampa, NA, NA",0,0,0
+"Tampa A.C.",21.517896241317,-104.911995727376,1000504,"Unknown","#null","#null","Tampa A.C., NA, NA",0,0,1
+"Tarkio",21.50951,-104.89569,1000252,"Unknown","#null","#null","Tarkio, NA, NA",0,0,1
+"Taylor",-8.6282384,116.1127102,620,"Trojans","#null","#null","Taylor, NA, NA",0,0,0
+"Temperance A.C.",21.517896241317,-104.911995727376,1000121,"Unknown","#null","#null","Temperance A.C., NA, NA",0,0,1
+"Tennessee Deaf School",21.50951,-104.89569,1000381,"Unknown","#null","#null","Tennessee Deaf School, NA, NA",0,0,1
+"Tennessee Medical College",21.50951,-104.89569,1000057,"","#null","#null","Tennessee Medical College, NA, NA",0,0,0
+"Tennessee-Memphis",35.238796592149,-90.010194012079,1000301,"Unknown","#null","#null","Tennessee-Memphis, NA, NA",0,0,1
+"Tennessee Military",21.50951,-104.89569,1000413,"Unknown","#null","#null","Tennessee Military, NA, NA",0,0,1
+"Tennessee Wesleyan",35.362851,-84.559377,1000757,"Unknown","#null","#null","Tennessee Wesleyan, NA, NA",0,0,1
+"Texas A&M-Corpus Christi",21.50951,-104.89569,1000876,"Unknown","#null","#null","Texas A&M-Corpus Christi, NA, NA",0,0,1
+"Texas-Arlington",32.735594,-97.10711,1000058,"Mavericks","#null","#null","Texas-Arlington, NA, NA",0,0,0
+"Texas Deaf School",21.50951,-104.89569,1000322,"Unknown","#null","#null","Texas Deaf School, NA, NA",0,0,1
+"Texas Military",-2.8895022,-79.0128571,1000730,"Unknown","#null","#null","Texas Military, NA, NA",0,0,1
+"Thiel",31.8295972,-86.6177517,2644,"Tomcats","#null","#null","Thiel, Greenville, PA",0,0,0
+"Third Air Force",21.50951,-104.89569,1000901,"Unknown","#null","#null","Third Air Force, NA, NA",0,0,1
+"Tiffin",41.114485,-83.1779537,2838,"Dragons","#null","#null","Tiffin, Tiffin, OH",0,0,0
+"Tioga",-0.98333,34.45,1000088,"Unknown","#null","#null","Tioga, NA, NA",0,0,1
+"Toledo A.C.",21.468988655551,-104.884641379952,1000358,"Unknown","#null","#null","Toledo A.C., NA, NA",0,0,1
+"Tonkawa Preparatory",21.496823719567,-104.887770411906,1000521,"Unknown","#null","#null","Tonkawa Preparatory, NA, NA",0,0,1
+"Toronto All-Stars",21.50951,-104.89569,1000499,"Unknown","#null","#null","Toronto All-Stars, NA, NA",0,0,1
+"Toronto Argonauts",21.50951,-104.89569,1001014,"Toronto Argonauts","#null","#null","Toronto Argonauts, NA, NA",0,0,0
+"Transylvania",51.2825133,1.0835639,1000297,"Unknown","#null","#null","Transylvania, NA, NA",0,0,1
+"Trinity International (IL)",21.50951,-104.89569,2907,"Trojans","#null","#null","Trinity International (IL), NA, NA",0,0,0
+"Trinity (Texas)",30.9450715,-95.3751805,1000302,"Unknown","#null","#null","Trinity (Texas), NA, NA",0,0,1
+"Troy Laureates",21.50951,-104.89569,1000105,"Unknown","#null","#null","Troy Laureates, NA, NA",0,0,1
+"Tulane Alumni",21.50951,-104.89569,1000296,"Unknown","#null","#null","Tulane Alumni, NA, NA",0,0,1
+"Twin Cities Central High",36.4709,-93.5364,1000341,"Unknown","#null","#null","Twin Cities Central High, NA, NA",0,0,1
+"Twin Cities High",21.50951,-104.89569,1000370,"Unknown","#null","#null","Twin Cities High, NA, NA",0,0,1
+"UAY All-Stars",21.50951,-104.89569,1000731,"Unknown","#null","#null","UAY All-Stars, NA, NA",0,0,1
+"UC Riverside",-31.401675192,152.86098363,1000924,"Highlanders","#null","#null","UC Riverside, NA, NA",0,0,0
+"Union College",25.900758,90.608909,2841,"Dutchmen","#null","#null","Union College, NA, NA",0,0,0
+"Union (Tennessee)",35.013965,-84.811052,1000359,"Unknown","#null","#null","Union (Tennessee), NA, NA",0,0,1
+"University Club of Chicago",21.6999593,-104.0880309,1000126,"Unknown","#null","#null","University Club of Chicago, NA, NA",0,0,1
+"University of Mary",46.808327,-100.783739,559,"Marauders","#null","#null","University of Mary, Bismarck, ND",0,0,0
+"University of Mexico",21.4919,-104.8914,1000736,"Unknown","#null","#null","University of Mexico, NA, NA",0,0,1
+"Upsala",21.50951,-104.89569,1000764,"Unknown","#null","#null","Upsala, NA, NA",0,0,1
+"U.S. Amphibians",21.50951,-104.89569,1000864,"Unknown","#null","#null","U.S. Amphibians, NA, NA",0,0,1
+"U.S. International",34.102874433193,-117.26786974994,1000890,"Unknown","#null","#null","U.S. International, NA, NA",0,0,1
+"U.S. Marines",34.578776,-77.363293,1000595,"Unknown","#null","#null","U.S. Marines, NA, NA",0,0,1
+"US Recup. Company",21.50951,-104.89569,1000658,"Unknown","#null","#null","US Recup. Company, NA, NA",0,0,1
+"USS Boston",21.50951,-104.89569,1000648,"Unknown","#null","#null","USS Boston, NA, NA",0,0,1
+"USS Franklin",21.494222843391,-104.876428693861,1000455,"Unknown","#null","#null","USS Franklin, NA, NA",0,0,1
+"USS Idaho",21.50951,-104.89569,1000683,"Unknown","#null","#null","USS Idaho, NA, NA",0,0,1
+"USS Maryland",21.50951,-104.89569,1000700,"Unknown","#null","#null","USS Maryland, NA, NA",0,0,1
+"USS Mercy",21.45783,-104.90523,1000652,"Unknown","#null","#null","USS Mercy, NA, NA",0,0,1
+"USS Minnesota",21.50951,-104.89569,1000592,"Unknown","#null","#null","USS Minnesota, NA, NA",0,0,1
+"USS Mississippi",34.9551657,-88.3803039,1000676,"Unknown","#null","#null","USS Mississippi, NA, NA",0,0,1
+"USS New Mexico",21.50951,-104.89569,1000711,"Unknown","#null","#null","USS New Mexico, NA, NA",0,0,1
+"USS New York",20.748946339012,-105.245637533499,1000651,"Unknown","#null","#null","USS New York, NA, NA",0,0,1
+"USS Oklahoma",21.50951,-104.89569,1000708,"Unknown","#null","#null","USS Oklahoma, NA, NA",0,0,1
+"USS Tennessee",21.50951,-104.89569,1000722,"Unknown","#null","#null","USS Tennessee, NA, NA",0,0,1
+"USS Utah",21.50951,-104.89569,1000638,"Unknown","#null","#null","USS Utah, NA, NA",0,0,1
+"USS Washington",21.725531665946,-105.143997652989,1000397,"Unknown","#null","#null","USS Washington, NA, NA",0,0,1
+"Utah Alumni",21.50951,-104.89569,1000418,"Unknown","#null","#null","Utah Alumni, NA, NA",0,0,1
+"Utah Field Artillery",21.50951,-104.89569,1000561,"Unknown","#null","#null","Utah Field Artillery, NA, NA",0,0,1
+"Utah State Alumni",21.50951,-104.89569,1000501,"Unknown","#null","#null","Utah State Alumni, NA, NA",0,0,1
+"Vancouver Barracks",45.6395,-122.6596,1000560,"Unknown","#null","#null","Vancouver Barracks, NA, NA",0,0,1
+"Vanderbilt Alumni",21.50951,-104.89569,1000448,"Unknown","#null","#null","Vanderbilt Alumni, NA, NA",0,0,1
+"Vedado A.C.",21.517896241317,-104.911995727376,1000505,"Unknown","#null","#null","Vedado A.C., NA, NA",0,0,1
+"Vermont",43.890065,-72.215455,1000060,"Catamounts","#null","#null","Vermont, NA, NA",0,0,0
+"Vermont Methodist Seminary",21.50951,-104.89569,1000260,"Unknown","#null","#null","Vermont Methodist Seminary, NA, NA",0,0,1
+"Vicksburg A.C.",21.517896241317,-104.911995727376,1000494,"Unknown","#null","#null","Vicksburg A.C., NA, NA",0,0,1
+"Vigilant A.C.",21.517896241317,-104.911995727376,1000489,"Unknown","#null","#null","Vigilant A.C., NA, NA",0,0,1
+"Vincennes",21.50951,-104.89569,1000249,"Unknown","#null","#null","Vincennes, NA, NA",0,0,1
+"Vineland",21.50951,-104.89569,1000091,"Unknown","#null","#null","Vineland, NA, NA",0,0,1
+"Virginia Boat Club",21.50951,-104.89569,1000441,"Unknown","#null","#null","Virginia Boat Club, NA, NA",0,0,1
+"Virginia Medical",28.4669799,-16.2494637,1000487,"Unknown","#null","#null","Virginia Medical, NA, NA",0,0,1
+"Virginia Tech Alumni",21.50951,-104.89569,1000511,"Unknown","#null","#null","Virginia Tech Alumni, NA, NA",0,0,1
+"Virginia Union",37.5385087,-77.43428,2676,"Panthers","#null","#null","Virginia Union, Richmond, VA",0,0,0
+"Volunteer A.C.",21.517896241317,-104.911995727376,1000135,"Unknown","#null","#null","Volunteer A.C., NA, NA",0,0,1
+"Waco Field",21.50951,-104.89569,1000780,"Unknown","#null","#null","Waco Field, NA, NA",0,0,1
+"Wake Forest Freshmen",21.50951,-104.89569,1000665,"Unknown","#null","#null","Wake Forest Freshmen, NA, NA",0,0,1
+"Walton",28.420341,77.051582,1000222,"Unknown","#null","#null","Walton, NA, NA",0,0,1
+"Warrenton Preparatory",30.40523,-87.272426,1000425,"Unknown","#null","#null","Warrenton Preparatory, NA, NA",0,0,1
+"Washington Artillery",29.95715,-90.06229,1000563,"Unknown","#null","#null","Washington Artillery, NA, NA",0,0,1
+"Washington (Maryland)",39.46976,-76.8319,1000443,"Unknown","#null","#null","Washington (Maryland), NA, NA",0,0,1
+"Washington Redskins (NFL)",21.50951,-104.89569,1000812,"Unknown","#null","#null","Washington Redskins (NFL), NA, NA",0,0,1
+"Washington YMCA",42.039659,-92.91718,1000304,"Unknown","#null","#null","Washington YMCA, NA, NA",0,0,1
+"Waterton",21.50951,-104.89569,1000306,"Unknown","#null","#null","Waterton, NA, NA",0,0,1
+"Watertown",21.50951,-104.89569,1000327,"Unknown","#null","#null","Watertown, NA, NA",0,0,1
+"Waukegan High",21.50951,-104.89569,1000230,"Unknown","#null","#null","Waukegan High, NA, NA",0,0,1
+"Wayne State",21.802060111765,-104.855408283338,1000761,"Unknown","#null","#null","Wayne State, NA, NA",0,0,1
+"Welch Neck High",21.50951,-104.89569,1000324,"Unknown","#null","#null","Welch Neck High, NA, NA",0,0,1
+"Wendell Phillips High",21.50951,-104.89569,1000372,"Unknown","#null","#null","Wendell Phillips High, NA, NA",0,0,1
+"Wesley",35.362851,-84.559377,1000644,"Unknown","#null","#null","Wesley, NA, NA",0,0,1
+"Wesleyan (CT)",21.50951,-104.89569,1000061,"Cardinals","#null","#null","Wesleyan (CT), NA, NA",0,0,0
+"West Coast Army",21.50951,-104.89569,1000721,"Unknown","#null","#null","West Coast Army, NA, NA",0,0,1
+"West Coast Navy",21.50951,-104.89569,1000741,"Unknown","#null","#null","West Coast Navy, NA, NA",0,0,1
+"West Denver High",21.50951,-104.89569,1000308,"Unknown","#null","#null","West Denver High, NA, NA",0,0,1
+"West Division High",21.50951,-104.89569,1000219,"Unknown","#null","#null","West Division High, NA, NA",0,0,1
+"West End Amateurs",21.50951,-104.89569,1000453,"Unknown","#null","#null","West End Amateurs, NA, NA",0,0,1
+"Western (Iowa)",41.865285,-91.643232,1000223,"Unknown","#null","#null","Western (Iowa), NA, NA",0,0,1
+"Western Ontario",21.50951,-104.89569,1000907,"Mustangs","#null","#null","Western Ontario, NA, NA",0,0,0
+"Western Reserve",-29.7294556,151.7347212,1000169,"Unknown","#null","#null","Western Reserve, NA, NA",0,0,1
+"West Logan High",21.50951,-104.89569,1000541,"Unknown","#null","#null","West Logan High, NA, NA",0,0,1
+"Westminster (Missouri)",21.50951,-104.89569,1000384,"Unknown","#null","#null","Westminster (Missouri), NA, NA",0,0,1
+"Westminster (Pennsylvania)",42.080778,-80.141343,1000371,"Unknown","#null","#null","Westminster (Pennsylvania), NA, NA",0,0,1
+"West Seattle A.C.",21.517896241317,-104.911995727376,1000697,"Unknown","#null","#null","West Seattle A.C., NA, NA",0,0,1
+"West Texas Military",31.801013,-97.090041,1000405,"Unknown","#null","#null","West Texas Military, NA, NA",0,0,1
+"Wetumpka",21.50951,-104.89569,1000422,"Unknown","#null","#null","Wetumpka, NA, NA",0,0,1
+"Wheaton High",21.50951,-104.89569,1000181,"Unknown","#null","#null","Wheaton High, NA, NA",0,0,1
+"White Sands",15.67476,73.70787,1000877,"Unknown","#null","#null","White Sands, NA, NA",0,0,1
+"White Squadron",21.50951,-104.89569,1000196,"Unknown","#null","#null","White Squadron, NA, NA",0,0,1
+"Whitman",21.50951,-104.89569,1000062,"Missionaries","#null","#null","Whitman, NA, NA",0,0,0
+"Wichita State",21.802060111765,-104.855408283338,1000063,"Shockers","#null","#null","Wichita State, NA, NA",0,0,0
+"Williams Alumni",21.50951,-104.89569,1000346,"Unknown","#null","#null","Williams Alumni, NA, NA",0,0,1
+"Williams Field",39.4796998,-88.1777542,1000865,"Unknown","#null","#null","Williams Field, NA, NA",0,0,1
+"Williamsport",21.50951,-104.89569,1000199,"Unknown","#null","#null","Williamsport, NA, NA",0,0,1
+"Williston",21.50951,-104.89569,1000095,"Unknown","#null","#null","Williston, NA, NA",0,0,1
+"Wilmington",21.50951,-104.89569,1000693,"Unknown","#null","#null","Wilmington, NA, NA",0,0,1
+"Winchester",21.50951,-104.89569,1000484,"Unknown","#null","#null","Winchester, NA, NA",0,0,1
+"Wisconsin Alumni",21.50951,-104.89569,1000207,"Unknown","#null","#null","Wisconsin Alumni, NA, NA",0,0,1
+"Wisconsin Freshmen",21.50951,-104.89569,1000433,"Unknown","#null","#null","Wisconsin Freshmen, NA, NA",0,0,1
+"Wisconsin-Milwaukee",43.0389,-87.90647,1000892,"Unknown","#null","#null","Wisconsin-Milwaukee, NA, NA",0,0,1
+"Wisc. Stout",21.50951,-104.89569,1000904,"Unknown","#null","#null","Wisc. Stout, NA, NA",0,0,1
+"Wissahickon Barracks",21.50951,-104.89569,1000616,"Unknown","#null","#null","Wissahickon Barracks, NA, NA",0,0,1
+"Worcester A.C.",21.517896241317,-104.911995727376,1000183,"Unknown","#null","#null","Worcester A.C., NA, NA",0,0,1
+"Worcester Academy",42.2525816,-71.7910196,1000242,"Unknown","#null","#null","Worcester Academy, NA, NA",0,0,1
+"Wyoming Alumni",21.50951,-104.89569,1000475,"Unknown","#null","#null","Wyoming Alumni, NA, NA",0,0,1
+"Wyoming Faculty",21.50951,-104.89569,1000694,"Unknown","#null","#null","Wyoming Faculty, NA, NA",0,0,1
+"Wyoming Seminary",41.26313,-75.897934,1000098,"Unknown","#null","#null","Wyoming Seminary, NA, NA",0,0,1
+"Xavier",21.5238487,-104.8872516,1000064,"Musketeers","#null","#null","Xavier, NA, NA",0,0,0
+"Yale Alumni",21.50951,-104.89569,1000085,"Unknown","#null","#null","Yale Alumni, NA, NA",0,0,1
+"Yale Consolidated",46.868184,-102.789267,1000166,"Unknown","#null","#null","Yale Consolidated, NA, NA",0,0,1
+"Yale Freshmen",21.50951,-104.89569,1000141,"Unknown","#null","#null","Yale Freshmen, NA, NA",0,0,1
+"Yale/Princeton/Harvard Grads",21.50951,-104.89569,1000084,"Unknown","#null","#null","Yale/Princeton/Harvard Grads, NA, NA",0,0,1
+"YMI",21.50951,-104.89569,1000720,"Unknown","#null","#null","YMI, NA, NA",0,0,1
+"York YMCA",50.6810898,-3.2368699,1000197,"Unknown","#null","#null","York YMCA, NA, NA",0,0,1
+"Yuma Field",21.50951,-104.89569,1000810,"Unknown","#null","#null","Yuma Field, NA, NA",0,0,1

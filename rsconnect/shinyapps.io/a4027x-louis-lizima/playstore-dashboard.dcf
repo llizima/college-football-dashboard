@@ -1,0 +1,12 @@
+name: playstore-dashboard
+title: playstore-dashboard
+username: a4027x-louis-lizima
+account: a4027x-louis-lizima
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 14808035
+bundleId: 10325668
+url: https://a4027x-louis-lizima.shinyapps.io/playstore-dashboard/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
