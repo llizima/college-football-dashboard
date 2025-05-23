@@ -240,69 +240,80 @@ shinyServer(function(input, output, session) {
     ungroup()
   
   output$mapPlot <- renderLeaflet({
-    req(input$year)
-    teams_in_year <- games %>%
-      filter(year == input$year) %>%
-      select(homeTeam, awayTeam) %>%
-      unlist() %>%
-      unique() %>%
-      as.character()
+    # Start with all teams with valid lat/lon and conference
     teams_map <- teams %>%
-      filter(school %in% teams_in_year, !is.na(latitude), !is.na(longitude), !is.na(conference))
+      filter(!is.na(latitude), !is.na(longitude), !is.na(conference))
     
-    # Filter for either selected conference
-    confs <- c(input$conference, input$conference2)
-    confs <- confs[confs != "All"]
-    if (length(confs) > 0) {
-      teams_map <- teams_map %>% filter(conference %in% confs)
+    # Filter by conference (if not "All")
+    if (!is.null(input$conference) && input$conference != "All") {
+      teams_map <- teams_map %>% filter(conference == input$conference)
     }
     
-    # Group by lat/lon and create a popup with all schools at that location
-    teams_map_grouped <- teams_map %>%
-      group_by(latitude, longitude) %>%
-      summarise(
-        popup = htmltools::HTML(
-          paste0(
-            "<table style='font-size:14px; border-collapse:collapse;'>",
-            paste(
-              mapply(function(school, conference, capacity, address, dome, grass, mascot) {
-                paste0(
-                  "<tr><th colspan='2' style='text-align:center; background:#f2f2f2; padding:6px; border:1px solid #ddd;'><b>", school, "</b></th></tr>",
-                  "<tr><td style='padding:4px; border:1px solid #ddd;'><b>Conference:</b></td><td style='padding:4px; border:1px solid #ddd;'>", conference, "</td></tr>",
-                  "<tr><td style='padding:4px; border:1px solid #ddd;'><b>Capacity:</b></td><td style='padding:4px; border:1px solid #ddd;'>", ifelse(is.na(capacity), "N/A", capacity), "</td></tr>",
-                  "<tr><td style='padding:4px; border:1px solid #ddd;'><b>Address:</b></td><td style='padding:4px; border:1px solid #ddd;'>", address, "</td></tr>",
-                  "<tr><td style='padding:4px; border:1px solid #ddd;'><b>Dome:</b></td><td style='padding:4px; border:1px solid #ddd;'>", ifelse(is.na(dome), "N/A", ifelse(dome, "Yes", "No")), "</td></tr>",
-                  "<tr><td style='padding:4px; border:1px solid #ddd;'><b>Grass:</b></td><td style='padding:4px; border:1px solid #ddd;'>", ifelse(is.na(grass), "N/A", ifelse(grass, "Yes", "No")), "</td></tr>",
-                  "<tr><td style='padding:4px; border:1px solid #ddd;'><b>Mascot:</b></td><td style='padding:4px; border:1px solid #ddd;'>", mascot, "</td></tr>"
-                )
-              }, school, conference, capacity, address, dome, grass, mascot, SIMPLIFY = TRUE),
-              collapse = "<tr><td colspan='2' style='height:10px;'></td></tr>"
-            ),
-            "</table>"
-          )
-        ),
-        conference = first(conference),
-        .groups = 'drop'
-      )
-    
-    pal <- colorFactor(viridis::viridis(length(unique(teams$conference))), teams$conference)
-    
-    if (nrow(teams_map_grouped) == 0) {
-      leaflet() %>%
-        addTiles() %>%
-        setView(lng = -96, lat = 37.8, zoom = 4)
-    } else {
-      leaflet(teams_map_grouped) %>%
-        addTiles() %>%
-        addCircleMarkers(
-          lng = ~longitude,
-          lat = ~latitude,
-          color = ~pal(conference),
-          popup = ~popup,
-          fillOpacity = 0.9,
-          radius = 7
+    # Filter by elevation slider
+    if (!is.null(input$map_elevation)) {
+      teams_map <- teams_map %>%
+        filter(
+          !is.na(elevation),
+          elevation >= input$map_elevation[1],
+          elevation <= input$map_elevation[2]
         )
     }
+    
+    # Filter by capacity slider
+    if (!is.null(input$map_capacity)) {
+      teams_map <- teams_map %>%
+        filter(
+          !is.na(capacity),
+          capacity >= input$map_capacity[1],
+          capacity <= input$map_capacity[2]
+        )
+    }
+    
+    # Filter by win percentage slider (requires calculation)
+    if (!is.null(input$map_winrate)) {
+      # Calculate win percentage per team for the selected year
+      win_pct_df <- games %>%
+        filter(year == input$year) %>%
+        select(homeTeam, awayTeam, homePoints, awayPoints) %>%
+        mutate(
+          home_win = homePoints > awayPoints,
+          away_win = awayPoints > homePoints
+        ) %>%
+        pivot_longer(cols = c(homeTeam, awayTeam), names_to = "location", values_to = "team") %>%
+        mutate(win = ifelse(location == "homeTeam", home_win, away_win)) %>%
+        group_by(team) %>%
+        summarise(
+          games_played = n(),
+          wins = sum(win, na.rm = TRUE),
+          win_pct = ifelse(games_played > 0, wins / games_played, NA_real_),
+          .groups = "drop"
+        )
+      teams_map <- teams_map %>%
+        left_join(win_pct_df, by = c("school" = "team")) %>%
+        filter(!is.na(win_pct), win_pct * 100 >= input$map_winrate)
+    }
+    
+    # Use jittered columns if available
+    lat_col <- if ("latitude_jit" %in% names(teams_map)) "latitude_jit" else "latitude"
+    lon_col <- if ("longitude_jit" %in% names(teams_map)) "longitude_jit" else "longitude"
+    teams_map <- teams_map %>%
+      rename(lat = !!lat_col, lon = !!lon_col)
+    
+    # If no teams after filtering, show empty map
+    if (nrow(teams_map) == 0) {
+      return(leaflet() %>% addTiles())
+    }
+    
+    leaflet(teams_map) %>%
+      addTiles() %>%
+      addCircleMarkers(
+        lng = ~lon,
+        lat = ~lat,
+        popup = ~school,
+        color = ~pal(conference),
+        radius = 6,
+        fillOpacity = 0.8
+      )
   })
 
   # Pan/zoom to fit all teams in selected conference

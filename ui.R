@@ -90,6 +90,17 @@ dashboardPage(
           box(width = 12, title = "Map", status = "primary", solidHeader = TRUE,
               leafletOutput("mapPlot", height = 600)
           )
+        ),
+        fluidRow(
+          column(
+            width = 12,
+            sliderInput("map_elevation", "Stadium Elevation (meters)",
+                        min = 0, max = 2500, value = c(0, 2500), step = 10),
+            sliderInput("map_winrate", "Minimum Win Percentage (%)",
+                        min = 0, max = 100, value = 0, step = 1),
+            sliderInput("map_capacity", "Stadium Capacity",
+                        min = 0, max = 110000, value = c(0, 110000), step = 1000)
+          )
         )
       )
     )
