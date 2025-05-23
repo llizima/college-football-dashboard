@@ -9,9 +9,20 @@ library(scales)
 library(viridis)
 library(ggridges)
 library(cowplot)
+library(AzureStor)
 
 if (!require("randomcoloR")) install.packages("randomcoloR")
 library(randomcoloR)
+
+use_azure <- TRUE  # Set to FALSE to use local files
+
+if (use_azure) {
+  endpoint <- storage_endpoint(
+    "https://defaultresourcegrou89d2.blob.core.windows.net/",
+    key = Sys.getenv("AZURE_STORAGE_KEY")
+  )
+  container <- storage_container(endpoint, "app-package-florida-consumer-func-2025-116ee8e")
+}
 
 fbs_colors <- c(
   "#E41A1C", # red
@@ -33,13 +44,25 @@ fbs_colors <- c(
 )
 
 shinyServer(function(input, output, session) {
-  # Load cleaned data
-  teams <- read.csv("data/teams_geocoded.csv")  
-  games <- read.csv("data/games.csv")
-  recruiting <- read.csv("data/recruiting.csv")
-  rankings <- read.csv("data/rankings.csv")
-  sp <- read.csv("data/sp_ratings.csv")
-  talent <- read.csv("data/talent_data.csv")
+
+  # Define load_csv function FIRST
+  load_csv <- function(filename, use_azure = FALSE) {
+    if (use_azure) {
+      tmp <- tempfile(fileext = ".csv")
+      storage_download(container, filename, dest = tmp, overwrite = TRUE)
+      read.csv(tmp)
+    } else {
+      read.csv(file.path("data", filename))
+    }
+  }
+
+  # THEN use it to load your data
+  teams <- load_csv("teams_geocoded.csv", use_azure = use_azure)
+  games <- load_csv("games.csv", use_azure = use_azure)
+  recruiting <- load_csv("recruiting.csv", use_azure = use_azure)
+  rankings <- load_csv("rankings.csv", use_azure = use_azure)
+  sp <- load_csv("sp_ratings.csv", use_azure = use_azure)
+  talent <- load_csv("talent_data.csv", use_azure = use_azure)
   
   # Ensure talent has conference info
   if (!"conference" %in% colnames(talent)) {
